@@ -1,6 +1,25 @@
 1o Ano
 
+Fundamentos de Programação
+1o Projeto
+Testes automáticos: 16/16
+Avaliação manual: 3.44/4.00
+2o Projeto
+Testes automáticos: 16/16
+Avaliação manual: 3.25/4.00
 
+Lógica para Programção
+Testes automáticos: 16/16
+Avaliação manual: 3.8/4.0
+
+Introdução aos Algoritmos e Estruturas de Dados
+Testes automáticos: 15.5/16.0
+Avaliação manual: 4/4
+Teste prático: 20/20
+
+Introdução à Arquitetura de Computadores
+Entrega intermédia: 2/2
+Nota final: 7.5/8.0
 
 2o Ano
 
