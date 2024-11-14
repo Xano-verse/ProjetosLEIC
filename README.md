@@ -7,3 +7,7 @@
 - Introdução aos Algoritmos e Estruturas de Dados - C
 - Introdução à Arquitetura de Computadores - Assembly RISC-V 32-bits
 
+## 2º ano
+- Programação com Objectos - Java
+
+
