@@ -23,4 +23,11 @@ Nota final: 7.5/8.0
 
 2o Ano
 
+Programação com Objectos
+Entrega UML: 2.20/3.00
+Entrega intermédia: 5.02/6.00
+Entrega final: 9.33/11.00
+Teste prático: 20/20
+Nota final: 17.41/20.00
+
 
