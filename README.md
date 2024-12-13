@@ -9,5 +9,6 @@
 
 ## 2º ano
 - Programação com Objectos - Java
-
+- Análise e Síntese de Algoritmos - C++
+- Sistemas Operativos - C
 
