@@ -1,0 +1,3 @@
+Correr o test_generator.py (Demora algum tempo).
+Correr o speed_test.py (vai escrever os tempos e os parametros de cada teste no testes.txt)
+Correr o chart.py para mostrar o gráfico do Tempo em função de f(n,m,t) à escolha
