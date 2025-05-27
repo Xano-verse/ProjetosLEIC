@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Czestochowa,50.8,19.1167,Poland,PL,213107
+2,Monghyr,25.381,86.465,India,IN,213101
+3,Luton,51.8783,-0.4147,United Kingdom,GB,213052
+4,Chapra,25.7848,84.7274,India,IN,212955
+5,Sidi Bel Abbes,35.1939,-0.6414,Algeria,DZ,212935
+6,Zhubei,24.8333,121.0119,Taiwan,TW,212695
+7,Tumaco,1.8067,-78.7647,Colombia,CO,212692
+8,Trondheim,63.4297,10.3933,Norway,NO,212660
+9,Mallawi,27.7333,30.8333,Egypt,EG,212628
+10,Kure,34.2492,132.5658,Japan,JP,212159
+11,Kuje,8.8822,7.2203,Nigeria,NG,212100
+12,Bhadravati,13.8485,75.705,India,IN,212073
+13,Taito,35.7125,139.78,Japan,JP,212038
+14,`Aqrah,36.7414,43.8933,Iraq,IQ,212000
+15,Cao Lanh,10.4672,105.6303,Vietnam,VN,211912
+16,Guadalupe,22.7528,-102.5078,Mexico,MX,211740
+17,Mytishchi,55.9167,37.7667,Russia,RU,211606
+18,Xigujing,31.1731,121.2723,China,CN,211590
+19,Irakleio,35.3403,25.1344,Greece,GR,211370
+20,Criciuma,-28.6775,-49.3697,Brazil,BR,211369
+21,Panchkula,30.74,76.8,India,IN,211355
+22,Mirpur Bhtoro,24.73,68.25,Pakistan,PK,210959
+23,Burhanpur,21.3114,76.2289,India,IN,210891
+24,Olympia,47.0417,-122.8959,United States,US,210877
+25,Oberhausen,51.4967,6.8706,Germany,DE,210824
+26,Burgas,42.503,27.4702,Bulgaria,BG,210813
+27,Sobral,-3.6739,-40.2389,Brazil,BR,210711
+28,Clarksville,36.5692,-87.3413,United States,US,210551
+29,Trece Martires City,14.28,120.87,Philippines,PH,210503
+30,Gangneung,37.75,128.9,"Korea, South",KR,210456
+31,Pagadian,7.8272,123.4364,Philippines,PH,210452
+32,Quilicura,-33.3667,-70.7333,Chile,CL,210410
+33,Kiratot,32.8376,76.2296,India,IN,210406
+34,Linz,48.3058,14.2864,Austria,AT,210165
+35,Arroyo Naranjo,23.0436,-82.3328,Cuba,CU,210053
+36,Bukit Mertajam,5.3655,100.4607,Malaysia,MY,210000
+37,Dongning,44.1167,130.8167,China,CN,210000
+38,Richmond,49.1667,-123.1333,Canada,CA,209937
+39,Rostock,54.0833,12.1333,Germany,DE,209920
+40,Kapra,17.4859,78.5651,India,IN,209882
+41,Pskov,57.8167,28.3333,Russia,RU,209840
+42,Yonkers,40.9466,-73.8673,United States,US,209780
+43,Burutu,5.35,5.5167,Nigeria,NG,209666
+44,Mostoles,40.3333,-3.8667,Spain,ES,209639
+45,Moreno Valley,33.9244,-117.2045,United States,US,209578
+46,Thousand Oaks,34.1914,-118.8756,United States,US,209570
+47,Legazpi City,13.13,123.73,Philippines,PH,209533
+48,Portland,43.6773,-70.2715,United States,US,209491
+49,Fontana,34.0968,-117.4599,United States,US,209279
+50,Panabo,7.3,125.68,Philippines,PH,209230
+51,Puerto Cabello,10.4667,-68.0167,Venezuela,VE,209080
+52,Ich'on,37.2667,127.4333,"Korea, South",KR,209003
+53,Beersheba,31.2589,34.7997,Israel,IL,209000
+54,Bila Tserkva,49.7989,30.1153,Ukraine,UA,208944
+55,Santo Agostinho,-8.2897,-35.03,Brazil,BR,208944
+56,Oulu,65.0142,25.4719,Finland,FI,208939
+57,Luziania,-16.2528,-47.95,Brazil,BR,208725
+58,Ciputat,-6.3111,106.7619,Indonesia,ID,208722
+59,Guarenas,10.4667,-66.6167,Venezuela,VE,208663
+60,Mohammedia,33.6833,-7.3833,Morocco,MA,208612
+61,Babruysk,53.15,29.2333,Belarus,BY,208611
+62,Taisheng,23.2939,113.3531,China,CN,208589
+63,Sunyani,7.3333,-2.3333,Ghana,GH,208496
+64,Lubuklinggau,-3.2967,102.8617,Indonesia,ID,208225
+65,Ashaiman,5.7,-0.0333,Ghana,GH,208060
+66,Ambala,30.38,76.78,India,IN,207934
+67,Zamora,19.9833,-102.2833,Mexico,MX,207860
+68,Chungju,36.9667,127.95,"Korea, South",KR,207839
+69,Kasangati,0.4378,32.6025,Uganda,UG,207800
+70,Kharagpur,22.3302,87.3237,India,IN,207604
+71,Farshut,26.055,32.1639,Egypt,EG,207547
+72,Monywa,22.1083,95.1417,Burma,MM,207489
+73,Nishitokyo,35.7256,139.5383,Japan,JP,207436
+74,Robertsonpet,12.9563,78.2754,India,IN,207350
+75,Lyubertsy,55.6783,37.8944,Russia,RU,207349
+76,Dindigul,10.35,77.95,India,IN,207327
+77,Toledo,10.38,123.65,Philippines,PH,207314
+78,Milton Keynes,52.04,-0.76,United Kingdom,GB,207057
+79,Marawi City,8.0031,124.285,Philippines,PH,207010
+80,Morogoro,-6.8242,37.6633,Tanzania,TZ,207000

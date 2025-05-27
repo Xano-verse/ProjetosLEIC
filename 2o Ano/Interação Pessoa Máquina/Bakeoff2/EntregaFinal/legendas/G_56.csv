@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Arad,46.175,21.3125,Romania,RO,145078
+2,Fujita,34.8674,138.2577,Japan,JP,145032
+3,Le Mans,48.0077,0.1984,France,FR,145004
+4,Kisaran,2.9833,99.6125,Indonesia,ID,144996
+5,Khairpur Mir's,27.5333,68.7667,Pakistan,PK,144949
+6,Bukoba,-1.3333,31.8167,Tanzania,TZ,144938
+7,Kaithal,29.8015,76.3998,India,IN,144915
+8,Arayat,15.1493,120.7692,Philippines,PH,144875
+9,Poole,50.7167,-1.9833,United Kingdom,GB,144800
+10,Comayagua,14.4522,-87.6383,Honduras,HN,144785
+11,Yima,34.7469,111.875,China,CN,144779
+12,Moshi,-3.3349,37.3404,Tanzania,TZ,144739
+13,Saguenay,48.4167,-71.0667,Canada,CA,144723
+14,Urdaneta,15.9761,120.5711,Philippines,PH,144577
+15,Boca del Rio,19.1056,-96.1078,Mexico,MX,144550
+16,Odivelas,38.7903,-9.1797,Portugal,PT,144549
+17,Xintang,22.7833,113.15,China,CN,144537
+18,Barranca,-10.7541,-77.761,Peru,PE,144381
+19,Balasore,21.5033,86.925,India,IN,144373
+20,Guelph,43.55,-80.25,Canada,CA,144356
+21,Zhaxi,27.844,105.0451,China,CN,144259
+22,Mehtar Lam,34.6683,70.2089,Afghanistan,AF,144162
+23,Al Mukalla,14.5333,49.1333,Yemen,YE,144137
+24,Kolomna,55.0833,38.7833,Russia,RU,144125
+25,Dar Naim,18.0333,-15.9667,Mauritania,MR,144043
+26,Cinere,-6.3333,106.7833,Indonesia,ID,144038
+27,Pinetown,-29.8167,30.85,South Africa,ZA,144026
+28,Salamanca,40.965,-5.6642,Spain,ES,143954
+29,Asaka,35.7972,139.5939,Japan,JP,143915
+30,Ramu,3.9375,41.2203,Kenya,KE,143850
+31,Mallapalli,9.4461,76.6567,India,IN,143677
+32,Santa Maria,34.9333,-120.4431,United States,US,143647
+33,Kakamigahara,35.3988,136.8484,Japan,JP,143641
+34,Aalborg,57.05,9.9167,Denmark,DK,143598
+35,Koiridih,24.18,86.3,India,IN,143529
+36,Ciego de Avila,21.8481,-78.7631,Cuba,CU,143449
+37,Bandundu,-3.3167,17.3667,Congo (Kinshasa),CD,143435
+38,Disuq,31.1422,30.645,Egypt,EG,143404
+39,Calabayan,16.77,121.78,Philippines,PH,143403
+40,Coimbra,40.2028,-8.4139,Portugal,PT,143396
+41,Ghazni,33.5492,68.4233,Afghanistan,AF,143379
+42,Zhaoxiang,31.149,121.1962,China,CN,143350
+43,Ruse,43.8231,25.9539,Bulgaria,BG,143325
+44,Touggourt,33.1,6.0667,Algeria,DZ,143270
+45,Shillong,25.5822,91.8944,India,IN,143229
+46,Athens,33.9508,-83.3689,United States,US,143173
+47,Houma,29.58,-90.7059,United States,US,143160
+48,Cizre,37.332,42.187,Turkey,TR,143124
+49,Malasiqui,15.92,120.42,Philippines,PH,143094
+50,Lleida,41.6167,0.6333,Spain,ES,143094
+51,Sannar,13.55,33.5833,Sudan,SD,143059
+52,Los Angeles,-37.4667,-72.35,Chile,CL,143023
+53,Rewari,28.1833,76.6167,India,IN,143021
+54,Paghman,34.5833,68.95,Afghanistan,AF,143000
+55,Birkenhead,53.393,-3.014,United Kingdom,GB,142968
+56,Jinjiang,19.7386,110.0058,China,CN,142948
+57,Tinipuka,-4.55,136.89,Indonesia,ID,142909
+58,Cartago,4.7,-75.9167,Colombia,CO,142902
+59,Ashikaga,36.3402,139.4497,Japan,JP,142882
+60,Stara Zagora,42.4256,25.6344,Bulgaria,BG,142746
+61,Telford,52.6766,-2.4469,United Kingdom,GB,142723
+62,Nakhodka,42.8167,132.8667,Russia,RU,142673
+63,Columbia,38.9472,-92.3268,United States,US,142637
+64,Huelva,37.25,-6.95,Spain,ES,142532
+65,Garanhuns,-8.8903,-36.4928,Brazil,BR,142506
+66,Hazaribagh,23.98,85.35,India,IN,142489
+67,Moundou,8.5667,16.0833,Chad,TD,142462
+68,Trindade,-16.6492,-49.495,Brazil,BR,142431
+69,Nizip,37.01,37.7972,Turkey,TR,142389
+70,Nawabganj,24.6,88.2667,Bangladesh,BD,142361
+71,Toda,35.8176,139.6779,Japan,JP,142352
+72,Fullerton,33.8841,-117.9279,United States,US,142280
+73,Lichinga,-13.3167,35.2333,Mozambique,MZ,142253
+74,Settat,33,-7.6167,Morocco,MA,142250
+75,Bafra,41.5722,35.9147,Turkey,TR,142190
+76,Bhimavaram,16.543,81.523,India,IN,142184
+77,Negombo,7.2111,79.8386,Sri Lanka,LK,142136
+78,Olathe,38.8833,-94.82,United States,US,142114
+79,Okinawa,26.3342,127.8056,Japan,JP,142094
+80,Namacunde,-17.3,15.85,Angola,AO,142047

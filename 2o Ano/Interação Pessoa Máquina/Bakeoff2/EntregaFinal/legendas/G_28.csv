@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Nantes,47.2181,-1.5528,France,FR,323204
+2,Vaughan,43.8333,-79.5,Canada,CA,323103
+3,Kaiyuan,23.7111,103.2461,China,CN,323031
+4,Vitoria,-20.2889,-40.3083,Brazil,BR,322869
+5,Shimoga,13.9333,75.5667,India,IN,322650
+6,Lansing,42.7142,-84.5601,United States,US,322561
+7,Uige,-7.6167,15.05,Angola,AO,322531
+8,Hotan,37.1167,79.9167,China,CN,322300
+9,Camaguey,21.3839,-77.9075,Cuba,CU,321992
+10,Taourirt,34.4169,-2.885,Morocco,MA,321876
+11,San Salvador de Jujuy,-24.1833,-65.3,Argentina,AR,321789
+12,Kashipur,29.22,78.95,India,IN,321623
+13,Thu Dau Mot,10.9667,106.65,Vietnam,VN,321607
+14,Al Kut,32.4907,45.8304,Iraq,IQ,321521
+15,Lexington,38.0423,-84.4587,United States,US,321276
+16,Sukabumi,-6.9181,106.9315,Indonesia,ID,320970
+17,Munster,51.9625,7.6256,Germany,DE,320946
+18,Menongue,-14.6556,17.6842,Angola,AO,320914
+19,Mobile,30.6782,-88.1162,United States,US,320855
+20,Gode,5.9527,43.5516,Ethiopia,ET,320782
+21,Okene,7.55,6.2333,Nigeria,NG,320260
+22,Junagadh,21.5222,70.4579,India,IN,320250
+23,Smolensk,54.7828,32.0453,Russia,RU,320170
+24,Guasavito,25.5744,-108.4706,Mexico,MX,320000
+25,Asan,36.35,126.9167,"Korea, South",KR,319929
+26,Nukus,42.4667,59.6,Uzbekistan,UZ,319583
+27,Kaech'on,39.6986,125.9061,"Korea, North",KP,319554
+28,Tehuacan,18.4617,-97.3928,Mexico,MX,319375
+29,Coatzacoalcos,18.15,-94.4333,Mexico,MX,319187
+30,Muhanga,-2.0845,29.7527,Rwanda,RW,319141
+31,Youngstown,41.0993,-80.6463,United States,US,319065
+32,Zalantun,48.027,122.708,China,CN,318933
+33,Saransk,54.1833,45.1833,Russia,RU,318841
+34,Katsina,12.9889,7.6008,Nigeria,NG,318459
+35,Puerto Plata,19.8,-70.6833,Dominican Republic,DO,318419
+36,Henderson,36.0133,-115.0381,United States,US,318063
+37,Gwangmyeongni,37.476,126.866,"Korea, South",KR,318021
+38,Geita,-2.8714,32.2294,Tanzania,TZ,318006
+39,Cherepovets,59.1167,37.9,Russia,RU,317970
+40,Taubate,-23.025,-45.5556,Brazil,BR,317915
+41,An Nhon,13.917,109.083,Vietnam,VN,317620
+42,Fontibon,4.6786,-74.1411,Colombia,CO,317179
+43,Hapur,28.7309,77.7757,India,IN,317004
+44,Kot Radha Kishan,31.1725,74.0997,Pakistan,PK,317000
+45,Barueri,-23.5111,-46.8764,Brazil,BR,316473
+46,San Salvador,13.6989,-89.1914,El Salvador,SV,316090
+47,Savannah,32.0286,-81.1821,United States,US,316050
+48,Naha,26.2122,127.6792,Japan,JP,316048
+49,Bari,41.1253,16.8667,Italy,IT,316015
+50,Xiaoli,22.6721,113.2509,China,CN,315820
+51,Trichur,10.5276,76.2144,India,IN,315596
+52,Mannheim,49.4878,8.4661,Germany,DE,315554
+53,Bor,6.2125,31.5608,South Sudan,SS,315351
+54,Ca Mau,9.1833,105.15,Vietnam,VN,315270
+55,Saint-Denis,-20.8789,55.4481,Reunion,RE,315080
+56,San Miguelito,9.033,-79.5,Panama,PA,315019
+57,Muar,2.05,102.5667,Malaysia,MY,314776
+58,Kasur,31.1167,74.45,Pakistan,PK,314617
+59,Usme,4.4464,-74.1522,Colombia,CO,314431
+60,Barddhaman,23.2333,87.8667,India,IN,314265
+61,Poughkeepsie,41.695,-73.9211,United States,US,314159
+62,Kingston upon Hull,53.7444,-0.3325,United Kingdom,GB,314018
+63,Binangonan,14.4514,121.1919,Philippines,PH,313631
+64,Temara,33.9267,-6.9122,Morocco,MA,313510
+65,Attiecoube,5.3333,-4.0333,Côte d’Ivoire,CI,313135
+66,Jiayuguan,39.7732,98.2882,China,CN,312663
+67,Pasir Gudang,1.5028,103.9356,Malaysia,MY,312499
+68,Vologda,59.2167,39.9,Russia,RU,312420
+69,Gorgan,36.8378,54.4414,Iran,IR,312223
+70,Tanza,14.3944,120.8531,Philippines,PH,312116
+71,Yakutsk,62.03,129.73,Russia,RU,311760
+72,Panvel,18.9944,73.1139,India,IN,311434
+73,Santa Ana,33.7367,-117.8819,United States,US,311379
+74,Guaruja,-23.9936,-46.2564,Brazil,BR,311230
+75,Nizamabad,18.672,78.094,India,IN,311152
+76,Quy Nhon,13.7667,109.2333,Vietnam,VN,311000
+77,Ha'il,27.5167,41.6833,Saudi Arabia,SA,310897
+78,Datang,22.9406,113.9436,China,CN,310889
+79,Longquan,25.9106,114.786,China,CN,310700
+80,Mitchells Plain,-34.0506,18.6181,South Africa,ZA,310485

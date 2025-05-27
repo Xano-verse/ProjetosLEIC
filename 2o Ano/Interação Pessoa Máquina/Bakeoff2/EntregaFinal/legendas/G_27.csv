@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Bonn,50.7333,7.1,Germany,DE,336465
+2,Iwaki,37.0505,140.8877,Japan,JP,336111
+3,Oshawa,43.9,-78.85,Canada,CA,335949
+4,Shah Latif Town,24.8806,67.1625,Pakistan,PK,335823
+5,Sambalpur,21.47,83.97,India,IN,335761
+6,Fort Collins,40.5477,-105.0656,United States,US,335398
+7,Jackson,32.3157,-90.2125,United States,US,335171
+8,Yingzhong,32.237,119.815,China,CN,334977
+9,Santo Domingo de los Colorados,-0.2542,-79.1719,Ecuador,EC,334826
+10,Uruapan,19.4208,-102.0628,Mexico,MX,334749
+11,Lublin,51.25,22.5667,Poland,PL,334681
+12,Licheng,24.5,110.4,China,CN,334527
+13,Tampere,61.4981,23.76,Finland,FI,334112
+14,Belgorod,50.6,36.6,Russia,RU,333931
+15,Muzaffarpur,26.1225,85.3906,India,IN,333200
+16,Vina del Mar,-33.0244,-71.5517,Chile,CL,332875
+17,Tepic,21.5083,-104.8931,Mexico,MX,332863
+18,Khipro,25.823,69.377,Pakistan,PK,332833
+19,Hangu,39.232,117.777,China,CN,332793
+20,Asan,36.7833,126.9833,"Korea, South",KR,332790
+21,Chak Jhumra,31.5667,73.1833,Pakistan,PK,332461
+22,Myrtle Beach,33.7094,-78.8844,United States,US,332181
+23,Soledad de Graciano Sanchez,22.1833,-100.9333,Mexico,MX,332072
+24,Salalah,17.0197,54.0897,Oman,OM,331949
+25,Santarem,-2.43,-54.72,Brazil,BR,331937
+26,Yanbu,24.0883,38.0582,Saudi Arabia,SA,331916
+27,Maebashi,36.3895,139.0634,Japan,JP,331849
+28,Kaluga,54.55,36.2833,Russia,RU,331842
+29,Dumai,1.6667,101.45,Indonesia,ID,331832
+30,Beylikduzu,41.0011,28.6419,Turkey,TR,331525
+31,Ganca,40.6828,46.3606,Azerbaijan,AZ,331400
+32,Asahikawa,43.7667,142.3667,Japan,JP,331392
+33,Kendari,-3.9907,122.5086,Indonesia,ID,331013
+34,Wonju,37.3417,127.9208,"Korea, South",KR,330854
+35,Birkat as Sab`,30.6338,31.0848,Egypt,EG,330847
+36,Lafia,8.4917,8.5167,Nigeria,NG,330712
+37,Dahuk,36.8667,43,Iraq,IQ,330600
+38,Finglas,53.4597,-6.2181,Ireland,IE,330506
+39,Kamarhati,22.6686,88.3704,India,IN,330211
+40,Thai Nguyen,21.6,105.85,Vietnam,VN,330000
+41,Bamiantong,44.9167,130.5167,China,CN,330000
+42,Nicosia,35.1725,33.365,Cyprus,CY,330000
+43,Sao Vicente,-23.9633,-46.3922,Brazil,BR,329844
+44,Ribeirao das Neves,-19.7669,-44.0869,Brazil,BR,329794
+45,Guediawaye,14.7833,-17.4,Senegal,SN,329659
+46,Ciudad Obregon,27.4939,-109.9389,Mexico,MX,329404
+47,Sao Jose dos Pinhais,-25.535,-49.2058,Brazil,BR,329222
+48,Campiernagar,27.029,83.2668,India,IN,329104
+49,Phatthaya,12.9357,100.889,Thailand,TH,328961
+50,Fayetteville,35.085,-78.9772,United States,US,328804
+51,Debrecen,47.53,21.6392,Hungary,HU,328642
+52,Mirpur Mathelo,28.0167,69.5333,Pakistan,PK,327821
+53,Sultanbeyli,40.9683,29.2617,Turkey,TR,327798
+54,Bijapur,16.83,75.71,India,IN,327427
+55,Cabanatuan City,15.4908,120.9678,Philippines,PH,327325
+56,Tharad,24.3926,71.6248,India,IN,327289
+57,Antioch,37.9787,-121.796,United States,US,327216
+58,Si Racha,13.174,100.93,Thailand,TH,327172
+59,Salamanca,20.5703,-101.1972,Mexico,MX,327169
+60,Ratnagiri,16.9944,73.3,India,IN,327120
+61,Ulanhot,46.0722,122.0933,China,CN,327081
+62,Koriyama,37.4004,140.3597,Japan,JP,327040
+63,Yunzhong,39.8279,113.1,China,CN,326849
+64,Roodepoort,-26.1625,27.8725,South Africa,ZA,326416
+65,Volzhskiy,48.8056,44.7417,Russia,RU,326055
+66,Pucallpa,-8.3833,-74.55,Peru,PE,326040
+67,San Pedro,14.3583,121.0583,Philippines,PH,326001
+68,Pelotas,-31.7719,-52.3425,Brazil,BR,325689
+69,Kochi,33.5589,133.5314,Japan,JP,325535
+70,Rampur,28.8,79,India,IN,325248
+71,Kuching,1.5575,110.3439,Malaysia,MY,325132
+72,Cotabato,7.22,124.25,Philippines,PH,325079
+73,Cimanggis,-6.3645,106.8591,Indonesia,ID,324343
+74,Gonaives,19.4456,-72.6883,Haiti,HT,324043
+75,Nazret,8.5414,39.2689,Ethiopia,ET,324000
+76,Kikuyu,-1.25,36.6667,Kenya,KE,323881
+77,Cordoba,37.8845,-4.7796,Spain,ES,323763
+78,Kluang,2.0336,103.3194,Malaysia,MY,323762
+79,Mekele,13.4969,39.4769,Ethiopia,ET,323700
+80,Binxian,35.0542,108.0814,China,CN,323256

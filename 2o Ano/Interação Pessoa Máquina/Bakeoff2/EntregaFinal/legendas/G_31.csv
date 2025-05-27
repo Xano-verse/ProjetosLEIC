@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Tacna,-18.0147,-70.2489,Peru,PE,286240
+2,Tin Shui Wai,22.46,114.002,Hong Kong,HK,286232
+3,Juazeiro do Norte,-7.2,-39.3333,Brazil,BR,286120
+4,Al Qurnah,31.0158,47.4306,Iraq,IQ,286073
+5,Korhogo,9.4167,-5.6167,Côte d’Ivoire,CI,286071
+6,Bhatinda,30.23,74.9519,India,IN,285813
+7,Katowice,50.2625,19.0217,Poland,PL,285711
+8,Jalna,19.8333,75.8833,India,IN,285577
+9,Foz do Iguacu,-25.54,-54.5875,Brazil,BR,285415
+10,Bolton,53.578,-2.429,United Kingdom,GB,285372
+11,San Pablo,14.07,121.325,Philippines,PH,285348
+12,Huixquilucan,19.3611,-99.3508,Mexico,MX,284965
+13,Plano,33.0502,-96.7486,United States,US,284948
+14,Qillin,31.0464,30.8546,Egypt,EG,284853
+15,Croix-des-Bouquets,18.5761,-72.2269,Haiti,HT,284812
+16,San Juan Sacatepequez,14.7189,-90.6442,Guatemala,GT,284798
+17,Ljubljana,46.0514,14.5061,Slovenia,SI,284293
+18,Fukushima,37.7608,140.4747,Japan,JP,284282
+19,Bago,17.3333,96.4833,Burma,MM,284179
+20,Delmas,18.55,-72.3,Haiti,HT,284079
+21,Fuquan,26.6863,107.5204,China,CN,283904
+22,Ibaraki,34.8164,135.5686,Japan,JP,283835
+23,Shreveport,32.4653,-93.7955,United States,US,283536
+24,Ostrava,49.8356,18.2925,Czechia,CZ,283504
+25,Poltava,49.5894,34.5514,Ukraine,UA,283402
+26,Wiesbaden,50.0825,8.24,Germany,DE,283083
+27,Satna,24.6005,80.8322,India,IN,283004
+28,Sannai,24.1582,80.751,India,IN,283004
+29,Huozhou,36.569,111.7551,China,CN,282905
+30,Temuco,-38.7333,-72.6667,Chile,CL,282415
+31,Ica,-14.0667,-75.7333,Peru,PE,282407
+32,Tongchuanshi,35.08,109.03,China,CN,282258
+33,Jining,41.03,113.08,China,CN,281716
+34,Chuncheon,37.8667,127.7333,"Korea, South",KR,281596
+35,Sakarya,40.7833,30.4,Turkey,TR,281489
+36,Inegol,40.0806,29.5097,Turkey,TR,281384
+37,Kaura Namoda,12.6,6.5897,Nigeria,NG,281367
+38,Davenport,41.5565,-90.6053,United States,US,281333
+39,Malard,35.6806,50.9783,Iran,IR,281027
+40,Lubbock,33.5657,-101.8879,United States,US,280890
+41,Lakeland,28.0557,-81.9545,United States,US,280346
+42,Sterlitamak,53.6333,55.95,Russia,RU,280233
+43,Bukhara,39.7667,64.4231,Uzbekistan,UZ,280187
+44,Santa Ana,13.995,-89.5561,El Salvador,SV,280000
+45,Sumbe,-11.2053,13.8417,Angola,AO,279968
+46,Mingaora,34.7717,72.36,Pakistan,PK,279914
+47,Corlu,41.15,27.8,Turkey,TR,279251
+48,Kherson,46.6425,32.625,Ukraine,UA,279131
+49,Lucena,13.93,121.62,Philippines,PH,278924
+50,Petropolis,-22.505,-43.1789,Brazil,BR,278881
+51,Mamuju,-2.6833,118.9,Indonesia,ID,278764
+52,Mau,25.9417,83.5611,India,IN,278745
+53,Nizhnevartovsk,60.95,76.6,Russia,RU,278725
+54,Long Xuyen,10.3736,105.4458,Vietnam,VN,278658
+55,Petrozavodsk,61.7833,34.3333,Russia,RU,278551
+56,Gyeongsan,35.8167,128.7333,"Korea, South",KR,278500
+57,Barasat,22.72,88.48,India,IN,278435
+58,South Bend,41.6767,-86.2696,United States,US,278061
+59,Pematangsiantar,2.96,99.06,Indonesia,ID,278055
+60,Maastricht,50.85,5.6833,Netherlands,NL,277721
+61,Viet Tri,21.3,105.4333,Vietnam,VN,277539
+62,Sunderland,54.906,-1.381,United Kingdom,GB,277417
+63,Kostroma,57.7681,40.9269,Russia,RU,277393
+64,Gagnoa,6.1333,-5.9333,Côte d’Ivoire,CI,277044
+65,Xingsha,28.2573,113.1234,China,CN,277034
+66,Dire Dawa,9.6,41.8667,Ethiopia,ET,277000
+67,Lashkar Gah,31.5831,64.3692,Afghanistan,AF,276831
+68,Itagui,6.1667,-75.6167,Colombia,CO,276744
+69,Juliaca,-15.4833,-70.1333,Peru,PE,276110
+70,Chula Vista,32.6281,-117.0144,United States,US,276103
+71,Posadas,-27.3667,-55.9,Argentina,AR,275988
+72,Farrukhabad,27.39,79.581,India,IN,275754
+73,Chandler,33.2825,-111.8514,United States,US,275618
+74,Kunsan,35.9833,126.7167,"Korea, South",KR,275155
+75,Yeosu,34.7333,127.7333,"Korea, South",KR,274917
+76,Qarshi,38.8667,65.8,Uzbekistan,UZ,274891
+77,Saugor,23.83,78.71,India,IN,274556
+78,Khmelnytskyi,49.4167,27,Ukraine,UA,274452
+79,Nassau,25.0781,-77.3386,"Bahamas, The",BS,274400
+80,Ratlam,23.334,75.037,India,IN,273892

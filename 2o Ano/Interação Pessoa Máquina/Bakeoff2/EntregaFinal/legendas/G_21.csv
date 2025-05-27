@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Reno,39.5497,-119.8483,United States,US,457702
+2,Kurnool,15.83,78.05,India,IN,457633
+3,Spokane,47.6671,-117.433,United States,US,456219
+4,Marikina City,14.65,121.1,Philippines,PH,456059
+5,Jian'ou,27.0333,118.3167,China,CN,456000
+6,Huadian,42.972,126.746,China,CN,455339
+7,Melaka,2.1944,102.2486,Malaysia,MY,455300
+8,Manado,1.4931,124.8413,Indonesia,ID,454606
+9,Manizales,5.1,-75.55,Colombia,CO,454494
+10,Bornova,38.4697,27.2211,Turkey,TR,454470
+11,Minzhu,43.7238,127.3448,China,CN,453265
+12,Demiryol,37.887,41.132,Turkey,TR,452157
+13,Erkoklu,37.887,41.132,Turkey,TR,452157
+14,Kota Kinabalu,5.975,116.0725,Malaysia,MY,452058
+15,Katsushika-ku,35.7333,139.85,Japan,JP,451772
+16,Madison,43.0822,-89.393,United States,US,451652
+17,Santiago de Cuba,20.0217,-75.8294,Cuba,CU,451528
+18,Udaipur,24.58,73.68,India,IN,451100
+19,Kursk,51.7167,36.1833,Russia,RU,450977
+20,Mogi das Cruzes,-23.5228,-46.1878,Brazil,BR,450785
+21,Stavropol,45.05,41.9833,Russia,RU,450680
+22,General Trias,14.38,120.88,Philippines,PH,450583
+23,Sirajganj,24.45,89.75,Bangladesh,BD,450000
+24,Boise,43.6005,-116.2308,United States,US,449776
+25,Bonita Springs,26.3558,-81.7859,United States,US,449527
+26,Mariupol,47.0958,37.5494,Ukraine,UA,449498
+27,Eslamshahr,35.5317,51.2247,Iran,IR,448129
+28,Piraeus,37.943,23.6469,Greece,GR,448051
+29,Barcelona,10.1403,-64.6833,Venezuela,VE,448016
+30,Tanbei,35.088,112.951,China,CN,447701
+31,Zurich,47.3744,8.5411,Switzerland,CH,447082
+32,Pingquan,41.0042,118.6848,China,CN,446939
+33,Ado-Ekiti,7.6211,5.2214,Nigeria,NG,446749
+34,Baisha,29.4896,119.337,China,CN,446000
+35,Batman,37.887,41.132,Turkey,TR,445874
+36,Yongji,34.867,110.448,China,CN,444724
+37,Esenler,41.0339,28.8903,Turkey,TR,444561
+38,Rodriguez,14.72,121.12,Philippines,PH,443954
+39,Ensenada,31.8578,-116.6058,Mexico,MX,443807
+40,Danjiangkou,32.5401,111.5131,China,CN,443755
+41,Chauddagram,23.2283,91.3133,Bangladesh,BD,443648
+42,Kahramanmaras,37.5833,36.9333,Turkey,TR,443575
+43,San Nicolas de los Garza,25.75,-100.2833,Mexico,MX,443273
+44,Taoyuan District,24.9913,121.3143,Taiwan,TW,443273
+45,Ndjili,-4.4089,15.3775,Congo (Kinshasa),CD,442138
+46,Mathura,27.4924,77.6737,India,IN,441894
+47,Pasay City,14.55,121,Philippines,PH,440656
+48,Ning'an,44.341,129.483,China,CN,440000
+49,Halifax,44.6475,-63.5906,Canada,CA,439819
+50,Fujisawa,35.35,139.4667,Japan,JP,439728
+51,Ulan-Ude,51.8333,107.6,Russia,RU,439128
+52,Denton,33.2175,-97.1418,United States,US,438492
+53,Laval,45.5833,-73.75,Canada,CA,438366
+54,Jinchang,38.5214,102.188,China,CN,438026
+55,Oakland,37.7904,-122.2166,United States,US,437825
+56,Springfield,42.1155,-72.5395,United States,US,437752
+57,Guangming,45.3357,122.7765,China,CN,437559
+58,Augusta,33.3645,-82.0708,United States,US,437257
+59,Kagithane,41.0719,28.9664,Turkey,TR,437026
+60,Sunch'on,39.4167,125.9333,"Korea, North",KP,437000
+61,Sangli,16.853,74.583,India,IN,436639
+62,Avcilar,40.9792,28.7214,Turkey,TR,435625
+63,Jeju,33.513,126.523,"Korea, South",KR,435413
+64,Zhuangyuan,37.3056,120.829,China,CN,435405
+65,Davangere,14.4666,75.9242,India,IN,435125
+66,Machida,35.5542,139.4431,Japan,JP,434414
+67,Sanghar,26.0442,68.9536,Pakistan,PK,434087
+68,Al Maraghah,26.7,31.6,Egypt,EG,432678
+69,Bandung,-6.912,107.6097,Indonesia,ID,432557
+70,Kissimmee,28.3041,-81.4169,United States,US,431618
+71,Calicut,11.2588,75.7804,India,IN,431560
+72,Kenitra,34.25,-6.5833,Morocco,MA,431282
+73,Windhoek,-22.57,17.0836,Namibia,NA,431000
+74,Huili Chengguanzhen,26.6333,102.25,China,CN,430066
+75,Sidi Bouzid,35.0381,9.4858,Tunisia,TN,429912
+76,Baramati,18.15,74.58,India,IN,429600
+77,Tanta,30.7833,31,Egypt,EG,429503
+78,Ismailia,30.5833,32.2667,Egypt,EG,429465
+79,Cusco,-13.525,-71.9722,Peru,PE,428450
+80,Veracruz,19.1903,-96.1533,Mexico,MX,428323

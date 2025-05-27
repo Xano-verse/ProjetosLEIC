@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Toledo,-24.7139,-53.7428,Brazil,BR,150470
+2,Higashimurayama,35.7546,139.4685,Japan,JP,150458
+3,Ipokia,6.5333,2.85,Nigeria,NG,150426
+4,Jaranwala,31.3333,73.4167,Pakistan,PK,150380
+5,Nangloi Jat,28.6833,77.0667,India,IN,150371
+6,Joliet,41.5188,-88.1499,United States,US,150221
+7,Kukichuo,36.0621,139.6668,Japan,JP,150197
+8,Badajoz,38.8803,-6.9753,Spain,ES,150190
+9,Champaign,40.1142,-88.2737,United States,US,150179
+10,Fengyicun,23.6636,116.6028,China,CN,150138
+11,Shahrud,36.4133,54.9781,Iran,IR,150129
+12,Mzuzu,-11.4581,34.0151,Malawi,MW,150100
+13,Valle de Santiago,20.3928,-101.1914,Mexico,MX,150054
+14,Dong Xoai,11.5169,106.8392,Vietnam,VN,150052
+15,Valdivia,-39.8139,-73.2458,Chile,CL,150048
+16,Golbasi,39.7953,32.8028,Turkey,TR,150047
+17,Naogaon,24.8,88.9333,Bangladesh,BD,150025
+18,Kashikishi,-9.3,28.7167,Zambia,ZM,150000
+19,El Minie,34.447,35.8178,Lebanon,LB,150000
+20,Borj Hammoud,33.8936,35.5403,Lebanon,LB,150000
+21,Auchi,7.0667,6.2667,Nigeria,NG,150000
+22,Chauk Azam,30.9648,71.217,Pakistan,PK,150000
+23,Yilan,24.75,121.75,Taiwan,TW,150000
+24,Sievierodonetsk,48.9481,38.4933,Ukraine,UA,150000
+25,Urganch,41.55,60.6333,Uzbekistan,UZ,150000
+26,Ocumare del Tuy,10.1136,-66.7814,Venezuela,VE,150000
+27,Willemstad,12.108,-68.935,Curaçao,CW,150000
+28,Bavaro,18.7167,-68.45,Dominican Republic,DO,150000
+29,Soro,21.29,86.69,India,IN,150000
+30,Penjamo,20.4311,-101.7222,Mexico,MX,149936
+31,Santa Rita,-7.1139,-34.9778,Brazil,BR,149910
+32,Mariveles,14.43,120.48,Philippines,PH,149879
+33,Pomona,34.0585,-117.7626,United States,US,149831
+34,Saumlaki,-7.975,131.3075,Indonesia,ID,149790
+35,Villa de Alvarez,19.25,-103.7333,Mexico,MX,149762
+36,Levis,46.8,-71.1833,Canada,CA,149683
+37,Fairfield,38.2583,-122.0335,United States,US,149635
+38,Asaba,6.1833,6.7333,Nigeria,NG,149603
+39,Kerch,45.3619,36.4711,Ukraine,UA,149566
+40,Concordia,-31.4,-58.0333,Argentina,AR,149450
+41,Mesquite,32.7602,-96.5865,United States,US,149439
+42,Lashio,22.9333,97.75,Burma,MM,149423
+43,Elkhart,41.6916,-85.9627,United States,US,149423
+44,Bohicon,7.2,2.0667,Benin,BJ,149271
+45,Harrow,51.5836,-0.3464,United Kingdom,GB,149246
+46,Rimini,44.0594,12.5683,Italy,IT,149211
+47,Port Louis,-20.1644,57.5042,Mauritius,MU,149194
+48,Agri,39.7186,43.0508,Turkey,TR,149188
+49,Naperville,41.748,-88.1659,United States,US,149089
+50,Maimanah,35.9333,64.75,Afghanistan,AF,149040
+51,Musashino,35.7177,139.5661,Japan,JP,148971
+52,Kastamonu,41.3764,33.7764,Turkey,TR,148931
+53,St. George,37.0758,-113.5752,United States,US,148895
+54,Sagay,10.9,123.42,Philippines,PH,148894
+55,Roseville,38.7703,-121.3196,United States,US,148879
+56,`Ajlun,32.3325,35.7517,Jordan,JO,148870
+57,Marvdasht,29.8786,52.8067,Iran,IR,148858
+58,Melitopol,46.8489,35.3675,Ukraine,UA,148851
+59,Potchefstroom,-26.715,27.1033,South Africa,ZA,148804
+60,Coquitlam,49.2839,-122.7919,Canada,CA,148625
+61,Nek'emte,9.0833,36.55,Ethiopia,ET,148613
+62,Xianshuigu,38.9786,117.3886,China,CN,148602
+63,Nuzvid,16.7881,80.8465,India,IN,148590
+64,Abbottabad,34.1558,73.2194,Pakistan,PK,148587
+65,Santiago,16.68,121.55,Philippines,PH,148580
+66,Larisa,39.6417,22.4167,Greece,GR,148562
+67,Ramapo,41.1404,-74.1072,United States,US,148558
+68,Coro,11.417,-69.67,Venezuela,VE,148514
+69,Sayama,35.853,139.4122,Japan,JP,148474
+70,Taza,34.2167,-4.0167,Morocco,MA,148456
+71,Jean-Rabel,19.85,-73.2,Haiti,HT,148416
+72,Al `Aqabah,29.5319,35.0056,Jordan,JO,148398
+73,Dundee,56.462,-2.9707,United Kingdom,GB,148280
+74,Sitarganj,28.93,79.7,India,IN,148266
+75,Dongguazhen,25.076,101.509,China,CN,148210
+76,Topeka,39.0346,-95.6955,United States,US,148185
+77,Al Hawiyah,21.4411,40.4975,Saudi Arabia,SA,148151
+78,Cagliari,39.2278,9.1111,Italy,IT,148117
+79,Nimes,43.8383,4.3597,France,FR,148104
+80,Luleburgaz,41.4056,27.3569,Turkey,TR,148037

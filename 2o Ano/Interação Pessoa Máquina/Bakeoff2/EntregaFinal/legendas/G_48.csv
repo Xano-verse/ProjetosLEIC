@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Izumo,35.3669,132.7547,Japan,JP,171995
+2,Rafah,31.2725,34.2586,Gaza Strip,XG,171899
+3,Bir el Djir,35.7367,-0.5542,Algeria,DZ,171883
+4,Ait Melloul,30.3342,-9.4972,Morocco,MA,171847
+5,Oeiras,38.6833,-9.3167,Portugal,PT,171802
+6,Alcorcon,40.35,-3.8333,Spain,ES,171772
+7,Cazanga,-9.3,14.95,Angola,AO,171743
+8,Garden Grove,33.7787,-117.9601,United States,US,171637
+9,Kempton Park,-26.1,28.2333,South Africa,ZA,171575
+10,Volgodonsk,47.5167,42.15,Russia,RU,171471
+11,Lancaster,34.6935,-118.1753,United States,US,171465
+12,Al Kufah,32.03,44.4,Iraq,IQ,171305
+13,Araguaina,-7.1908,-48.2069,Brazil,BR,171301
+14,Metro,-5.1167,105.3,Indonesia,ID,171169
+15,Nawsari,20.95,72.93,India,IN,171109
+16,Surigao,9.7897,125.4958,Philippines,PH,171107
+17,Ercis,39.0311,43.3597,Turkey,TR,171000
+18,Reggio di Calabria,38.1114,15.6619,Italy,IT,170951
+19,Makurdi,7.7333,8.5,Nigeria,NG,170925
+20,Bao Loc,11.5481,107.8075,Vietnam,VN,170920
+21,Kohat,33.5833,71.4333,Pakistan,PK,170800
+22,Petite Riviere de l'Artibonite,19.1333,-72.4833,Haiti,HT,170740
+23,Ussuriysk,43.8,131.9667,Russia,RU,170660
+24,Hemet,33.7341,-116.9969,United States,US,170621
+25,Pembroke Pines,26.0128,-80.3382,United States,US,170472
+26,Ibirite,-20.0219,-44.0589,Brazil,BR,170387
+27,Hinthada,17.6461,95.4603,Burma,MM,170312
+28,Nqutu,-28.232,30.566,South Africa,ZA,170307
+29,Escuintla,14.2978,-90.7869,Guatemala,GT,170280
+30,Fusagasuga,4.3452,-74.3618,Colombia,CO,170241
+31,Malayer,34.3,48.8178,Iran,IR,170237
+32,Olsztyn,53.7778,20.4792,Poland,PL,170225
+33,Tomakomai,42.6333,141.6,Japan,JP,170223
+34,Aplahoue,6.9333,1.6833,Benin,BJ,170069
+35,Valsad,20.61,72.926,India,IN,170060
+36,Thingangyun,16.8281,96.1842,Burma,MM,170000
+37,As Suwayq,23.8494,57.4386,Oman,OM,170000
+38,Metouia,33.9667,10,Tunisia,TN,170000
+39,Concepcion,15.3249,120.6554,Philippines,PH,169953
+40,San Luis,-33.3,-66.3333,Argentina,AR,169947
+41,Barra Mansa,-22.5439,-44.1708,Brazil,BR,169899
+42,Cape Coast,5.1,-1.25,Ghana,GH,169894
+43,Magwe,4.1333,32.3,South Sudan,SS,169826
+44,Panama City,30.1995,-85.6003,United States,US,169810
+45,Urayasu,35.6539,139.9022,Japan,JP,169749
+46,Puerto Montt,-41.4667,-72.9333,Chile,CL,169736
+47,Reggio Emilia,44.7,10.6333,Italy,IT,169545
+48,Vallejo,38.1125,-122.2342,United States,US,169541
+49,Al Marj,32.5005,20.83,Libya,LY,169540
+50,Sahab,31.8667,36,Jordan,JO,169434
+51,Caluquembe,-13.9208,14.5347,Angola,AO,169420
+52,Medinipur,22.424,87.319,India,IN,169264
+53,Sosan,36.7817,126.4522,"Korea, South",KR,169221
+54,Talas,38.6833,35.5667,Turkey,TR,169214
+55,Minbya,20.3622,93.2733,Burma,MM,169208
+56,Chuo-ku,35.6667,139.7667,Japan,JP,169179
+57,Santa Rita,10.2003,-67.5514,Venezuela,VE,169158
+58,Manchester,42.9848,-71.4447,United States,US,169097
+59,Batumi,41.6458,41.6417,Georgia,GE,169095
+60,Bielsko-Biala,49.8225,19.0444,Poland,PL,169089
+61,Chetumal,18.5036,-88.3053,Mexico,MX,169028
+62,Kamensk-Ural'skiy,56.4,61.9333,Russia,RU,168997
+63,Nishio,34.83,137.0697,Japan,JP,168992
+64,Medford,42.3372,-122.854,United States,US,168959
+65,Damoh,23.8331,79.4419,India,IN,168916
+66,Kalale,10.2953,3.3786,Benin,BJ,168882
+67,Kroonstad,-27.65,27.2333,South Africa,ZA,168762
+68,Toliara,-23.35,43.6667,Madagascar,MG,168756
+69,Bayamon,18.3794,-66.1635,Puerto Rico,PR,168698
+70,Calabozo,8.9333,-67.4333,Venezuela,VE,168605
+71,Baliuag,14.954,120.901,Philippines,PH,168470
+72,Haripur,31.53,75.92,India,IN,168443
+73,Mahabad,36.7678,45.7339,Iran,IR,168393
+74,Neyveli,11.6088,79.4994,India,IN,168368
+75,Bordj Bou Arreridj,36.0667,4.7667,Algeria,DZ,168346
+76,Mauldin,34.7821,-82.3032,United States,US,168313
+77,Karaman,37.1819,33.2181,Turkey,TR,168299
+78,Moratuwa,6.7991,79.8767,Sri Lanka,LK,168280
+79,Francisco Morato,-23.2817,-46.7425,Brazil,BR,168243
+80,Huich'on,40.1707,126.2761,"Korea, North",KP,168180

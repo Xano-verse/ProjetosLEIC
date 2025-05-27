@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Hai'an,32.535,120.563,China,CN,874334
+2,Laiyang,36.9758,120.7136,China,CN,874127
+3,Barinas,8.6333,-70.2,Venezuela,VE,873962
+4,Jalandhar,31.2569,75.4432,India,IN,873725
+5,Marseille,43.2964,5.37,France,FR,873076
+6,Kaifeng Chengguanzhen,34.8519,114.3481,China,CN,872000
+7,Eskisehir,39.7767,30.5206,Turkey,TR,871187
+8,Gaomi,36.3833,119.75,China,CN,868715
+9,Lhasa,29.6534,91.1719,China,CN,867891
+10,Ipoh,4.5972,101.075,Malaysia,MY,866772
+11,El Paso,31.8476,-106.43,United States,US,865270
+12,Saltillo,25.4231,-100.9919,Mexico,MX,864431
+13,Dushanbe,38.5367,68.78,Tajikistan,TJ,863400
+14,Ikeja,6.6,3.35,Nigeria,NG,861300
+15,El Dorado,24.808,-107.397,Mexico,MX,858638
+16,Cochabamba,-17.3883,-66.1597,Bolivia,BO,856198
+17,Portsmouth,50.8058,-1.0872,United Kingdom,GB,855679
+18,Tyumen,57.15,65.5333,Russia,RU,855600
+19,Southampton,50.9025,-1.4042,United Kingdom,GB,855569
+20,Hermosillo,29.0989,-110.9542,Mexico,MX,855563
+21,Wuxi,26.58,111.841,China,CN,853197
+22,Leping,28.978,117.152,China,CN,852800
+23,Cheongju,36.6333,127.4833,"Korea, South",KR,852018
+24,Shache,38.4261,77.25,China,CN,851374
+25,Sale,34.0333,-6.8,Morocco,MA,850403
+26,Hailun,47.4667,126.9667,China,CN,850000
+27,Macheng,31.173,115.008,China,CN,849090
+28,Akure,7.25,5.195,Nigeria,NG,847903
+29,Ilorin,8.5,4.55,Nigeria,NG,847582
+30,Erbil,36.1912,44.0092,Iraq,IQ,846000
+31,Kathmandu,27.71,85.32,Nepal,NP,845767
+32,Saratov,51.5333,46.0167,Russia,RU,845300
+33,Iguacu,-22.74,-43.47,Brazil,BR,844583
+34,Zijinglu,34.7667,112.9667,China,CN,843900
+35,Turin,45.0792,7.6761,Italy,IT,841600
+36,Yuci,37.6823,112.7281,China,CN,840000
+37,Dehui,44.535,125.703,China,CN,839786
+38,Pietermaritzburg,-29.6167,30.3833,South Africa,ZA,839327
+39,Durban,-29.8833,31.05,South Africa,ZA,838634
+40,Bhubaneshwar,20.2644,85.8281,India,IN,837737
+41,Denpasar,-8.65,115.2167,Indonesia,ID,834881
+42,Tongchuan,34.897,108.945,China,CN,834437
+43,Joao Pessoa,-7.12,-34.88,Brazil,BR,833932
+44,Samarinda,-0.5,117.1378,Indonesia,ID,831460
+45,Chengxiang,31.564,121.174,China,CN,831113
+46,Rongjiawan,29.1409,113.1087,China,CN,826000
+47,Weichanglu,37.1792,119.9333,China,CN,824708
+48,Sakai,34.5733,135.4831,Japan,JP,824408
+49,Renqiu,38.686,116.084,China,CN,822455
+50,Omaha,41.2627,-96.0529,United States,US,821345
+51,Xindi,29.827,113.476,China,CN,819446
+52,Wu'an,36.697,114.204,China,CN,819000
+53,Qingping,34.539,113.391,China,CN,817000
+54,Gaoyou,32.7847,119.4432,China,CN,811800
+55,Sao Bernardo do Campo,-23.7,-46.55,Brazil,BR,810729
+56,Yiyang,26.4221,112.3999,China,CN,810447
+57,Hejian,38.4466,116.0995,China,CN,810306
+58,Puxi,35.2125,114.735,China,CN,809535
+59,Bhayandar,19.29,72.85,India,IN,809378
+60,Androtsy,-24.1,46.3,Madagascar,MG,809313
+61,Culiacan,24.8069,-107.3939,Mexico,MX,808416
+62,Cucuta,7.8942,-72.5039,Colombia,CO,806378
+63,Danyang,32,119.586,China,CN,806300
+64,Dongyang,29.2667,120.2167,China,CN,804398
+65,Krakow,50.0614,19.9372,Poland,PL,804237
+66,Pasig City,14.5605,121.0765,Philippines,PH,803159
+67,Thessaloniki,40.6403,22.9347,Greece,GR,802572
+68,Queretaro,20.5875,-100.3928,Mexico,MX,801940
+69,Palermo,2.8917,-75.4375,Colombia,CO,800000
+70,Xigaze,29.25,88.8833,China,CN,798153
+71,Qamdo,31.143,97.17,China,CN,798067
+72,McAllen,26.2252,-98.2467,United States,US,797341
+73,Libreville,0.3903,9.4542,Gabon,GA,797003
+74,Seyhan,36.9831,35.3328,Turkey,TR,795012
+75,San Pedro Sula,15.5,-88.0333,Honduras,HN,793835
+76,Niigata,37.9161,139.0364,Japan,JP,790646
+77,Hempstead,40.6629,-73.6089,United States,US,789763
+78,Leeds,53.7975,-1.5436,United Kingdom,GB,789194
+79,Hamamatsu,34.7108,137.7275,Japan,JP,788211
+80,Pointe-Noire,-4.7975,11.8503,Congo (Brazzaville),CG,787799

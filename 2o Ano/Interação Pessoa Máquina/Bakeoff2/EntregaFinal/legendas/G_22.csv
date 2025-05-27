@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Sokoto,13.0622,5.2339,Nigeria,NG,427760
+2,Winston-Salem,36.1029,-80.261,United States,US,427706
+3,Kashiwa,35.8676,139.9758,Japan,JP,427603
+4,Al Bajur,30.4333,31.0569,Egypt,EG,427017
+5,Xunyang,32.8341,109.3653,China,CN,426677
+6,Malatya,38.3486,38.3194,Turkey,TR,426381
+7,Yan'an Beilu,44.0144,87.2674,China,CN,426253
+8,Mothihari,26.65,84.9167,India,IN,426158
+9,Aomori,40.8228,140.7469,Japan,JP,425962
+10,Akola,20.7,77,India,IN,425817
+11,Mandaluyong City,14.58,121.03,Philippines,PH,425758
+12,Aves,41.44,-8.3,Portugal,PT,425411
+13,Sihung,37.3799,126.8029,"Korea, South",KR,425184
+14,Burco,9.5279,45.5345,Somalia,SO,425000
+15,Tver,56.8625,35.9242,Russia,RU,424969
+16,Xalapa,19.54,-96.9275,Mexico,MX,424755
+17,Buenaventura,3.8772,-77.0267,Colombia,CO,423927
+18,London,42.9836,-81.2497,Canada,CA,423369
+19,Piracicaba,-22.7253,-47.6492,Brazil,BR,423323
+20,Yogyakarta,-7.8014,110.3644,Indonesia,ID,422732
+21,Toyota,35.0824,137.1563,Japan,JP,422106
+22,Daloa,6.8833,-6.45,Côte d’Ivoire,CI,421871
+23,Agadir,30.4333,-9.6,Morocco,MA,421844
+24,Elazig,38.6744,39.2228,Turkey,TR,421726
+25,Uijeongbu,37.7486,127.0389,"Korea, South",KR,421579
+26,Hpa-An,16.8906,97.6333,Burma,MM,421525
+27,Rahimyar Khan,28.42,70.3,Pakistan,PK,420419
+28,Ugep,5.8,8.0833,Nigeria,NG,420000
+29,Hailin,44.594,129.38,China,CN,420000
+30,Mishan,45.5298,131.8466,China,CN,420000
+31,Sarajevo,43.8564,18.4131,Bosnia and Herzegovina,BA,419957
+32,Seremban,2.7222,101.9417,Malaysia,MY,419536
+33,Zhengjiatun,43.5183,123.5027,China,CN,419529
+34,Lecheng,25.1333,113.3333,China,CN,419500
+35,Campina Grande,-7.2306,-35.8811,Brazil,BR,419379
+36,Xicheng,23.3667,103.15,China,CN,419314
+37,Pencheng,29.676,115.681,China,CN,419047
+38,Kowloon City,22.3282,114.1916,Hong Kong,HK,418732
+39,Tirana,41.3289,19.8178,Albania,AL,418495
+40,Kushtia,23.9101,89.1231,Bangladesh,BD,418312
+41,El Obeid,13.1833,30.2167,Sudan,SD,418280
+42,Maua,-23.6678,-46.4608,Brazil,BR,418261
+43,Magnitogorsk,53.3833,59.0333,Russia,RU,418241
+44,Da'an,45.5,124.2833,China,CN,418232
+45,Luhansk,48.5678,39.3031,Ukraine,UA,417990
+46,Xingren,25.435,105.1862,China,CN,417919
+47,Takamatsu,34.35,134.05,Japan,JP,417814
+48,Arusha,-3.3667,36.6833,Tanzania,TZ,416442
+49,Fenyang,37.2616,111.7699,China,CN,416212
+50,Ajdabiya,30.7556,20.2253,Libya,LY,416000
+51,Callao,-12.0522,-77.1392,Peru,PE,415888
+52,Awsim,30.1167,31.1333,Egypt,EG,415735
+53,Shinagawa-ku,35.6,139.7333,Japan,JP,415729
+54,Paju,37.8667,126.8,"Korea, South",KR,415345
+55,Santa Rosa,14.32,121.12,Philippines,PH,414812
+56,Bettiah,26.8014,84.5028,India,IN,414453
+57,Jhang City,31.2694,72.3161,Pakistan,PK,414131
+58,Altindag,39.9636,32.9033,Turkey,TR,413994
+59,Tala,30.6801,30.9438,Egypt,EG,413839
+60,Stockton,37.9765,-121.3109,United States,US,413637
+61,Talkha,31.0547,31.3756,Egypt,EG,413584
+62,Boa Vista,2.8194,-60.6714,Brazil,BR,413486
+63,Banjul,13.4531,-16.5775,"Gambia, The",GM,413397
+64,Jayapura,-2.533,140.717,Indonesia,ID,413283
+65,Toyama,36.6959,137.2137,Japan,JP,413028
+66,Sanandaj,35.3114,46.9961,Iran,IR,412767
+67,Khon Kaen,16.4333,102.8333,Thailand,TH,412758
+68,Fangting,31.127,104.167,China,CN,412758
+69,Linghai,41.1667,121.35,China,CN,412513
+70,Shorapur,16.52,76.76,India,IN,412291
+71,Koumassi,5.3,-3.95,Côte d’Ivoire,CI,412282
+72,Betim,-19.9678,-44.1978,Brazil,BR,411859
+73,Sochi,43.5853,39.7203,Russia,RU,411524
+74,Tinnevelly,8.7136,77.7567,India,IN,411298
+75,Pasto,1.2078,-77.2772,Colombia,CO,410835
+76,Syracuse,43.0407,-76.1437,United States,US,410732
+77,Bellary,15.1,76.9167,India,IN,410445
+78,Bhagalpur,25.25,87,India,IN,410210
+79,Kisumu,-0.0833,34.7667,Kenya,KE,409928
+80,Zhangjiakou Shi Xuanhua Qu,40.5944,115.0243,China,CN,409745

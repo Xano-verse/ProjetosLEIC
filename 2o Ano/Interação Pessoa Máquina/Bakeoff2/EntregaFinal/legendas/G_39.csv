@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Tacoma,47.2431,-122.4531,United States,US,219234
+2,Tulua,4.0833,-76.2,Colombia,CO,219138
+3,Zanzibar,-6.165,39.199,Tanzania,TZ,219007
+4,Kafue,-15.7667,28.1833,Zambia,ZM,219000
+5,Konibodom,40.2833,70.4167,Tajikistan,TJ,219000
+6,Petrel,38.4789,-0.7967,Spain,ES,218843
+7,Messina,38.1936,15.5542,Italy,IT,218786
+8,Pangkalpinang,-2.1333,106.1167,Indonesia,ID,218569
+9,Roanoke,37.2785,-79.9581,United States,US,218533
+10,Bitung,1.4472,125.1978,Indonesia,ID,218520
+11,Santo Tomas,14.08,121.18,Philippines,PH,218500
+12,San Miguel,13.4814,-88.1775,El Salvador,SV,218410
+13,Sabadell,41.5486,2.1075,Spain,ES,218300
+14,Lubeck,53.8697,10.6864,Germany,DE,218095
+15,Cartagena,37.6,-0.9833,Spain,ES,218050
+16,Naihati,22.89,88.42,India,IN,217900
+17,Arakawa,35.7333,139.7833,Japan,JP,217891
+18,Galati,45.4233,28.0425,Romania,RO,217851
+19,Babylon,40.6925,-73.3586,United States,US,217830
+20,Laayoune,27.1536,-13.2033,Morocco,MA,217732
+21,Butembo,0.15,29.2833,Congo (Kinshasa),CD,217625
+22,Oviedo,43.36,-5.845,Spain,ES,217584
+23,Tapachula,14.9,-92.2667,Mexico,MX,217550
+24,Porbandar,21.6417,69.6293,India,IN,217500
+25,Sao Leopoldo,-29.76,-51.1469,Brazil,BR,217410
+26,Apapa,6.45,3.3667,Nigeria,NG,217362
+27,Netanya,32.3286,34.8567,Israel,IL,217200
+28,Qostanay,53.2,63.62,Kazakhstan,KZ,217135
+29,Alor Setar,6.1183,100.3694,Malaysia,MY,217000
+30,Wayaobu,37.1427,109.6752,China,CN,216910
+31,Zielona Gora,51.9333,15.5,Poland,PL,216781
+32,Batu,-7.872,112.525,Indonesia,ID,216735
+33,Gujiao,37.907,112.176,China,CN,216723
+34,Jose C. Paz,-34.5167,-58.7667,Argentina,AR,216637
+35,Yamunanagar,30.133,77.288,India,IN,216628
+36,Banjarbaru,-3.4425,114.8325,Indonesia,ID,216600
+37,Valencia,7.9042,125.0928,Philippines,PH,216546
+38,Ayacucho,-13.1631,-74.2244,Peru,PE,216444
+39,Wellington,-41.2889,174.7772,New Zealand,NZ,216200
+40,Penalolen,-33.4833,-70.55,Chile,CL,216060
+41,Dongxing,21.5478,107.9717,China,CN,216053
+42,Lutsk,50.75,25.3358,Ukraine,UA,215986
+43,La Ceiba,15.7792,-86.7931,Honduras,HN,215973
+44,Ar Ruseris,11.85,34.3833,Sudan,SD,215857
+45,Hortolandia,-22.8583,-47.22,Brazil,BR,215819
+46,Pallavaram,12.9675,80.1491,India,IN,215417
+47,Marg`ilon,40.4711,71.7247,Uzbekistan,UZ,215400
+48,Jiutepec,18.8833,-99.1667,Mexico,MX,215357
+49,Brownsville,25.9975,-97.458,United States,US,215269
+50,Tan An,10.5333,106.4167,Vietnam,VN,215250
+51,Golmud,36.4072,94.9283,China,CN,215214
+52,San Rafael,-34.6,-68.3333,Argentina,AR,215020
+53,Sidi Aissa,36.5,4.2978,Algeria,DZ,215000
+54,Khargone,21.82,75.6187,India,IN,215000
+55,As Samawah,31.3167,45.2833,Iraq,IQ,215000
+56,Matrah,23.6167,58.5667,Oman,OM,214901
+57,Comalcalco,18.2801,-93.2018,Mexico,MX,214877
+58,Cua,10.1667,-66.8833,Venezuela,VE,214823
+59,Almere,52.3667,5.2167,Netherlands,NL,214715
+60,Vantaa,60.2944,25.0403,Finland,FI,214605
+61,Mokpo,34.7589,126.38,"Korea, South",KR,214534
+62,La Victoria,10.2278,-67.3336,Venezuela,VE,214492
+63,Warnes,-17.5167,-63.1667,Bolivia,BO,214216
+64,Cascais,38.7,-9.4167,Portugal,PT,214158
+65,Cigli,38.4833,27.05,Turkey,TR,214065
+66,Marcory,5.3,-3.9833,Côte d’Ivoire,CI,214061
+67,Chilas,35.4194,74.0944,Pakistan,PK,214000
+68,Sikasso,11.3167,-5.6667,Mali,ML,213977
+69,Osan,37.1498,127.0771,"Korea, South",KR,213840
+70,Oakville,43.45,-79.6833,Canada,CA,213759
+71,Secunderabad,17.4399,78.4983,India,IN,213698
+72,Sa Dec,10.3,105.7667,Vietnam,VN,213610
+73,Turbat,26.0042,63.0606,Pakistan,PK,213557
+74,El Tigre,8.8861,-64.2611,Venezuela,VE,213524
+75,Bhuj,23.25,69.67,India,IN,213514
+76,Sodo,6.855,37.7808,Ethiopia,ET,213467
+77,Isesaki,36.3114,139.1968,Japan,JP,213303
+78,Jerez de la Frontera,36.6817,-6.1378,Spain,ES,213231
+79,College Station,30.5852,-96.2959,United States,US,213177
+80,Norwich,52.6286,1.2928,United Kingdom,GB,213166

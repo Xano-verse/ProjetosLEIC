@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Puyang Chengguanzhen,35.7004,114.98,China,CN,666322
+2,Bulawayo,-20.17,28.58,Zimbabwe,ZW,665940
+3,Huambo,-12.7767,15.7347,Angola,AO,665564
+4,Aracaju,-10.9167,-37.05,Brazil,BR,664908
+5,Bacoor,14.4624,120.9645,Philippines,PH,664625
+6,Wenchang,31.054,116.9507,China,CN,664455
+7,Rotterdam,51.92,4.48,Netherlands,NL,664311
+8,Tlaquepaque,20.6167,-103.3167,Mexico,MX,664193
+9,Villavicencio,4.15,-73.6333,Colombia,CO,664148
+10,Shulan,44.4059,126.9655,China,CN,663403
+11,Makhachkala,42.9667,47.4833,Russia,RU,662600
+12,Banjarmasin,-3.32,114.5925,Indonesia,ID,662230
+13,Narela,28.8527,77.0929,India,IN,661994
+14,Catia La Mar,10.6,-67.0333,Venezuela,VE,661897
+15,Al Hufuf,25.3833,49.5833,Saudi Arabia,SA,660788
+16,Jalingo,8.9,11.3667,Nigeria,NG,660213
+17,Sargodha,32.0836,72.6711,Pakistan,PK,659862
+18,Karaikandi,24.8309,92.6143,India,IN,659260
+19,Bouake,7.6833,-5.0167,Côte d’Ivoire,CI,659233
+20,Lingbao Chengguanzhen,34.5176,110.8942,China,CN,656571
+21,Brampton,43.6833,-79.7667,Canada,CA,656480
+22,Abomey-Calavi,6.4486,2.3556,Benin,BJ,655965
+23,Durango,24.025,-104.6675,Mexico,MX,654876
+24,Cape Coral,26.6443,-81.9957,United States,US,654405
+25,Tondo,14.617,120.967,Philippines,PH,654220
+26,Dayrut,27.5667,30.8167,Egypt,EG,653847
+27,Tlalnepantla,19.5367,-99.1947,Mexico,MX,653410
+28,Ansan,37.3167,126.8333,"Korea, South",KR,652800
+29,Xiping,25.6005,103.8166,China,CN,652604
+30,Hue,16.4667,107.5792,Vietnam,VN,652572
+31,Sanhe,40.0167,117.0833,China,CN,652042
+32,San Jose del Monte,14.8139,121.0453,Philippines,PH,651813
+33,Ch'onan,36.81,127.1475,"Korea, South",KR,651661
+34,Cuiaba,-15.5958,-56.0969,Brazil,BR,650912
+35,Jieshou,33.257,115.3746,China,CN,650870
+36,Erer Sata,9.5667,41.3833,Ethiopia,ET,649000
+37,Selcuklu,37.8814,32.4922,Turkey,TR,648850
+38,Suohe,34.7833,113.35,China,CN,648700
+39,Guixi,28.2925,117.2454,China,CN,647240
+40,Izhevsk,56.8333,53.1833,Russia,RU,646277
+41,Honcho,35.6946,139.9826,Japan,JP,644668
+42,Wuxue,29.844,115.561,China,CN,644247
+43,Jaboatao dos Guararapes,-8.1122,-35.0156,Brazil,BR,643759
+44,Yildirim,40.11,29.0821,Turkey,TR,643681
+45,Bhavnagar,21.76,72.15,India,IN,643365
+46,Jinghong,22.009,100.797,China,CN,642737
+47,Tengyue,25.0167,98.4833,China,CN,642481
+48,Mission Viejo,33.6096,-117.6551,United States,US,642211
+49,Ruiming,25.886,116.027,China,CN,640600
+50,Qufu,35.5819,116.9862,China,CN,640498
+51,Sha Tin,22.3802,114.1898,Hong Kong,HK,640000
+52,Petaling Jaya,3.0972,101.6444,Malaysia,MY,638516
+53,Colorado Springs,38.8674,-104.7605,United States,US,638194
+54,Noida,28.57,77.32,India,IN,637272
+55,Xinshi,31.1333,113.1167,China,CN,636776
+56,Baton Rouge,30.442,-91.1311,United States,US,635671
+57,Manama,26.225,50.5775,Bahrain,BH,635000
+58,Las Palmas,28.1258,-15.4353,Spain,ES,635000
+59,Chak Forty-one,31.0167,73.85,Pakistan,PK,634236
+60,Jin'e,29.3394,105.2875,China,CN,633210
+61,Benghazi,32.1167,20.0667,Libya,LY,631555
+62,Chuxiong,25.033,101.5459,China,CN,631530
+63,Barnaul,53.3486,83.7764,Russia,RU,631124
+64,Palermo,38.1111,13.3517,Italy,IT,630167
+65,Makati City,14.5567,121.0214,Philippines,PH,629616
+66,Dusseldorf,51.2333,6.7833,Germany,DE,629047
+67,Allentown,40.5961,-75.4756,United States,US,627863
+68,Xinxing,39.8667,124.15,China,CN,627475
+69,Tukh,30.3539,31.2007,Egypt,EG,627290
+70,Glasgow,55.8611,-4.25,United Kingdom,GB,626410
+71,Namangan,41.0011,71.6683,Uzbekistan,UZ,626120
+72,Bazal'tove,50.6765,26.16,Ukraine,UA,625543
+73,Al Qatif,26.556,49.996,Saudi Arabia,SA,625092
+74,Bhilai,21.21,81.38,India,IN,624700
+75,Ulyanovsk,54.3167,48.3667,Russia,RU,624518
+76,Mangalore,12.8681,74.8425,India,IN,623841
+77,Kaihua,23.387,104.233,China,CN,623772
+78,Irkutsk,52.2833,104.2833,Russia,RU,623736
+79,Meilan,19.999,110.403,China,CN,623667
+80,Bazhou,39.1333,116.3833,China,CN,622975

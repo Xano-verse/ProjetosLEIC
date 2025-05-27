@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Solingen,51.1667,7.0833,Germany,DE,160643
+2,Merced,37.3057,-120.4779,United States,US,160638
+3,Pindamonhangaba,-22.9239,-45.4617,Brazil,BR,160614
+4,Hayward,37.6328,-122.0766,United States,US,160602
+5,Split,43.51,16.44,Croatia,HR,160577
+6,Lafayette,40.3991,-86.8593,United States,US,160543
+7,Ziarat,30.381,67.727,Pakistan,PK,160422
+8,Giron,7.0708,-73.1731,Colombia,CO,160403
+9,Miyakonojo,31.7194,131.0617,Japan,JP,160392
+10,Dong Hoi,17.4831,106.5997,Vietnam,VN,160325
+11,Tra Vinh,9.9333,106.35,Vietnam,VN,160310
+12,Khanpur,28.65,70.68,Pakistan,PK,160308
+13,Ferkessedougou,9.5833,-5.2,Côte d’Ivoire,CI,160267
+14,Southend,51.55,0.71,United Kingdom,GB,160257
+15,Ciudad Acuna,29.3242,-100.9317,Mexico,MX,160225
+16,Jose Maria Ezeiza,-34.8333,-58.5167,Argentina,AR,160219
+17,Khost,33.3331,69.9169,Afghanistan,AF,160214
+18,Koudougou,12.25,-2.3667,Burkina Faso,BF,160207
+19,Saint-Marc,19.1167,-72.7,Haiti,HT,160181
+20,Ninh Binh,20.2539,105.975,Vietnam,VN,160166
+21,Bingol,38.8861,40.5017,Turkey,TR,160165
+22,Dhamar,14.55,44.4017,Yemen,YE,160114
+23,Sivakasi,9.4533,77.8024,India,IN,160047
+24,Huaycan,-12.0181,-76.8139,Peru,PE,160000
+25,San Nicolas de los Arroyos,-33.3333,-60.2167,Argentina,AR,160000
+26,Osorno,-40.5725,-73.1353,Chile,CL,160000
+27,Milagro,-2.1347,-79.5872,Ecuador,EC,159970
+28,Ceyhan,37.0289,35.8125,Turkey,TR,159955
+29,Moga,30.822,75.174,India,IN,159897
+30,Ede,7.7389,4.4361,Nigeria,NG,159866
+31,Ekibastuz,51.6667,75.3667,Kazakhstan,KZ,159760
+32,Barreiras,-12.1483,-44.9925,Brazil,BR,159743
+33,Enschede,52.2225,6.8925,Netherlands,NL,159703
+34,Springfield,39.7709,-89.654,United States,US,159671
+35,Newport,51.5886,-2.9978,United Kingdom,GB,159600
+36,Chirchiq,41.4667,69.5833,Uzbekistan,UZ,159400
+37,Dijon,47.3167,5.0167,France,FR,159346
+38,Jijiga,9.35,42.8,Ethiopia,ET,159300
+39,Patos de Minas,-18.5817,-46.5147,Brazil,BR,159235
+40,Budaun,28.05,79.12,India,IN,159221
+41,Ramat Gan,32.07,34.8236,Israel,IL,159200
+42,Uttarpara,22.67,88.35,India,IN,159147
+43,Catamarca,-28.4667,-65.7833,Argentina,AR,159139
+44,La Laguna,28.4853,-16.3167,Spain,ES,159034
+45,Daltonganj,24.03,84.07,India,IN,158941
+46,Quipungo,-14.8167,14.55,Angola,AO,158918
+47,Jequie,-13.863,-40.0843,Brazil,BR,158812
+48,Benoni,-26.1883,28.3206,South Africa,ZA,158777
+49,Macuspana,17.7667,-92.6,Mexico,MX,158601
+50,Zhengding,38.1464,114.5708,China,CN,158599
+51,Aral,40.548,81.281,China,CN,158593
+52,Cadiz,10.95,123.3,Philippines,PH,158544
+53,Elektrostal,55.7833,38.4667,Russia,RU,158508
+54,Matsuzaka,34.5779,136.5276,Japan,JP,158472
+55,Klaipeda,55.7125,21.135,Lithuania,LT,158420
+56,Ogaki,35.3594,136.6129,Japan,JP,158386
+57,Corona,33.8616,-117.5649,United States,US,158346
+58,Zabrze,50.3025,18.7781,Poland,PL,158307
+59,Bharuch,21.712,72.993,India,IN,158253
+60,Ilagan,17.1489,121.8894,Philippines,PH,158218
+61,Abaetetuba,-1.7178,-48.8828,Brazil,BR,158188
+62,Guimaraes,41.45,-8.3,Portugal,PT,158124
+63,Ibarra,0.3627,-78.1307,Ecuador,EC,157941
+64,Paterson,40.9147,-74.1624,United States,US,157864
+65,Gojra,31.15,72.6833,Pakistan,PK,157863
+66,Banha,30.4667,31.1833,Egypt,EG,157701
+67,Mahlaing,21.09,95.64,Burma,MM,157674
+68,Alexandria,38.8185,-77.0861,United States,US,157594
+69,Calama,-22.4667,-68.9333,Chile,CL,157575
+70,San Miguel,-34.5333,-58.7167,Argentina,AR,157532
+71,'s-Hertogenbosch,51.6833,5.3,Netherlands,NL,157486
+72,Grenoble,45.1715,5.7224,France,FR,157477
+73,Amersfoort,52.15,5.3833,Netherlands,NL,157462
+74,Erzincan,39.7464,39.4914,Turkey,TR,157452
+75,Regensburg,49.0167,12.0833,Germany,DE,157443
+76,George,-33.9667,22.45,South Africa,ZA,157394
+77,Herne,51.55,7.2167,Germany,DE,157368
+78,Bima,-8.46,118.7267,Indonesia,ID,157362
+79,Mandi Bahauddin,32.5797,73.4814,Pakistan,PK,157352
+80,Chau Doc,10.7,105.1167,Vietnam,VN,157298

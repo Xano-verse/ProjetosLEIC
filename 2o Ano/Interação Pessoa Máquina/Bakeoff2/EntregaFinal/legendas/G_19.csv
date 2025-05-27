@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Macapa,0.033,-51.05,Brazil,BR,512902
+2,Benguela,-12.55,13.4167,Angola,AO,512886
+3,Yicheng,31.721,112.257,China,CN,512530
+4,Al Fashn,28.8227,30.8992,Egypt,EG,512242
+5,Al `Amarah,31.8333,47.15,Iraq,IQ,511500
+6,Carrefour,18.5344,-72.4094,Haiti,HT,511345
+7,Campos,-21.7539,-41.3239,Brazil,BR,511168
+8,Cadaado,6.1403,46.6256,Somalia,SO,510654
+9,Encheng,22.1833,112.3,China,CN,509700
+10,Bhilwara,25.35,74.63,India,IN,509483
+11,Biba,28.9218,30.9844,Egypt,EG,509384
+12,Wichita,37.6895,-97.3443,United States,US,509003
+13,Leicester,52.6344,-1.1319,United Kingdom,GB,508916
+14,Newcastle,-27.7464,29.9328,South Africa,ZA,507710
+15,Hai Duong,20.9397,106.3306,Vietnam,VN,507469
+16,Aden,12.8,45.0333,Yemen,YE,507355
+17,Jhansi,25.4486,78.5696,India,IN,507000
+18,Matsuyama,33.8333,132.7667,Japan,JP,506743
+19,Ulhasnagar,19.22,73.15,India,IN,506098
+20,Nagqu,31.476,92.051,China,CN,504838
+21,Kitwe,-12.8167,28.2,Zambia,ZM,504194
+22,Vellore,12.9165,79.1325,India,IN,504079
+23,Toulouse,43.6045,1.444,France,FR,504078
+24,Pohang,36.0322,129.365,"Korea, South",KR,503780
+25,Mesa,33.4015,-111.7178,United States,US,503390
+26,Lipetsk,52.6167,39.6,Russia,RU,503216
+27,Duisburg,51.4347,6.7625,Germany,DE,502211
+28,Jammu,32.73,74.87,India,IN,502197
+29,Ile-Ife,7.4667,4.5667,Nigeria,NG,501952
+30,Homyel',52.4453,30.9842,Belarus,BY,501802
+31,Kirov,58.6,49.6833,Russia,RU,501468
+32,Mazatlan,23.2167,-106.4167,Mexico,MX,501441
+33,Meicheng,30.631,116.581,China,CN,500292
+34,El Fasher,13.6306,25.35,Sudan,SD,500000
+35,Farah,32.3436,62.1194,Afghanistan,AF,500000
+36,Belas,-8.9983,13.265,Angola,AO,500000
+37,Talatona,-8.9167,13.1833,Angola,AO,500000
+38,Nenjiang,49.11,125.13,China,CN,500000
+39,Sukkur,27.7061,68.8483,Pakistan,PK,499900
+40,Hsinchu,24.8167,120.9833,Taiwan,TW,499348
+41,Harrisburg,40.2752,-76.8843,United States,US,498329
+42,Kaliningrad,54.7003,20.4531,Russia,RU,498260
+43,Hongjiang,27.191,109.819,China,CN,498100
+44,Qaraghandy,49.8028,73.1056,Kazakhstan,KZ,497777
+45,Lapu-Lapu City,10.3127,123.9488,Philippines,PH,497604
+46,Matsudo,35.7876,139.9032,Japan,JP,497514
+47,Johor Bahru,1.4556,103.7611,Malaysia,MY,497097
+48,Purnea,25.778,87.476,India,IN,496830
+49,Imus,14.4297,120.9367,Philippines,PH,496794
+50,Niteroi,-22.8833,-43.1036,Brazil,BR,496696
+51,Beipiao,41.801,120.771,China,CN,496164
+52,Dengtacun,41.4333,123.3333,China,CN,496122
+53,Zhijiang,30.426,111.761,China,CN,495995
+54,Suoluntun,45.2279,124.8432,China,CN,495900
+55,Staten Island,40.5834,-74.1496,United States,US,495747
+56,Chengjiao,35.3984,114.0649,China,CN,495744
+57,Lembok,-8.565,116.351,Indonesia,ID,495651
+58,Likasi,-10.9833,26.7333,Congo (Kinshasa),CD,495000
+59,Oujda-Angad,34.6867,-1.9114,Morocco,MA,494252
+60,Duyun,26.2594,107.5186,China,CN,493574
+61,Toledo,41.6638,-83.5827,United States,US,493302
+62,Pindi Bhattian,31.8958,73.2761,Pakistan,PK,493222
+63,Nyala,12.05,24.8833,Sudan,SD,492984
+64,Bissau,11.85,-15.5667,Guinea-Bissau,GW,492004
+65,Ichikawa,35.7219,139.9311,Japan,JP,491716
+66,Kota Bharu,6.1333,102.25,Malaysia,MY,491237
+67,Yuanping,38.731,112.711,China,CN,491213
+68,Higashi-osaka,34.6794,135.6008,Japan,JP,490819
+69,Larkana,27.5583,68.2111,Pakistan,PK,490508
+70,`Ajman,25.4136,55.4456,United Arab Emirates,AE,490035
+71,Vinh,18.6667,105.6667,Vietnam,VN,490000
+72,Ciudad Lopez Mateos,19.55,-99.2833,Mexico,MX,489937
+73,Cheboksary,56.15,47.2333,Russia,RU,489498
+74,Yueqing,28.12,120.96,China,CN,488980
+75,Belgaum,15.85,74.5,India,IN,488157
+76,Caerdydd,51.4833,-3.1833,United Kingdom,GB,488153
+77,Edinburgh,55.9533,-3.1892,United Kingdom,GB,488050
+78,Brookhaven,40.832,-72.9517,United States,US,487162
+79,Nishinomiya-hama,34.7376,135.3416,Japan,JP,487010
+80,Karamay,45.5799,84.8892,China,CN,487000

@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Ahor,25.367,72.783,India,IN,239642
+2,Diaobingshancun,42.4667,123.5667,China,CN,239405
+3,Magdeburg,52.1317,11.6392,Germany,DE,239364
+4,Yato,35.4833,139.45,Japan,JP,239146
+5,Matsumoto,36.238,137.972,Japan,JP,239115
+6,Szeged,46.255,20.145,Hungary,HU,239025
+7,Chimoio,-19.1167,33.45,Mozambique,MZ,238976
+8,Kasulu,-4.58,30.1,Tanzania,TZ,238321
+9,Elche,38.2669,-0.6983,Spain,ES,238293
+10,Tarsus,36.9165,34.8951,Turkey,TR,238276
+11,Ivano-Frankivsk,48.9228,24.7106,Ukraine,UA,238196
+12,Chofugaoka,35.6506,139.5407,Japan,JP,238087
+13,Gonzalez Catan,-34.7667,-58.6167,Argentina,AR,238067
+14,Nyiregyhaza,47.9531,21.7271,Hungary,HU,238020
+15,Wuyishan,27.7564,118.0353,China,CN,238000
+16,Shenmu,38.827,110.499,China,CN,237846
+17,Tuticorin,8.7642,78.1348,India,IN,237830
+18,As Sib,23.6703,58.1891,Oman,OM,237816
+19,Ganganagar,29.92,73.88,India,IN,237780
+20,Brasov,45.6667,25.6167,Romania,RO,237589
+21,Lafayette,30.2082,-92.0325,United States,US,237565
+22,Amol,36.4703,52.3467,Iran,IR,237528
+23,Stavanger,58.97,5.7314,Norway,NO,237369
+24,Sandnes,58.8517,5.7361,Norway,NO,237369
+25,Nizhnekamsk,55.6333,51.8167,Russia,RU,237250
+26,Monclova,26.9103,-101.4222,Mexico,MX,237169
+27,Chishui,28.5904,105.6975,China,CN,237052
+28,Djougou,9.7,1.6667,Benin,BJ,237040
+29,Norfolk,36.8945,-76.259,United States,US,236973
+30,Mirpur Khas,25.525,69.0158,Pakistan,PK,236961
+31,Lille,50.6278,3.0583,France,FR,236710
+32,P'yongsong-si,39.2605,125.8618,"Korea, North",KP,236609
+33,P'yong-dong,39.1919,125.8178,"Korea, North",KP,236583
+34,Centurion,-25.8603,28.1894,South Africa,ZA,236580
+35,North Hempstead,40.7912,-73.6688,United States,US,236573
+36,Tinkhang,27.23,95.17,India,IN,236571
+37,Rewa,24.53,81.3,India,IN,236519
+38,Pakdasht,35.485,51.6794,Iran,IR,236319
+39,Kajang,2.9931,101.7889,Malaysia,MY,236240
+40,Petah Tiqwa,32.0889,34.8864,Israel,IL,236169
+41,Abha,18.2169,42.5053,Saudi Arabia,SA,236157
+42,Freiburg im Breisgau,47.995,7.85,Germany,DE,236140
+43,Al Minya,28.1194,30.7444,Egypt,EG,236043
+44,Iseyin,7.9667,3.6,Nigeria,NG,236000
+45,Central District,22.2867,114.155,Hong Kong,HK,235953
+46,Gaborone,-24.6581,25.9122,Botswana,BW,235884
+47,Arlington,38.8786,-77.1011,United States,US,235845
+48,Juazeiro,-9.4306,-40.5028,Brazil,BR,235816
+49,Zinder,13.8053,8.9883,Niger,NE,235605
+50,Bole,44.8539,82.0514,China,CN,235585
+51,Shakhty,47.7,40.2333,Russia,RU,235492
+52,Ganda,-13.0167,14.6333,Angola,AO,235486
+53,Uluberiya,22.47,88.11,India,IN,235345
+54,Bulandshahr,28.4069,77.8497,India,IN,235310
+55,Banda Aceh,5.55,95.3175,Indonesia,ID,235305
+56,Najafabad,32.6447,51.3603,Iran,IR,235281
+57,Shibuya-ku,35.6594,139.7006,Japan,JP,235193
+58,Bayamo,20.3817,-76.6428,Cuba,CU,235107
+59,Limassol,34.6747,33.0442,Cyprus,CY,235056
+60,Borujerd,33.9111,48.7522,Iran,IR,234997
+61,Ibb,13.9759,44.1709,Yemen,YE,234837
+62,Garcia,25.8167,-100.5833,Mexico,MX,234698
+63,Arapiraca,-9.7519,-36.6608,Brazil,BR,234696
+64,Longquan,28.0667,119.1333,China,CN,234626
+65,Miri,4.3925,113.9861,Malaysia,MY,234541
+66,Maracanau,-3.8667,-38.6333,Brazil,BR,234392
+67,Oral,51.2225,51.3725,Kazakhstan,KZ,234184
+68,Craiova,44.3333,23.8167,Romania,RO,234140
+69,Formosa,-26.1833,-58.1833,Argentina,AR,234000
+70,Appleton,44.278,-88.3892,United States,US,233947
+71,Chauhanpatti,25.15,82.6,India,IN,233691
+72,Bo,7.9564,-11.74,Sierra Leone,SL,233684
+73,Mambere,5.5,15.5,Central African Republic,CF,233666
+74,Damboa,11.15,12.75,Nigeria,NG,233500
+75,Groningen,53.2189,6.5675,Netherlands,NL,233273
+76,Ipswich,-27.6144,152.7608,Australia,AU,232930
+77,Teluk Intan,4.0333,101.0167,Malaysia,MY,232800
+78,San Cristobal,18.4167,-70.1056,Dominican Republic,DO,232769
+79,Cannanore,11.8745,75.3704,India,IN,232486
+80,Raichur,16.2,77.37,India,IN,232456

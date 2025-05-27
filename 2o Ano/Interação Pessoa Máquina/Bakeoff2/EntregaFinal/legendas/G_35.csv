@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Kiel,54.3233,10.1394,Germany,DE,247717
+2,Sahiwal,30.6611,73.1083,Pakistan,PK,247706
+3,A Coruna,43.365,-8.41,Spain,ES,247604
+4,Navotas,14.6667,120.9417,Philippines,PH,247543
+5,Santa Clara,22.4069,-79.9649,Cuba,CU,247436
+6,Mehrabpur,27.0994,68.4208,Pakistan,PK,247280
+7,Yamagata,38.2554,140.3396,Japan,JP,247234
+8,York,39.9651,-76.7315,United States,US,247176
+9,Khomeyni Shahr,32.6803,51.5361,Iran,IR,247128
+10,Beykoz,41.1342,29.0922,Turkey,TR,246700
+11,Tsukuba-kenkyugakuen-toshi,36.0835,140.0764,Japan,JP,246647
+12,Oruro,-17.9833,-67.15,Bolivia,BO,246501
+13,Macae,-22.3708,-41.7869,Brazil,BR,246391
+14,Gyor,47.6842,17.6344,Hungary,HU,246159
+15,Al `Ashir min Ramadan,30.3065,31.7415,Egypt,EG,246148
+16,Mahajanga,-15.7167,46.3167,Madagascar,MG,246022
+17,Mount Lavinia,6.8731,79.8758,Sri Lanka,LK,245974
+18,Northampton,52.2304,-0.8938,United Kingdom,GB,245899
+19,Krishnarajpur,13.012,77.6951,India,IN,245797
+20,Hafizabad,32.0714,73.6878,Pakistan,PK,245751
+21,Nelamangala,13.102,77.374,India,IN,245624
+22,Beichengqu,40.437,113.11,China,CN,245608
+23,Abertawe,51.6167,-3.95,United Kingdom,GB,245508
+24,Syktyvkar,61.6667,50.8167,Russia,RU,245313
+25,Rivne,50.6192,26.2519,Ukraine,UA,245289
+26,Gdynia,54.5175,18.54,Poland,PL,245222
+27,Nashua,42.7491,-71.491,United States,US,245209
+28,Barnsley,53.5547,-1.4791,United Kingdom,GB,245199
+29,Taiping,4.85,100.7333,Malaysia,MY,245182
+30,Rondonopolis,-16.4667,-54.6333,Brazil,BR,244897
+31,Sao Jose de Ribamar,-2.55,-44.05,Brazil,BR,244579
+32,Puducherry,11.9167,79.8167,India,IN,244377
+33,Merlo,-34.6653,-58.7275,Argentina,AR,244168
+34,Portoviejo,-1.0561,-80.4553,Ecuador,EC,244129
+35,Damanhur,31.0361,30.4694,Egypt,EG,244043
+36,Garland,32.91,-96.6304,United States,US,244026
+37,Kabinda,-6.13,24.48,Congo (Kinshasa),CD,244000
+38,Jessore,23.1704,89.2,Bangladesh,BD,243987
+39,Kesbewa,6.7953,79.9386,Sri Lanka,LK,243842
+40,Tripoli,34.4367,35.8344,Lebanon,LB,243800
+41,Fuji,35.1613,138.6763,Japan,JP,243739
+42,Eindhoven,51.4333,5.4833,Netherlands,NL,243730
+43,Sabzevar,36.2125,57.6764,Iran,IR,243700
+44,Dourados,-22.2208,-54.8058,Brazil,BR,243368
+45,Bahir Dar,11.6,37.3833,Ethiopia,ET,243300
+46,Yoshiicho-shimobaru,33.18,129.715,Japan,JP,243223
+47,Myitkyina,25.3833,97.4,Burma,MM,243031
+48,Ramgundam,18.7639,79.475,India,IN,242979
+49,Palanpur,24.1722,72.4333,India,IN,242936
+50,Tuy Hoa,13.0819,109.295,Vietnam,VN,242840
+51,Sasebo,33.18,129.715,Japan,JP,242664
+52,Sapele,5.9,5.6667,Nigeria,NG,242652
+53,Biratnagar,26.4542,87.2797,Nepal,NP,242548
+54,Pandharpur,17.6778,75.3278,India,IN,242515
+55,Qyzylorda,44.85,65.5167,Kazakhstan,KZ,242462
+56,St. Catharines,43.1833,-79.2333,Canada,CA,242460
+57,Chigasaki,35.3333,139.4,Japan,JP,242347
+58,Araraquara,-21.7939,-48.1758,Brazil,BR,242228
+59,Kahama,-3.8375,32.6,Tanzania,TZ,242208
+60,Halle,51.4828,11.9697,Germany,DE,242083
+61,Americana,-22.7386,-47.3311,Brazil,BR,242018
+62,Zhangping,25.2902,117.42,China,CN,242000
+63,Man,7.4,-7.55,Côte d’Ivoire,CI,241969
+64,Sete Lagoas,-19.4658,-44.2469,Brazil,BR,241835
+65,Banchpar,23.2,90.8,Bangladesh,BD,241799
+66,Haeju,38.0333,125.7167,"Korea, North",KP,241599
+67,Soyapango,13.7333,-89.15,El Salvador,SV,241403
+68,Masaurhi Buzurg,25.35,85.02,India,IN,241216
+69,Baruta,10.4322,-66.8739,Venezuela,VE,240755
+70,Duzce,40.8417,31.1583,Turkey,TR,240633
+71,Marilia,-22.2139,-49.9458,Brazil,BR,240590
+72,Katihar,25.53,87.58,India,IN,240565
+73,Scottsdale,33.6872,-111.8651,United States,US,240537
+74,Tarapoto,-6.4833,-76.3667,Peru,PE,240453
+75,Atushi,39.7162,76.1684,China,CN,240368
+76,Abi al Khasib,30.4411,47.9725,Iraq,IQ,240300
+77,Jacarei,-23.3053,-45.9658,Brazil,BR,240275
+78,Anju,39.62,125.66,"Korea, North",KP,240117
+79,Bunkyo-ku,35.7167,139.75,Japan,JP,240069
+80,Byatarayanpur,13.0659,77.5922,India,IN,239902

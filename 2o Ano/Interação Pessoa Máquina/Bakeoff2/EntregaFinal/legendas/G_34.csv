@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Longueuil,45.5333,-73.5167,Canada,CA,254483
+2,Marilao,14.7581,120.9481,Philippines,PH,254453
+3,Tuni,17.35,82.55,India,IN,254425
+4,Ash Shatrah,31.4097,46.1717,Iraq,IQ,254000
+5,Sab` al Bur,33.4644,44.1536,Iraq,IQ,254000
+6,Fort-de-France,14.6,-61.0667,Martinique,MQ,253995
+7,Mawlamyine,16.4847,97.6258,Burma,MM,253734
+8,Peoria,40.752,-89.6154,United States,US,253467
+9,Godome,6.3667,2.35,Benin,BJ,253262
+10,Rapar,23.57,70.63,India,IN,253137
+11,Samastipur,25.8629,85.7811,India,IN,253136
+12,Aksaray,38.3742,34.0289,Turkey,TR,253113
+13,Shinozaki,33.9578,130.9414,Japan,JP,252844
+14,Parnamirim,-5.9167,-35.25,Brazil,BR,252716
+15,Kiziltepe,37.1939,40.5861,Turkey,TR,252656
+16,Jhenida,23.5417,89.1833,Bangladesh,BD,252500
+17,Turku,60.45,22.2667,Finland,FI,252468
+18,Bharatpur,27.22,77.48,India,IN,252342
+19,Aachen,50.7756,6.0836,Germany,DE,252136
+20,Begusarai,25.42,86.13,India,IN,252008
+21,Kediri,-7.8111,112.0047,Indonesia,ID,252000
+22,Kanggye,40.9667,126.6,"Korea, North",KP,251971
+23,Chiayi,23.48,120.4497,Taiwan,TW,251938
+24,Cekme,41.0369,29.1786,Turkey,TR,251937
+25,Hakodate,41.7686,140.7289,Japan,JP,251891
+26,Tacloban,11.24,125,Philippines,PH,251881
+27,Junagarh,19.8599,82.9338,India,IN,251842
+28,Braunschweig,52.2667,10.5167,Germany,DE,251804
+29,Iskenderun,36.5817,36.165,Turkey,TR,251682
+30,Pecs,46.0711,18.2331,Hungary,HU,251412
+31,Soka,35.8254,139.8053,Japan,JP,251390
+32,Nedumana,8.9139,76.6889,India,IN,251384
+33,Higuey,18.6167,-68.7,Dominican Republic,DO,251243
+34,Los Teques,10.3333,-67.0417,Venezuela,VE,251200
+35,Montgomery,32.3482,-86.2668,United States,US,251158
+36,Jinshi,29.5,111.908,China,CN,251064
+37,Wolverhampton,52.5833,-2.1333,United Kingdom,GB,250970
+38,Pointe-a-Pitre,16.2411,-61.5331,Guadeloupe,GP,250952
+39,Al Fallujah,33.35,43.7833,Iraq,IQ,250884
+40,Timisoara,45.7597,21.23,Romania,RO,250849
+41,Bata,1.865,9.77,Equatorial Guinea,GQ,250770
+42,Rach Gia,10.0167,105.0833,Vietnam,VN,250660
+43,Companiganj,22.875,91.2833,Bangladesh,BD,250579
+44,Venice,45.4375,12.3358,Italy,IT,250369
+45,Taganrog,47.2167,38.9167,Russia,RU,250287
+46,Babol,36.5475,52.6783,Iran,IR,250217
+47,Sao Jose,-27.6,-48.6167,Brazil,BR,250181
+48,La Paz,24.1422,-110.3108,Mexico,MX,250141
+49,Al Bayda',32.7664,21.7417,Libya,LY,250000
+50,Natogyi,21.4167,95.65,Burma,MM,250000
+51,Kurmuk,10.55,34.2833,Sudan,SD,250000
+52,Ras el-Barr,31.5125,31.8256,Egypt,EG,250000
+53,Kalar,34.6292,45.3222,Iraq,IQ,250000
+54,Bojnurd,37.4722,57.3289,Iran,IR,250000
+55,Turkistan,43.3019,68.2692,Kazakhstan,KZ,250000
+56,New Delhi,28.6139,77.2089,India,IN,249998
+57,Las Condes,-33.4117,-70.55,Chile,CL,249893
+58,Goma,-1.6794,29.2336,Congo (Kinshasa),CD,249862
+59,Rishon LeZiyyon,31.95,34.8,Israel,IL,249860
+60,Komsomol'sk-na-Amure,50.5667,137,Russia,RU,249810
+61,Campeche,19.85,-90.5306,Mexico,MX,249623
+62,Manzhouli,49.598,117.379,China,CN,249472
+63,Tiruvottiyur,13.16,80.3,India,IN,249446
+64,Palangkaraya,-2.21,113.92,Indonesia,ID,249434
+65,Chesapeake,36.6778,-76.3023,United States,US,249377
+66,Burnaby,49.2667,-122.9667,Canada,CA,249125
+67,Ramnagar,27.17,84.32,India,IN,249102
+68,Limeira,-22.565,-47.4019,Brazil,BR,249046
+69,Carmen,18.6431,-91.8306,Mexico,MX,248845
+70,Gandhidham,23.08,70.13,India,IN,248705
+71,Banikoara,11.3,2.4333,Benin,BJ,248621
+72,Chemnitz,50.8333,12.9167,Germany,DE,248563
+73,Salumbar,24.08,74.02,India,IN,248337
+74,Kyongju,35.85,129.2167,"Korea, South",KR,248244
+75,Merida,8.48,-71.19,Venezuela,VE,248192
+76,Glendale,33.5791,-112.2311,United States,US,248083
+77,Sibu,2.2878,111.8308,Malaysia,MY,247995
+78,Qa'em Shahr,36.4636,52.8581,Iran,IR,247953
+79,Parana,-31.7331,-60.5297,Argentina,AR,247863
+80,Buyukcekmece,41.02,28.5775,Turkey,TR,247736

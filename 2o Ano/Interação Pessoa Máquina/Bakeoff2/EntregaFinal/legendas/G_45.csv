@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Dunhuang,40.1411,94.6639,China,CN,185231
+2,Semnan,35.5811,53.3833,Iran,IR,185129
+3,Narsingdi,23.9231,90.7122,Bangladesh,BD,185128
+4,Newport News,37.1051,-76.5185,United States,US,185118
+5,Temirtau,50.05,72.95,Kazakhstan,KZ,185082
+6,Banja Luka,44.7725,17.1925,Bosnia and Herzegovina,BA,185042
+7,Ittikara,8.8633,76.6972,India,IN,185008
+8,Yei,4.0904,30.68,South Sudan,SS,185000
+9,Mahesana,23.6,72.4,India,IN,184991
+10,Frederick,39.4337,-77.4141,United States,US,184991
+11,Kuchlagh,31.0833,67.1056,Pakistan,PK,184818
+12,Murfreesboro,35.849,-86.4121,United States,US,184763
+13,Ferraz de Vasconcelos,-23.5411,-46.3689,Brazil,BR,184700
+14,Bolu,40.7347,31.6075,Turkey,TR,184682
+15,`Unayzah,26.0906,43.9875,Saudi Arabia,SA,184600
+16,Pak Kret,13.9125,100.4978,Thailand,TH,184501
+17,Seixal,38.65,-9.1,Portugal,PT,184269
+18,Al Qamishli,37.05,41.22,Syria,SY,184231
+19,Padalarang,-6.8435,107.4779,Indonesia,ID,184182
+20,Modena,44.6469,10.9256,Italy,IT,184153
+21,Breda,51.5889,4.7758,Netherlands,NL,184126
+22,Toyokawa,34.8268,137.3759,Japan,JP,183930
+23,Vinh Chau,9.333,106,Vietnam,VN,183918
+24,Siguiri,11.4167,-9.1667,Guinea,GN,183875
+25,Cuango,-9.1444,18.0464,Angola,AO,183767
+26,Raiganj,25.62,88.12,India,IN,183612
+27,San Cristobal,16.7367,-92.6383,Mexico,MX,183509
+28,Fernando de la Mora,-25.32,-57.54,Paraguay,PY,183390
+29,Trang Bang,11.033,106.367,Vietnam,VN,183385
+30,Aqtau,43.6525,51.1575,Kazakhstan,KZ,183350
+31,Santa Barbara d'Oeste,-22.7544,-47.4142,Brazil,BR,183347
+32,Batala,31.8186,75.2028,India,IN,183314
+33,Nis,43.3208,21.8958,Serbia,RS,183164
+34,Oradea,47.0722,21.9211,Romania,RO,183105
+35,Tumpat,6.1667,102.1667,Malaysia,MY,183100
+36,Malumfashi,11.8,7.6167,Nigeria,NG,182920
+37,Isiro,2.7833,27.6167,Congo (Kinshasa),CD,182900
+38,Pinrang,-3.7857,119.6522,Indonesia,ID,182731
+39,Fort Lauderdale,26.1412,-80.1464,United States,US,182673
+40,Jaragua do Sul,-26.4833,-49.0667,Brazil,BR,182660
+41,Sirsa,29.5333,75.0167,India,IN,182534
+42,Morsi,21.318,78.0095,India,IN,182484
+43,Donghua,35.2167,106.6,China,CN,182449
+44,Odense,55.3958,10.3886,Denmark,DK,182387
+45,Noumea,-22.2758,166.458,New Caledonia,NC,182341
+46,Dinapore,25.6225,85.0417,India,IN,182241
+47,Sorsogon,12.9742,124.0058,Philippines,PH,182237
+48,Guarapuava,-25.3833,-51.45,Brazil,BR,182093
+49,Tambaram,12.831,80.0459,India,IN,182071
+50,Bethelsdorp,-33.8833,25.5,South Africa,ZA,182012
+51,Saarbrucken,49.2333,7,Germany,DE,181959
+52,Karaikkudi,10.0735,78.7732,India,IN,181851
+53,Shrirampur,22.75,88.34,India,IN,181842
+54,Abakan,53.7167,91.4667,Russia,RU,181709
+55,Braga,41.5503,-8.42,Portugal,PT,181494
+56,Epe,6.5833,3.9833,Nigeria,NG,181409
+57,Aurora,41.7638,-88.2902,United States,US,181405
+58,Kelowna,49.8881,-119.4956,Canada,CA,181380
+59,Plzen,49.7475,13.3775,Czechia,CZ,181240
+60,Fardis,35.73,50.9822,Iran,IR,181174
+61,Himatnagar,23.6,72.95,India,IN,181137
+62,Kindia,10.0497,-12.8542,Guinea,GN,181126
+63,Tachikawa,35.6942,139.4197,Japan,JP,181115
+64,Tempe,33.3881,-111.9319,United States,US,181005
+65,Thanhlyin,16.7333,96.25,Burma,MM,181000
+66,Turbo,8.1,-76.7333,Colombia,CO,181000
+67,La Rioja,-29.4125,-66.8542,Argentina,AR,180995
+68,Guna,24.65,77.32,India,IN,180935
+69,Hamm,51.6667,7.8167,Germany,DE,180849
+70,Nawada,24.88,85.53,India,IN,180740
+71,Cuauhtemoc,28.405,-106.8667,Mexico,MX,180638
+72,Ploiesti,44.9411,26.0225,Romania,RO,180539
+73,Inisa,7.9833,4.65,Nigeria,NG,180533
+74,Berazategui,-34.7167,-58.25,Argentina,AR,180523
+75,Ikot Ekpene,5.1833,7.7167,Nigeria,NG,180500
+76,Funtua,11.5204,7.32,Nigeria,NG,180475
+77,Obuase,6.2,-1.6833,Ghana,GH,180460
+78,Toulon,43.1258,5.9306,France,FR,180452
+79,Jaunpur,25.73,82.68,India,IN,180362
+80,Mbanza Kongo,-6.2678,14.2481,Angola,AO,180329

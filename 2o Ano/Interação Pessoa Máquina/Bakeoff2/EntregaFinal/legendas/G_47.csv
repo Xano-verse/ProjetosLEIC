@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Shibirghan,36.665,65.752,Afghanistan,AF,175599
+2,El Bosque,-33.5667,-70.675,Chile,CL,175594
+3,Gainesville,34.2902,-83.8294,United States,US,175569
+4,Santa Maria Texmelucan,19.2833,-98.4333,Mexico,MX,175518
+5,Matosinhos,41.1833,-8.7,Portugal,PT,175478
+6,Navadwip,23.42,88.37,India,IN,175474
+7,Salatiga,-7.3247,110.5444,Indonesia,ID,175288
+8,Maragheh,37.3894,46.2378,Iran,IR,175255
+9,Kotdwara,29.75,78.53,India,IN,175232
+10,Amadora,38.7333,-9.2333,Portugal,PT,175136
+11,Durres,41.3133,19.4458,Albania,AL,175110
+12,Chicoloapan,19.4167,-98.9,Mexico,MX,175053
+13,Khapalu,35.1667,76.3333,Pakistan,PK,175000
+14,Bodrum,37.0378,27.4242,Turkey,TR,175000
+15,Yangmei,24.9167,121.15,Taiwan,TW,175000
+16,Pilibhit,28.6267,79.8058,India,IN,175000
+17,Sirjan,29.437,55.6802,Iran,IR,175000
+18,Narashino,35.6804,140.0265,Japan,JP,174990
+19,Cary,35.7819,-78.8195,United States,US,174880
+20,Curug,-6.3711,106.8,Indonesia,ID,174867
+21,Rancho Cucamonga,34.1247,-117.5667,United States,US,174696
+22,Kangqiao,31.35,105.0667,China,CN,174672
+23,Timon,-5.0939,-42.8369,Brazil,BR,174465
+24,Burgos,42.35,-3.7067,Spain,ES,174451
+25,Dagupan City,16.043,120.334,Philippines,PH,174302
+26,Ludwigshafen,49.4811,8.4353,Germany,DE,174265
+27,Bac Giang,21.2667,106.2,Vietnam,VN,174229
+28,Alleppey,9.49,76.33,India,IN,174176
+29,Ada,7.8956,4.7094,Nigeria,NG,174152
+30,Habaswein,1.01,39.49,Kenya,KE,174134
+31,Gliwice,50.2833,18.6667,Poland,PL,174016
+32,Piedras Negras,28.7,-100.5231,Mexico,MX,173959
+33,Linjiang,41.8167,126.9167,China,CN,173903
+34,Carupano,10.6722,-63.2403,Venezuela,VE,173877
+35,Bida,9.0804,6.01,Nigeria,NG,173849
+36,Sakura,35.7167,140.2167,Japan,JP,173740
+37,Townsville,-19.25,146.8167,Australia,AU,173724
+38,Oceanside,33.2247,-117.3083,United States,US,173722
+39,Cuddalore,11.75,79.75,India,IN,173676
+40,Patra,38.25,21.7333,Greece,GR,173600
+41,Basel,47.5547,7.5906,Switzerland,CH,173552
+42,Tlemcen,34.8828,-1.3167,Algeria,DZ,173531
+43,Lubao,14.93,120.6,Philippines,PH,173502
+44,Mexico,15.07,120.72,Philippines,PH,173403
+45,Gondal,21.958,70.795,India,IN,173353
+46,Shahin Shahr,32.8606,51.5531,Iran,IR,173329
+47,Syzran,53.1667,48.4667,Russia,RU,173260
+48,Deo,24.6561,84.4356,India,IN,173216
+49,Albacete,38.9956,-1.8558,Spain,ES,173206
+50,Fenglu,24.6506,102.935,China,CN,173161
+51,Keningau,5.3333,116.1667,Malaysia,MY,173130
+52,Akhisar,38.9239,27.84,Turkey,TR,173026
+53,Podgorica,42.4414,19.2628,Montenegro,ME,173024
+54,Sherbrooke,45.4,-71.9,Canada,CA,172950
+55,Kamakurayama,35.3197,139.5525,Japan,JP,172929
+56,Ha Long,20.95,107.0667,Vietnam,VN,172915
+57,Oldenburg,53.1439,8.2139,Germany,DE,172830
+58,Silchar,24.82,92.8,India,IN,172830
+59,Chirala,15.8246,80.3521,India,IN,172826
+60,Gadag,15.4167,75.6167,India,IN,172813
+61,Santander,43.4628,-3.805,Spain,ES,172726
+62,Saint-Etienne,45.4347,4.3903,France,FR,172718
+63,Mang La,14.3617,108.0083,Vietnam,VN,172712
+64,Hitachi,36.5991,140.6515,Japan,JP,172709
+65,Jabalya,31.5281,34.4831,Gaza Strip,XG,172704
+66,Polomolok,6.22,125.07,Philippines,PH,172605
+67,Ongata Rongai,-1.4,36.77,Kenya,KE,172570
+68,Sacaba,-17.4042,-66.0408,Bolivia,BO,172466
+69,General Mariano Alvarez,14.3,121,Philippines,PH,172433
+70,Mulheim,51.4275,6.8825,Germany,DE,172404
+71,Lagos de Moreno,21.35,-101.9167,Mexico,MX,172402
+72,Tiruvannamalai,12.13,79.07,India,IN,172348
+73,Kindu,-2.95,25.95,Congo (Kinshasa),CD,172321
+74,Kaolack,14.1389,-16.0764,Senegal,SN,172305
+75,Bidar,17.912,77.52,India,IN,172298
+76,Baranavichy,53.1333,26.0167,Belarus,BY,172150
+77,San Miguel,15.1458,120.9783,Philippines,PH,172073
+78,Bade,24.9575,121.2989,Taiwan,TW,172065
+79,Talhar,24.8833,68.8167,Pakistan,PK,172014
+80,Jalalabad,30.62,74.25,India,IN,172000

@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Uvinza,-5.1069,30.3839,Tanzania,TZ,387442
+2,Aurora,39.7083,-104.7237,United States,US,387349
+3,Carapicuiba,-23.5192,-46.8358,Brazil,BR,387121
+4,Hafr al Batin,28.4342,45.9636,Saudi Arabia,SA,387096
+5,Zanjan,36.6789,48.5056,Iran,IR,386851
+6,Petrolina,-9.3825,-40.5022,Brazil,BR,386786
+7,Bairia,25.7583,84.1489,India,IN,386745
+8,Oyo,7.85,3.933,Nigeria,NG,386723
+9,Taytay,14.5692,121.1325,Philippines,PH,386451
+10,Kisenzi,-4.4094,15.3425,Congo (Kinshasa),CD,386151
+11,Bhatpara,22.87,88.41,India,IN,386019
+12,Kukatpalli,17.4849,78.4138,India,IN,385821
+13,Manisa,38.6144,27.4292,Turkey,TR,385452
+14,Sirur,18.83,74.38,India,IN,385414
+15,Tarlac City,15.4869,120.59,Philippines,PH,385398
+16,Okazaki,34.9543,137.1744,Japan,JP,385376
+17,Lianzhou,24.781,112.377,China,CN,384700
+18,Ceel Baraf,3.2073,45.7587,Somalia,SO,384630
+19,Yidu,30.378,111.45,China,CN,384598
+20,Lingxi,27.5036,120.3975,China,CN,384390
+21,Ilesa,7.6167,4.7167,Nigeria,NG,384334
+22,Kakinada,16.9661,82.255,India,IN,384182
+23,Savar,23.85,90.26,Bangladesh,BD,384093
+24,Nuevo Laredo,27.4861,-99.5069,Mexico,MX,384033
+25,Bawshar,23.5333,58.3833,Oman,OM,383257
+26,Christchurch,-43.531,172.6365,New Zealand,NZ,383200
+27,Gusau,12.15,6.6667,Nigeria,NG,383162
+28,Zetang,29.238,91.771,China,CN,382610
+29,Palu,-0.895,119.8594,Indonesia,ID,381572
+30,Canberra,-35.2931,149.1269,Australia,AU,381488
+31,Minamisuita,34.7594,135.5169,Japan,JP,381238
+32,Tetouan,35.5667,-5.3667,Morocco,MA,380787
+33,Malabon,14.66,120.96,Philippines,PH,380522
+34,Neiva,2.9345,-75.2809,Colombia,CO,380019
+35,Novi Sad,45.2542,19.8425,Serbia,RS,380000
+36,Huancayo,-12.0667,-75.2167,Peru,PE,378203
+37,Celaya,20.5222,-100.8122,Mexico,MX,378143
+38,Ichinomiya,35.3039,136.8031,Japan,JP,378108
+39,Caruaru,-8.2828,-35.9758,Brazil,BR,378052
+40,Sintra,38.7992,-9.3883,Portugal,PT,377835
+41,Hatay,36.2025,36.1606,Turkey,TR,377793
+42,Iquitos,-3.75,-73.25,Peru,PE,377609
+43,Panihati,22.69,88.37,India,IN,377347
+44,Cainta,14.57,121.12,Philippines,PH,376933
+45,Helixi,30.6267,118.9861,China,CN,376857
+46,Mamou,10.3833,-12.0833,Guinea,GN,376269
+47,Manukau City,-37,174.885,New Zealand,NZ,375600
+48,Itaquaquecetuba,-23.4864,-46.3486,Brazil,BR,375011
+49,Cantonment,31.5167,74.3833,Pakistan,PK,374872
+50,Rohtak,28.8909,76.5796,India,IN,374292
+51,Gaziantep,37.0628,37.3792,Turkey,TR,374290
+52,Maler Kotla,30.5167,75.8833,India,IN,374000
+53,Bhawana,31.5661,72.6461,Pakistan,PK,373841
+54,Khorramabad,33.4875,48.3561,Iran,IR,373416
+55,Lipa City,13.9411,121.1622,Philippines,PH,372931
+56,Butuan,8.948,125.543,Philippines,PH,372910
+57,Dikirnis,31.0883,31.5969,Egypt,EG,372871
+58,Stoke-on-Trent,53,-2.1833,United Kingdom,GB,372775
+59,Takasaki,36.3219,139.0033,Japan,JP,372639
+60,Malakwal,32.5531,73.2067,Pakistan,PK,371869
+61,Toyohashi,34.7692,137.3915,Japan,JP,371507
+62,Chitungwiza,-17.9939,31.0481,Zimbabwe,ZW,371244
+63,Gebze,40.8,29.4333,Turkey,TR,371000
+64,Cibinong,-6.485,106.842,Indonesia,ID,370928
+65,Lengshuijiang,27.686,111.436,China,CN,370300
+66,Panshi,42.95,126.0667,China,CN,370238
+67,Az Zubayr,30.3833,47.7,Iraq,IQ,370000
+68,Oxnard,34.1964,-119.1815,United States,US,369962
+69,Vinnytsia,49.2333,28.4833,Ukraine,UA,369739
+70,Indio,33.7346,-116.2346,United States,US,369654
+71,Bharatpur,27.6833,84.4333,Nepal,NP,369377
+72,Petare,10.4833,-66.8167,Venezuela,VE,369000
+73,Nagano,36.6486,138.1947,Japan,JP,367184
+74,Huichang,34.9073,112.7914,China,CN,367113
+75,Keelung,25.1333,121.7333,Taiwan,TW,367107
+76,Bauru,-22.315,-49.0608,Brazil,BR,366992
+77,La Florida,-33.5333,-70.5833,Chile,CL,366916
+78,Nicolas Romero,19.5833,-99.3667,Mexico,MX,366602
+79,Jinshan,25.1462,102.0723,China,CN,366512
+80,Baguio City,16.4119,120.5933,Philippines,PH,366358

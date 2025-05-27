@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Severodvinsk,64.5667,39.8667,Russia,RU,157213
+2,Angers,47.4736,-0.5542,France,FR,157175
+3,Itapetininga,-23.5917,-48.0531,Brazil,BR,157016
+4,Xiaping,26.748,114.289,China,CN,157000
+5,Caxias,-4.8589,-43.3558,Brazil,BR,156970
+6,Villeurbanne,45.7667,4.8803,France,FR,156928
+7,Nablus,32.2222,35.2611,West Bank,XW,156906
+8,Nan Zhuang,22.9839,113.0139,China,CN,156902
+9,Zaanstad,52.4333,4.8167,Netherlands,NL,156901
+10,Guaymas,27.9183,-110.8933,Mexico,MX,156863
+11,Enfield,51.6522,-0.0808,United Kingdom,GB,156858
+12,Kamina,-8.7386,24.9906,Congo (Kinshasa),CD,156761
+13,Molo,-0.25,35.7333,Kenya,KE,156732
+14,Macon,32.8065,-83.6974,United States,US,156554
+15,Saharsa,25.88,86.6,India,IN,156540
+16,Chaoshan,23.0768,113.8696,China,CN,156522
+17,Ketou,7.3581,2.6075,Benin,BJ,156497
+18,Rio das Ostras,-22.5269,-41.945,Brazil,BR,156491
+19,Adzope,6.1667,-3.9833,Côte d’Ivoire,CI,156488
+20,Portmore,17.95,-76.8799,Jamaica,JM,156469
+21,Binghamton,42.1014,-75.9093,United States,US,156375
+22,Qalyub,30.1997,31.2053,Egypt,EG,156363
+23,Danao,10.53,123.93,Philippines,PH,156321
+24,Marbella,36.5167,-4.8833,Spain,ES,156295
+25,Ghorahi,28.0333,82.4833,Nepal,NP,156164
+26,Lakewood,39.6977,-105.1172,United States,US,156149
+27,Bac Lieu,9.2833,105.7167,Vietnam,VN,156110
+28,Capas,15.3372,120.59,Philippines,PH,156056
+29,Cam Pha,21.0167,107.3167,Vietnam,VN,156000
+30,Almetyevsk,54.9,52.3,Russia,RU,155988
+31,Al Miqdadiyah,33.9786,44.9369,Iraq,IQ,155968
+32,Vidisha,23.53,77.82,India,IN,155959
+33,Pathankot,32.2668,75.6,India,IN,155909
+34,Nowgong,26.3504,92.6796,India,IN,155889
+35,Ravenna,44.4161,12.2017,Italy,IT,155751
+36,Ar Ramtha,32.5589,36.0147,Jordan,JO,155693
+37,Borazjan,29.2694,51.22,Iran,IR,155567
+38,Tigaraksa,-6.2667,106.4667,Indonesia,ID,155557
+39,Kisi,9.0833,3.85,Nigeria,NG,155510
+40,Esmeraldas,0.9667,-79.6528,Ecuador,EC,155487
+41,Kansas City,39.1235,-94.7443,United States,US,155438
+42,Horad Barysaw,54.2279,28.505,Belarus,BY,155389
+43,Souk Ahras,36.2864,7.9511,Algeria,DZ,155259
+44,Daiwanishi,34.8892,135.4167,Japan,JP,155165
+45,Chlef,36.1647,1.3317,Algeria,DZ,155134
+46,Pandi,14.87,120.95,Philippines,PH,155115
+47,Camarajibe,-8.0219,-34.9808,Brazil,BR,155054
+48,Odessa,31.8801,-102.3448,United States,US,155039
+49,El Eulma,36.15,5.6833,Algeria,DZ,155038
+50,Salzburg,47.8,13.045,Austria,AT,155021
+51,Thanesar,29.9667,76.8167,India,IN,154962
+52,Danzao,23.0427,112.9145,China,CN,154955
+53,Camacupa,-12.0256,17.4686,Angola,AO,154928
+54,Kishangarh,26.57,74.87,India,IN,154886
+55,Uiwang,37.3448,126.9683,"Korea, South",KR,154879
+56,Hanam,37.5167,127.2,"Korea, South",KR,154838
+57,Paderborn,51.7181,8.7542,Germany,DE,154755
+58,Zango,12.9333,8.5333,Nigeria,NG,154743
+59,Braila,45.2692,27.9575,Romania,RO,154686
+60,Barrie,44.3711,-79.6769,Canada,CA,154676
+61,Sunnyvale,37.3836,-122.0255,United States,US,154573
+62,Saint-Louis,16.0333,-16.5,Senegal,SN,154555
+63,Edremit,39.5922,27.02,Turkey,TR,154487
+64,Rudarpur,28.98,79.4,India,IN,154485
+65,Kitenkela,-1.5167,36.85,Kenya,KE,154436
+66,Tindwara,25.4833,80.3333,India,IN,154428
+67,Bandirma,40.35,27.9667,Turkey,TR,154359
+68,Nalgonda,17.05,79.27,India,IN,154326
+69,Jinghai,38.9294,116.9169,China,CN,154325
+70,Hitachi-Naka,36.3967,140.5347,Japan,JP,154311
+71,Lucapa,-8.4228,20.7392,Angola,AO,154305
+72,Neuss,51.2,6.7,Germany,DE,154139
+73,Noda,35.95,139.8667,Japan,JP,154114
+74,Santana de Parnaiba,-23.4439,-46.9178,Brazil,BR,154105
+75,Ambikapur,23.12,83.2,India,IN,154104
+76,Madinat as Sadis min Uktubar,29.9833,30.9667,Egypt,EG,154093
+77,Dibrugarh,27.48,95,India,IN,154019
+78,Singaraja,-8.1167,115.0833,Indonesia,ID,153930
+79,Moanda,-5.9342,12.3494,Congo (Kinshasa),CD,153915
+80,Seogwipo,33.2497,126.56,"Korea, South",KR,153861

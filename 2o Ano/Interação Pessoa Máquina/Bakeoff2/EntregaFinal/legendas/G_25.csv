@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Scranton,41.4044,-75.6649,United States,US,366334
+2,Bochum,51.4819,7.2158,Germany,DE,365742
+3,Sivas,39.75,37.0167,Turkey,TR,365274
+4,Kolga,22.35,82.68,India,IN,365253
+5,Korba,22.3458,82.6963,India,IN,365253
+6,Qardho,9.5,49.0833,Somalia,SO,365000
+7,Rio Branco,-9.9747,-67.81,Brazil,BR,364756
+8,Tecamac,19.7131,-98.9683,Mexico,MX,364579
+9,Alanya,36.55,32,Turkey,TR,364180
+10,Mandaue City,10.33,123.93,Philippines,PH,364116
+11,Victorville,34.5277,-117.3536,United States,US,364015
+12,Kocaeli,40.7625,29.9175,Turkey,TR,363416
+13,Warri,5.5167,5.75,Nigeria,NG,363382
+14,Victoria,48.4283,-123.3647,Canada,CA,363222
+15,Wonsan,39.1475,127.4461,"Korea, North",KP,363127
+16,Iligan,8.23,124.25,Philippines,PH,363115
+17,Anguo,38.418,115.327,China,CN,363091
+18,K'ebri Dehar,6.7333,44.2667,Ethiopia,ET,363000
+19,Coventry,52.4081,-1.5106,United Kingdom,GB,362690
+20,Kayapinar,37.95,40.1667,Turkey,TR,362407
+21,Trenton,40.2237,-74.7641,United States,US,362179
+22,Cuenca,-2.8974,-79.0045,Ecuador,EC,361524
+23,Blumenau,-26.9333,-49.05,Brazil,BR,361261
+24,Nanqiao,30.9167,121.4547,China,CN,361185
+25,Florence,43.7714,11.2542,Italy,IT,360930
+26,Buurhakaba,2.7833,44.0833,Somalia,SO,360795
+27,Bengkulu,-3.7956,102.2592,Indonesia,ID,360495
+28,Malmo,55.6058,13.0358,Sweden,SE,360249
+29,Wudalianchi,48.75,126.1667,China,CN,360000
+30,Shuanghe,30.3746,106.7903,China,CN,360000
+31,Petion-Ville,18.5128,-72.2864,Haiti,HT,359615
+32,Utrecht,52.0908,5.1217,Netherlands,NL,359370
+33,Sikar,27.62,75.15,India,IN,359293
+34,Umuahia,5.5333,7.4833,Nigeria,NG,359230
+35,Vitsyebsk,55.1917,30.2056,Belarus,BY,359148
+36,Palmira,3.5833,-76.25,Colombia,CO,358895
+37,Wuppertal,51.2667,7.1833,Germany,DE,358876
+38,Hrodna,53.6667,23.8333,Belarus,BY,358717
+39,Ash Shuhada',30.6039,30.9021,Egypt,EG,358486
+40,Karur,10.9601,78.0766,India,IN,358468
+41,Ponta Grossa,-25.0994,-50.1583,Brazil,BR,358367
+42,Sasaram,24.95,84.03,India,IN,358283
+43,Taraz,42.9,71.3667,Kazakhstan,KZ,357795
+44,Cubal,-13.0333,14.25,Angola,AO,357618
+45,Luena,-11.7918,19.9062,Angola,AO,357413
+46,Karnal,29.686,76.989,India,IN,357334
+47,Yong'an,25.942,117.365,China,CN,357000
+48,Konak,38.4189,27.1285,Turkey,TR,356563
+49,Minatitlan,17.9833,-94.55,Mexico,MX,356020
+50,Linxia Chengguanzhen,35.6047,103.2422,China,CN,355968
+51,Brahmapur,19.315,84.7941,India,IN,355823
+52,Chanda,19.95,79.3,India,IN,355739
+53,Caucaia,-3.7167,-38.65,Brazil,BR,355679
+54,Cuito,-12.3833,16.9333,Angola,AO,355423
+55,Cabuyao,14.275,121.125,Philippines,PH,355330
+56,Hongzhai,34.9857,104.5446,China,CN,355037
+57,Gedaref,14.0333,35.3833,Sudan,SD,354927
+58,San Fernando,15.03,120.68,Philippines,PH,354666
+59,Kawagoe,35.9251,139.4858,Japan,JP,354598
+60,Modesto,37.6375,-121.0028,United States,US,354183
+61,Nizhniy Tagil,57.9167,59.9667,Russia,RU,353950
+62,Pokhara,28.2083,83.9889,Nepal,NP,353841
+63,Villahermosa,17.9892,-92.9281,Mexico,MX,353577
+64,Van,38.4942,43.38,Turkey,TR,353419
+65,Mahilyow,53.9167,30.35,Belarus,BY,353338
+66,Wakayama,34.2333,135.1667,Japan,JP,353299
+67,Osh,40.53,72.8,Kyrgyzstan,KG,353080
+68,Kita-ku,35.75,139.7333,Japan,JP,353058
+69,Gimpo,37.7,126.6,"Korea, South",KR,352683
+70,Corrientes,-27.4833,-58.8167,Argentina,AR,352646
+71,Franca,-20.5389,-47.4008,Brazil,BR,352537
+72,Thari Mir Wah,27.0683,68.6023,Pakistan,PK,352491
+73,Nara,34.6844,135.805,Japan,JP,352377
+74,Vladimir,56.1286,40.4058,Russia,RU,352347
+75,Yakeshi,49.286,120.712,China,CN,352173
+76,Nam Dinh,20.42,106.1683,Vietnam,VN,352108
+77,Sinuiju,40.1,124.4,"Korea, North",KP,352000
+78,Oruro,-17.9667,-67.1167,Bolivia,BO,351802
+79,Cabimas,10.4,-71.45,Venezuela,VE,351735
+80,Arkhangelsk,64.5333,40.5333,Russia,RU,351488

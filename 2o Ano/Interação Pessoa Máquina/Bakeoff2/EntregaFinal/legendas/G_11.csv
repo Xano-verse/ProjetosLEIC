@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Maceio,-9.6658,-35.735,Brazil,BR,957916
+2,Nada,19.5209,109.5808,China,CN,954259
+3,Taishan,22.2486,112.785,China,CN,953900
+4,Teresina,-5.0949,-42.8042,Brazil,BR,953172
+5,Solapur,17.68,75.92,India,IN,951558
+6,Freetown,8.4844,-13.2344,Sierra Leone,SL,951000
+7,Santo Domingo Este,18.4855,-69.8734,Dominican Republic,DO,948855
+8,Krasnodar,45.0333,38.9667,Russia,RU,948827
+9,Vientiane,17.98,102.63,Laos,LA,948487
+10,Tangier,35.7767,-5.8039,Morocco,MA,947952
+11,Anqiu,36.478,119.219,China,CN,947723
+12,Kermanshah,34.3325,47.0933,Iran,IR,946651
+13,Feicheng,36.1861,116.7719,China,CN,946627
+14,Kibanseke Premiere,-4.4419,15.395,Congo (Kinshasa),CD,946372
+15,Seberang Jaya,5.4083,100.3695,Malaysia,MY,946092
+16,Buffalo,42.9018,-78.8487,United States,US,944589
+17,Hubli,15.3502,75.1376,India,IN,943788
+18,El Alto,-16.5047,-68.1633,Bolivia,BO,943000
+19,Cankaya,39.9244,32.8856,Turkey,TR,942553
+20,Hwasu-dong,37.1997,126.8314,"Korea, South",KR,941489
+21,Setagaya,35.6466,139.6532,Japan,JP,940071
+22,Kecioren,40,32.8667,Turkey,TR,939279
+23,Jerusalem,31.7789,35.2256,Israel,IL,936425
+24,Khartoum North,15.6333,32.6333,Sudan,SD,936349
+25,Meishan,34.1736,112.839,China,CN,936000
+26,Mushin,6.5333,3.35,Nigeria,NG,935400
+27,Trujillo,-8.112,-79.0288,Peru,PE,935147
+28,Kitakyushu,33.8833,130.8833,Japan,JP,935084
+29,Aguascalientes,21.876,-102.296,Mexico,MX,934424
+30,New Orleans,30.0687,-89.9288,United States,US,932759
+31,Fort Worth,32.7817,-97.3474,United States,US,924663
+32,Taihe,30.8706,105.3784,China,CN,924531
+33,Riga,56.9489,24.1064,Latvia,LV,920643
+34,Xin'an,34.286,118.355,China,CN,920628
+35,Taihecun,45.771,131.003,China,CN,920471
+36,Kashgar,39.4681,75.9938,China,CN,920000
+37,Songnam,37.4333,127.15,"Korea, South",KR,918771
+38,Trichinopoly,10.7903,78.7047,India,IN,916857
+39,Cartagena,10.4,-75.5,Colombia,CO,914552
+40,Qingzhou,36.6853,118.4796,China,CN,914047
+41,Naples,40.8333,14.25,Italy,IT,913462
+42,Santiago del Estero,-27.7833,-64.2667,Argentina,AR,911506
+43,Naucalpan de Juarez,19.4753,-99.2378,Mexico,MX,910407
+44,Daye,30.0961,114.9804,China,CN,909724
+45,Hengzhou,22.6799,109.2614,China,CN,909400
+46,Padang,-0.95,100.3531,Indonesia,ID,909040
+47,Bridgeport,41.1918,-73.1954,United States,US,908251
+48,Owerri,5.485,7.035,Nigeria,NG,908109
+49,Zhuanghe,39.681,122.967,China,CN,905852
+50,Bobo-Dioulasso,11.1833,-4.2833,Burkina Faso,BF,903887
+51,Ad Dammam,26.4333,50.1,Saudi Arabia,SA,903312
+52,Quzhou,28.9702,118.8593,China,CN,902767
+53,Donetsk,48.0028,37.8053,Ukraine,UA,901645
+54,Ashmun,30.2941,31.0342,Egypt,EG,901191
+55,Bunia,1.5667,30.25,Congo (Kinshasa),CD,900666
+56,Jiaozhou,36.2647,120.0334,China,CN,900500
+57,Campo Grande,-20.4839,-54.615,Brazil,BR,897938
+58,Wuchang,44.924,127.158,China,CN,897705
+59,Sao Goncalo,-22.8269,-43.0539,Brazil,BR,896744
+60,Bucaramanga,7.1333,-73,Colombia,CO,893040
+61,Merida,20.97,-89.62,Mexico,MX,892363
+62,Yangchun,22.1704,111.7916,China,CN,891800
+63,Osmangazi,40.1983,29.06,Turkey,TR,891250
+64,Esenyurt,41.0342,28.68,Turkey,TR,891120
+65,Moradabad,28.8319,78.7764,India,IN,889810
+66,Bangui,4.3733,18.5628,Central African Republic,CF,889231
+67,Abeokuta,7.1608,3.3483,Nigeria,NG,888924
+68,Cancun,21.1606,-86.8475,Mexico,MX,888797
+69,Antipolo,14.5842,121.1763,Philippines,PH,887399
+70,Dengtalu,36.1386,114.1066,China,CN,887000
+71,Taguig City,14.52,121.05,Philippines,PH,886722
+72,Tabuk,28.3972,36.5789,Saudi Arabia,SA,886036
+73,Zhoushan,29.9856,122.2074,China,CN,882932
+74,Tucson,32.1541,-110.8787,United States,US,878320
+75,As Sulaymaniyah,35.5572,45.4356,Iraq,IQ,878146
+76,Chihuahua,28.6369,-106.0769,Mexico,MX,878062
+77,Klang,3.0333,101.45,Malaysia,MY,878000
+78,Tiruppur,11.1085,77.3411,India,IN,877778
+79,Gurgaon,28.456,77.029,India,IN,876824
+80,Ar Ramadi,33.4258,43.2992,Iraq,IQ,874543

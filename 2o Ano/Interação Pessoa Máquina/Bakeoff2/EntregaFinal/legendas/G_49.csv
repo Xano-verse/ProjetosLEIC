@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Ilford,51.5575,0.0858,United Kingdom,GB,168168
+2,Kasama,-10.2117,31.1783,Zambia,ZM,168102
+3,Gondomar,41.15,-8.5333,Portugal,PT,168027
+4,Novocherkassk,47.4222,40.0939,Russia,RU,168022
+5,Malanville,11.8667,3.3833,Benin,BJ,168006
+6,Baramula,34.198,74.364,India,IN,167986
+7,Porto Seguro,-16.4333,-39.0833,Brazil,BR,167955
+8,Jamalpur,24.9004,89.95,Bangladesh,BD,167900
+9,Riohacha,11.5442,-72.9069,Colombia,CO,167865
+10,Santa Cruz,36.9789,-122.0346,United States,US,167835
+11,Catape,-13.7667,15.0833,Angola,AO,167820
+12,Hirosaki,40.6031,140.4638,Japan,JP,167803
+13,Villa Canales,14.4833,-90.5333,Guatemala,GT,167779
+14,Malkapur,20.885,76.2,India,IN,167740
+15,Katha,24.1822,96.3306,Burma,MM,167700
+16,Oyama,36.3146,139.8002,Japan,JP,167647
+17,Basuo,19.092,108.671,China,CN,167636
+18,Jind,29.3167,76.3167,India,IN,167592
+19,Angra dos Reis,-23.0067,-44.3181,Brazil,BR,167418
+20,Phan Rang-Thap Cham,11.5667,108.9833,Vietnam,VN,167394
+21,Osnabruck,52.2833,8.05,Germany,DE,167366
+22,Itapecerica da Serra,-23.7172,-46.8494,Brazil,BR,167236
+23,Mogok,22.9167,96.5,Burma,MM,167149
+24,Fethiye,36.6514,29.1231,Turkey,TR,167114
+25,Itu,-23.2642,-47.2992,Brazil,BR,167095
+26,Al Qurayyat,31.3167,37.3667,Saudi Arabia,SA,167080
+27,Jutiapa,14.2828,-89.8925,Guatemala,GT,167049
+28,Palmdale,34.5944,-118.1057,United States,US,166895
+29,Zlatoust,55.1667,59.6667,Russia,RU,166885
+30,Norwich,41.5495,-72.0882,United States,US,166885
+31,Chandannagar,22.87,88.38,India,IN,166867
+32,Muskegon,43.2281,-86.2562,United States,US,166847
+33,Cerkezkoy,41.2889,28.0042,Turkey,TR,166789
+34,Linhares,-19.3894,-40.0678,Brazil,BR,166786
+35,Tiantoujiao,23.0241,114.1046,China,CN,166774
+36,Sampit,-2.5333,112.95,Indonesia,ID,166773
+37,Uppsala,59.8581,17.6447,Sweden,SE,166698
+38,Villanueva,15.3167,-88.0167,Honduras,HN,166510
+39,Adoni,15.6279,77.2749,India,IN,166344
+40,Alasandigutta,15.6244,77.2731,India,IN,166344
+41,Tuguegarao,17.6133,121.7303,Philippines,PH,166334
+42,Siirt,37.925,41.9458,Turkey,TR,166332
+43,Kuytun,44.4264,84.9032,China,CN,166261
+44,Leesburg,28.7672,-81.8962,United States,US,166200
+45,Offa,8.147,4.72,Nigeria,NG,166112
+46,Ipiales,0.8303,-77.6444,Colombia,CO,166079
+47,Le Havre,49.49,0.1,France,FR,166058
+48,Sudbury,46.49,-81.01,Canada,CA,166004
+49,Ratnapura,6.6806,80.4022,Sri Lanka,LK,165998
+50,Niiza,35.7935,139.5653,Japan,JP,165997
+51,Takaoka,36.7541,137.0257,Japan,JP,165880
+52,Leverkusen,51.0333,6.9833,Germany,DE,165748
+53,Kushiro,42.9833,144.3833,Japan,JP,165699
+54,Iwata,34.7179,137.8515,Japan,JP,165688
+55,Obihiro,42.9167,143.2,Japan,JP,165684
+56,Sao Caetano do Sul,-23.7,-46.55,Brazil,BR,165655
+57,Sawangan,-6.4086,106.7647,Indonesia,ID,165631
+58,Bechar,31.6167,-2.2167,Algeria,DZ,165627
+59,K'ebri Beyah,9.0833,43.0833,Ethiopia,ET,165518
+60,Korfez,40.7833,29.7333,Turkey,TR,165503
+61,Singida,-4.8167,34.75,Tanzania,TZ,165492
+62,Warrington,53.39,-2.59,United Kingdom,GB,165456
+63,Udipi,13.3389,74.7451,India,IN,165401
+64,Saqqez,36.2411,46.2706,Iran,IR,165258
+65,Fyzabad,26.773,82.146,India,IN,165228
+66,Kokshetau,53.2833,69.3833,Kazakhstan,KZ,165153
+67,Ebo,-11,14.6667,Angola,AO,165129
+68,Manavgat,36.7833,31.4333,Turkey,TR,165114
+69,Fukang,44.1646,87.9536,China,CN,165006
+70,Idlib,35.9333,36.6333,Syria,SY,165000
+71,Sawai Madhopur,26,76.35,India,IN,165000
+72,Lajes,-27.8158,-50.3258,Brazil,BR,164981
+73,Tenali,16.239,80.645,India,IN,164937
+74,Cienfuegos,22.1456,-80.4364,Cuba,CU,164924
+75,Petropavlovsk-Kamchatskiy,53.0167,158.65,Russia,RU,164900
+76,High Point,35.991,-79.9937,United States,US,164836
+77,Bocoio,-12.45,14.15,Angola,AO,164685
+78,Abengourou,6.7333,-3.4833,Côte d’Ivoire,CI,164424
+79,Tuscaloosa,33.2348,-87.5268,United States,US,164414
+80,Conjeeveram,12.8185,79.6947,India,IN,164384

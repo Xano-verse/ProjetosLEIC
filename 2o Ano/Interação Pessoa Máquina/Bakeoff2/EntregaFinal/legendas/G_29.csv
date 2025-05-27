@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Gwangju,37.3667,127.2833,"Korea, South",KR,310278
+2,Yokkaichi,34.965,136.6244,Japan,JP,310263
+3,Chalco,19.2647,-98.8975,Mexico,MX,310130
+4,Shahriar,35.6722,51.0236,Iran,IR,309607
+5,Shahr-e Qods,35.7097,51.1119,Iran,IR,309605
+6,Kurgan,55.4667,65.35,Russia,RU,309285
+7,Ciudad del Este,-25.5167,-54.6167,Paraguay,PY,308983
+8,Ann Arbor,42.2759,-83.731,United States,US,308983
+9,St. Paul,44.9478,-93.1039,United States,US,308806
+10,Karlsruhe,49.0092,8.404,Germany,DE,308707
+11,Safi,32.2833,-9.2333,Morocco,MA,308508
+12,Ciudad Benito Juarez,25.65,-100.0833,Mexico,MX,308285
+13,Karawang,-6.3125,107.295,Indonesia,ID,307880
+14,Sariwon,38.5064,125.7597,"Korea, North",KP,307764
+15,Suzano,-23.5428,-46.3108,Brazil,BR,307364
+16,Newark,40.7245,-74.1725,United States,US,307355
+17,Nghi Son,19.417,105.75,Vietnam,VN,307304
+18,Parbhani,19.27,76.78,India,IN,307170
+19,Puerto Princesa,9.75,118.75,Philippines,PH,307079
+20,Hisar,29.15,75.7,India,IN,307024
+21,Vladikavkaz,43.04,44.6775,Russia,RU,306978
+22,Windsor,42.2833,-83,Canada,CA,306519
+23,Kasugai,35.2475,136.9722,Japan,JP,306449
+24,Ciudad Santa Catarina,25.6833,-100.45,Mexico,MX,306322
+25,Puerto La Cruz,10.2,-64.6333,Venezuela,VE,306261
+26,Fatehpur,27.98,74.95,India,IN,305638
+27,Ciudad Victoria,23.7389,-99.1431,Mexico,MX,305155
+28,Playa del Carmen,20.6281,-87.0755,Mexico,MX,304942
+29,Yesilyurt,38.2961,38.2489,Turkey,TR,304839
+30,Yonghetun,39.9131,116.6458,China,CN,304781
+31,Irvine,33.6772,-117.7738,United States,US,304527
+32,Kashan,33.9825,51.4325,Iran,IR,304487
+33,Minna,9.6139,6.5569,Nigeria,NG,304113
+34,Sumbawanga,-7.9667,31.6167,Tanzania,TZ,303986
+35,Orel,52.9686,36.0694,Russia,RU,303696
+36,Akita,39.72,140.1026,Japan,JP,302984
+37,Kurume,33.3192,130.5083,Japan,JP,302858
+38,Az Zaqaziq,30.5667,31.5,Egypt,EG,302840
+39,Podolsk,55.4311,37.5456,Russia,RU,302831
+40,Palmas,-10.1844,-48.3336,Brazil,BR,302692
+41,Montpellier,43.6119,3.8772,France,FR,302454
+42,Vila Nova de Gaia,41.1333,-8.6167,Portugal,PT,302295
+43,Bahia Blanca,-38.7167,-62.2667,Argentina,AR,301572
+44,Al Waqf,26.0808,32.4245,Egypt,EG,301486
+45,San Bernardo,-33.5833,-70.7,Chile,CL,301313
+46,San Juan del Rio,20.3833,-99.9833,Mexico,MX,301237
+47,Armenia,4.53,-75.68,Colombia,CO,301226
+48,Augsburg,48.3689,10.8978,Germany,DE,301033
+49,Qianzhou,28.276,109.712,China,CN,301000
+50,Popayan,2.4542,-76.6092,Colombia,CO,300837
+51,Al Qunfudhah,19.1264,41.0789,Saudi Arabia,SA,300516
+52,Yakou,33.295,113.5269,China,CN,300200
+53,Newcastle,54.978,-1.6102,United Kingdom,GB,300196
+54,Oulgaret,11.957,79.7737,India,IN,300104
+55,Awasa,7.05,38.4667,Ethiopia,ET,300100
+56,Ingraj Bazar,25.0119,88.1433,India,IN,300088
+57,Oaxaca,17.0606,-96.7253,Mexico,MX,300050
+58,Binjai,3.5986,98.4803,Indonesia,ID,300009
+59,Barr Elias,33.775,35.9,Lebanon,LB,300000
+60,Khairpur Tamewah,29.58,72.2328,Pakistan,PK,300000
+61,Sucre,-19.0475,-65.26,Bolivia,BO,300000
+62,Al `Ajami,31.0959,29.7604,Egypt,EG,300000
+63,Al Matariyah,31.1833,32.0333,Egypt,EG,300000
+64,Bada Barabil,22.12,85.4,India,IN,300000
+65,Ash Shamiyah,31.9636,44.5989,Iraq,IQ,300000
+66,Oyster Bay,40.7846,-73.514,United States,US,299958
+67,Ar Raqqah,35.95,39.01,Syria,SY,299824
+68,Chakwal,32.9303,72.8556,Pakistan,PK,299751
+69,Oakashicho,34.65,135,Japan,JP,299699
+70,Afyonkarahisar,38.7578,30.5386,Turkey,TR,299673
+71,Dod Ballapur,13.292,77.543,India,IN,299594
+72,Camacari,-12.6978,-38.3239,Brazil,BR,299579
+73,Ciudad General Escobedo,25.7933,-100.1583,Mexico,MX,299364
+74,Catania,37.5,15.0903,Italy,IT,298762
+75,Jember,-8.1727,113.6873,Indonesia,ID,298585
+76,Al Mubarraz,25.3833,49.6,Saudi Arabia,SA,298562
+77,Pekalongan,-6.8833,109.6667,Indonesia,ID,298386
+78,Los Mochis,25.7835,-108.9937,Mexico,MX,298009
+79,Toshima,35.7333,139.7167,Japan,JP,297954
+80,Pachuca,20.1,-98.75,Mexico,MX,297848

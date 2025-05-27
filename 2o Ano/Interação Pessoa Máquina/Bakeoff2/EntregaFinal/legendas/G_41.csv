@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Raniwara Kalan,24.75,72.2167,India,IN,206831
+2,Solihull,52.413,-1.778,United Kingdom,GB,206674
+3,Parakou,9.35,2.6167,Benin,BJ,206667
+4,Damietta,31.4167,31.8214,Egypt,EG,206664
+5,Shimla,31.1033,77.1722,India,IN,206575
+6,Padova,45.4167,11.8667,Italy,IT,206496
+7,Banjar,-7.3695,108.5414,Indonesia,ID,206457
+8,Cidade de Nacala,-14.5428,40.6728,Mozambique,MZ,206449
+9,Passo Fundo,-28.25,-52.4,Brazil,BR,206224
+10,Dinajpur,25.6167,88.65,Bangladesh,BD,206200
+11,Hospet,15.2689,76.3909,India,IN,206167
+12,Islington,51.544,-0.1027,United Kingdom,GB,206125
+13,Talca,-35.4269,-71.6656,Chile,CL,206069
+14,Hickory,35.741,-81.3223,United States,US,206008
+15,Amarillo,35.1984,-101.8316,United States,US,205903
+16,Ifakara,-8.1,36.6833,Tanzania,TZ,205843
+17,Pamplona,42.8167,-1.65,Spain,ES,205762
+18,Northcote,-36.8019,174.7494,New Zealand,NZ,205605
+19,Maldah,25.0044,88.1458,India,IN,205521
+20,San Carlos City,15.9281,120.3489,Philippines,PH,205424
+21,Jiutai,44.1447,125.8443,China,CN,205399
+22,Phan Thiet,10.9333,108.1,Vietnam,VN,205333
+23,Puqi,29.7204,113.88,China,CN,205164
+24,Khan Yunis,31.3444,34.3031,Gaza Strip,XG,205125
+25,Ongole,15.506,80.049,India,IN,204746
+26,Cordoba,18.8942,-96.9347,Mexico,MX,204721
+27,Brahmanpara,23.6167,91.1083,Bangladesh,BD,204691
+28,Biskra,34.85,5.7333,Algeria,DZ,204661
+29,Bingerville,5.35,-3.9,Côte d’Ivoire,CI,204656
+30,Betigeri,15.443,75.6442,India,IN,204576
+31,Sioux Falls,43.5396,-96.7311,United States,US,204484
+32,Mpanda,-6.35,31.0667,Tanzania,TZ,204338
+33,Ternate,0.78,127.3819,Indonesia,ID,204215
+34,Kassel,51.3158,9.4979,Germany,DE,204202
+35,Sakaka,29.9697,40.2,Saudi Arabia,SA,204174
+36,Sejong,36.487,127.2822,"Korea, South",KR,204088
+37,Quetzaltenango,14.8333,-91.5167,Guatemala,GT,204075
+38,Coquimbo,-29.9531,-71.3433,Chile,CL,204068
+39,Tekirdag,40.9778,27.5153,Turkey,TR,204001
+40,Luzhang,25.8226,98.8577,China,CN,203977
+41,Kodumur,15.6833,77.7833,India,IN,203954
+42,Kukawa,12.9167,13.5667,Nigeria,NG,203864
+43,Geneva,46.2017,6.1469,Switzerland,CH,203840
+44,Huntington,40.8521,-73.3823,United States,US,203808
+45,Ellore,16.7117,81.1031,India,IN,203780
+46,Evansville,37.9881,-87.5341,United States,US,203661
+47,Kinh Mon,21.033,106.5,Vietnam,VN,203638
+48,Birjand,32.8744,59.2161,Iran,IR,203636
+49,Santa Ana,14.58,121.012,Philippines,PH,203598
+50,Barrancabermeja,7.0667,-73.85,Colombia,CO,203537
+51,La Guaira,10.6,-66.9331,Venezuela,VE,203520
+52,Loja,-3.9833,-79.2,Ecuador,EC,203496
+53,Mandi Burewala,30.1592,72.6817,Pakistan,PK,203454
+54,Lauro de Freitas,-12.8939,-38.3269,Brazil,BR,203334
+55,Mazabuka,-15.8467,27.7475,Zambia,ZM,203219
+56,Deoghar,24.48,86.7,India,IN,203116
+57,Tanjungpinang,0.9188,104.4554,Indonesia,ID,203008
+58,Phu Tu Son,21.1189,105.9611,Vietnam,VN,202874
+59,Huntington,38.4109,-82.4345,United States,US,202754
+60,Chhindwara,22.057,78.9396,India,IN,202688
+61,Iringa,-7.77,35.69,Tanzania,TZ,202490
+62,Lingampalli,17.4865,78.317,India,IN,202440
+63,Waterbury,41.5582,-73.0361,United States,US,202422
+64,Mokameh,25.3898,85.9191,India,IN,202411
+65,Luxor,25.6967,32.6444,Egypt,EG,202232
+66,Arica,-18.4778,-70.3181,Chile,CL,202131
+67,Las Tunas,20.9597,-76.9544,Cuba,CU,202105
+68,Qal`at Bishah,20,42.6,Saudi Arabia,SA,202096
+69,Frisco,33.156,-96.8216,United States,US,202075
+70,Ha Tinh,18.3333,105.9,Vietnam,VN,202062
+71,Richmond Hill,43.8667,-79.4333,Canada,CA,202022
+72,Timayy al Imdid,30.9438,31.5293,Egypt,EG,201956
+73,Al Khums,32.6497,14.2644,Libya,LY,201943
+74,Charleroi,50.4,4.4333,Belgium,BE,201816
+75,Lorain,41.4409,-82.184,United States,US,201808
+76,Matsue,35.4681,133.0486,Japan,JP,201802
+77,Tarakan,3.3,117.6333,Indonesia,ID,201635
+78,Loures,38.8333,-9.1667,Portugal,PT,201632
+79,Pingzhen,24.9439,121.2161,Taiwan,TW,201632
+80,Radom,51.4036,21.1567,Poland,PL,201601

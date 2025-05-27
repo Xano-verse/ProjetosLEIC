@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Yangsan,35.3333,129.0333,"Korea, South",KR,297532
+2,Valladolid,41.6528,-4.7236,Spain,ES,297459
+3,Tampico,22.2553,-97.8686,Mexico,MX,297284
+4,Bihar,25.197,85.518,India,IN,297268
+5,Espoo,60.2056,24.6556,Finland,FI,297132
+6,Malabo,3.7456,8.7744,Equatorial Guinea,GQ,297000
+7,Pilar,-34.45,-58.9167,Argentina,AR,296826
+8,Valparaiso,-33.0461,-71.6197,Chile,CL,296655
+9,Cirebon,-6.7071,108.5574,Indonesia,ID,296389
+10,Tagum,7.4478,125.8078,Philippines,PH,296202
+11,Santa Rosa,38.4458,-122.7067,United States,US,296180
+12,Darbhanga,26.17,85.9,India,IN,296039
+13,Comilla,23.45,91.2,Bangladesh,BD,296010
+14,Battalgazi,38.4228,38.3656,Turkey,TR,295821
+15,Sorong,-0.8667,131.25,Indonesia,ID,295809
+16,Shubrakhit,31.0275,30.7128,Egypt,EG,295777
+17,Floridablanca,7.2167,-73.0667,Colombia,CO,295724
+18,Silang,14.2306,120.975,Philippines,PH,295644
+19,Eloy Alfaro,-2.1733,-79.8311,Ecuador,EC,295211
+20,Pondokaren,-6.2811,106.7019,Indonesia,ID,294996
+21,Sikandarabad,28.4512,77.6955,India,IN,294858
+22,Kafr Saqr,30.7964,31.6261,Egypt,EG,294765
+23,Vila Teixeira da Silva,-12.1958,15.8556,Angola,AO,294494
+24,Panipat,29.3875,76.97,India,IN,294292
+25,Rangpur,25.75,89.2444,Bangladesh,BD,294265
+26,Bialystok,53.1353,23.1456,Poland,PL,294242
+27,Canton,40.8078,-81.3676,United States,US,294047
+28,Asheville,35.5707,-82.5537,United States,US,294013
+29,Flint,43.0236,-83.6921,United States,US,293893
+30,Vigo,42.2314,-8.7124,Spain,ES,293652
+31,Coacalco,19.6333,-99.0931,Mexico,MX,293444
+32,Aizawl,23.7272,92.7178,India,IN,293416
+33,Bali,22.65,88.34,India,IN,293373
+34,Bradford,53.8,-1.75,United Kingdom,GB,293277
+35,Mabalacat,15.22,120.58,Philippines,PH,293244
+36,Dexing,28.9306,117.5947,China,CN,293201
+37,Winter Haven,28.0118,-81.7014,United States,US,293093
+38,Graz,47.0708,15.4386,Austria,AT,292630
+39,Palni,10.45,77.5161,India,IN,292301
+40,Resistencia,-27.4514,-58.9867,Argentina,AR,291720
+41,Groznyy,43.3125,45.6986,Russia,RU,291687
+42,Chimbote,-9.0745,-78.5936,Peru,PE,291408
+43,Strasbourg,48.5833,7.7458,France,FR,291313
+44,Bergen,60.3894,5.33,Norway,NO,291189
+45,Gatineau,45.4833,-75.65,Canada,CA,291041
+46,Surajgarha,25.25,86.23,India,IN,290998
+47,Tegal,-6.8675,109.1375,Indonesia,ID,290988
+48,Anchorage,61.1508,-149.1091,United States,US,290674
+49,Batna,35.55,6.1667,Algeria,DZ,290645
+50,Aarhus,56.1572,10.2107,Denmark,DK,290598
+51,Morioka,39.7021,141.1545,Japan,JP,290553
+52,Lincoln,40.8099,-96.6784,United States,US,290531
+53,Hulin,45.7667,132.9333,China,CN,290000
+54,Hong'an,47.21,123.61,China,CN,289999
+55,Karimnagar,18.4386,79.1288,India,IN,289821
+56,Santa Maria,14.82,120.96,Philippines,PH,289820
+57,Tambov,52.7231,41.4539,Russia,RU,289701
+58,Dewas,22.96,76.06,India,IN,289550
+59,Gungoren,41.0225,28.8717,Turkey,TR,289331
+60,Magway,20.15,94.95,Burma,MM,289247
+61,Farg`ona,40.3864,71.7864,Uzbekistan,UZ,288850
+62,Concord,35.3933,-80.6369,United States,US,288783
+63,Hugli,22.9,88.39,India,IN,288506
+64,Chunchura,22.9,88.39,India,IN,288506
+65,Setif,36.19,5.41,Algeria,DZ,288461
+66,Sonpur,25.7,85.18,India,IN,288102
+67,Meguro,35.6333,139.6833,Japan,JP,288088
+68,Machala,-3.2667,-79.9667,Ecuador,EC,288072
+69,San Lorenzo,-25.34,-57.52,Paraguay,PY,287977
+70,Jersey City,40.7184,-74.0686,United States,US,287899
+71,Ichalkaranji,16.7,74.47,India,IN,287570
+72,Punto Fijo,11.7167,-70.1833,Venezuela,VE,287558
+73,Varzea Grande,-15.65,-56.1333,Brazil,BR,287526
+74,Tirupati,13.65,79.42,India,IN,287482
+75,Pathein,16.7842,94.7333,Burma,MM,287071
+76,Chernihiv,51.4939,31.2947,Ukraine,UA,286899
+77,Sincelejo,9.295,-75.3961,Colombia,CO,286716
+78,Cluj-Napoca,46.7667,23.5833,Romania,RO,286598
+79,Springfield,37.1943,-93.2916,United States,US,286280
+80,Sekondi,4.9433,-1.704,Ghana,GH,286248

@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Ogden,41.2279,-111.9682,United States,US,622918
+2,Turpan,42.9512,89.1895,China,CN,622903
+3,Jos,9.9167,8.8903,Nigeria,NG,622802
+4,Al Mansurah,31.05,31.3833,Egypt,EG,621953
+5,Contagem,-19.9319,-44.0539,Brazil,BR,621865
+6,Jambi,-1.59,103.61,Indonesia,ID,619553
+7,Halwan,29.8453,31.3333,Egypt,EG,619293
+8,Provo,40.2457,-111.6457,United States,US,619218
+9,Tan An,10.905,106.6994,Vietnam,VN,618984
+10,Port-Bouet,5.2667,-3.9,Côte d’Ivoire,CI,618795
+11,Pontianak,-0.0206,109.3414,Indonesia,ID,618388
+12,Meihekou,42.5407,125.7107,China,CN,618251
+13,Jurong,31.946,119.164,China,CN,617706
+14,Bihta,25.5619,84.87,India,IN,617427
+15,Yuhuan,28.1277,121.2288,China,CN,616346
+16,Joinvile,-26.3204,-48.8437,Brazil,BR,616323
+17,Feira de Santana,-12.25,-38.95,Brazil,BR,616279
+18,Khabarovsk,48.4833,135.0833,Russia,RU,616242
+19,Leipzig,51.34,12.375,Germany,DE,616093
+20,Xinji,37.943,115.218,China,CN,615919
+21,Knoxville,35.9692,-83.9496,United States,US,615829
+22,Ta`izz,13.5789,44.0219,Yemen,YE,615467
+23,Etimesgut,39.9458,32.6694,Turkey,TR,614891
+24,Changping,40.2248,116.1944,China,CN,614821
+25,Tallinn,59.4372,24.7453,Estonia,EE,614561
+26,Chimalhuacan,19.4167,-98.9,Mexico,MX,614453
+27,Kandahar,31.62,65.7158,Afghanistan,AF,614254
+28,Serang,-6.12,106.1503,Indonesia,ID,613356
+29,Zhangshu,28.0546,115.5462,China,CN,610424
+30,Grand Rapids,42.9619,-85.6562,United States,US,609023
+31,Yukarikaraman,36.9167,30.6833,Turkey,TR,608675
+32,Gothenburg,57.7075,11.9675,Sweden,SE,607882
+33,Kuantan,3.8167,103.3333,Malaysia,MY,607778
+34,Gold Coast,-28.0167,153.4,Australia,AU,607665
+35,Kawaguchi,35.8077,139.7241,Japan,JP,607373
+36,Las Pinas City,14.45,120.98,Philippines,PH,606293
+37,Cuttack,20.5236,85.7881,India,IN,606007
+38,San Miguel de Tucuman,-26.8167,-65.2167,Argentina,AR,605767
+39,Ar Rayyan,25.25,51.4,Qatar,QA,605712
+40,Salimpur,26.3,83.9167,India,IN,604483
+41,Malanje,-9.5333,16.35,Angola,AO,604215
+42,Columbia,34.0378,-80.9036,United States,US,604065
+43,Kryvyi Rih,47.91,33.39,Ukraine,UA,603904
+44,Djibouti,11.5883,43.145,Djibouti,DJ,603900
+45,Zhuozhou,39.485,115.974,China,CN,603535
+46,Tianchang,32.6811,119.0137,China,CN,602840
+47,Tunis,36.8064,10.1817,Tunisia,TN,602560
+48,Yaroslavl,57.6167,39.85,Russia,RU,601403
+49,Bacolod,10.6765,122.9509,Philippines,PH,600783
+50,Garoua,9.3,13.4,Cameroon,CM,600000
+51,Bafoussam,5.4667,10.4167,Cameroon,CM,600000
+52,Haifa,32.8192,34.9992,Israel,IL,600000
+53,Raurkela,22.2492,84.8828,India,IN,600000
+54,Tumkur,13.34,77.1,India,IN,599078
+55,Balikpapan,-1.2768,116.8277,Indonesia,ID,598043
+56,Somolu,6.5408,3.3872,Nigeria,NG,597400
+57,Vladivostok,43.1333,131.9,Russia,RU,597240
+58,Al Hillah,23.4895,46.7564,Saudi Arabia,SA,594605
+59,Melikgazi,38.7167,35.5,Turkey,TR,594344
+60,Kagoshima,31.6,130.55,Japan,JP,593754
+61,Sihui,23.3265,112.7338,China,CN,593400
+62,Dortmund,51.5139,7.4653,Germany,DE,593317
+63,Irapuato,20.6667,-101.35,Mexico,MX,592953
+64,Al Mahallah al Kubra,30.9686,31.1636,Egypt,EG,592573
+65,Sialkot City,32.4925,74.5311,Pakistan,PK,591668
+66,Luocheng,30.99,104.25,China,CN,591115
+67,Albany,42.6664,-73.7987,United States,US,590694
+68,Pereira,4.8143,-75.6946,Colombia,CO,590554
+69,Gaza,31.5069,34.456,Gaza Strip,XG,590481
+70,Uvira,-3.4,29.15,Congo (Kinshasa),CD,590000
+71,Reynosa,26.0922,-98.2778,Mexico,MX,589466
+72,Zahedan,29.5025,60.8558,Iran,IR,587730
+73,Cimahi,-6.8712,107.5548,Indonesia,ID,586580
+74,Mbale,1.0806,34.175,Uganda,UG,586300
+75,Wenlan,23.3961,103.3649,China,CN,585976
+76,Shangzhi,45.2116,127.962,China,CN,585386
+77,Essen,51.4508,7.0131,Germany,DE,584580
+78,Itabashi,35.7667,139.6833,Japan,JP,584483
+79,Shah Alam,3.0722,101.5167,Malaysia,MY,584340
+80,Botou,38.0833,116.5833,China,CN,584308

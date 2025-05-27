@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Maringa,-23.4,-51.9167,Brazil,BR,409657
+2,Kocasinan,38.7333,35.4833,Turkey,TR,409005
+3,Mataram,-8.5833,116.1167,Indonesia,ID,408900
+4,Shashemene,7.2,38.6,Ethiopia,ET,408368
+5,Zaria,11.0667,7.7,Nigeria,NG,408198
+6,Kumi,36.1195,128.3444,"Korea, South",KR,407880
+7,Wanyuan,31.9833,107.9667,China,CN,407594
+8,Binan,14.33,121.08,Philippines,PH,407437
+9,Chattanooga,35.066,-85.2481,United States,US,406849
+10,Jiexiu,37.027,111.917,China,CN,406517
+11,Baglar,37.9167,40.1833,Turkey,TR,406471
+12,Padiala,30.802,76.593,India,IN,406192
+13,Da Lat,11.9417,108.4383,Vietnam,VN,406105
+14,Sham Shui Po,22.3307,114.1622,Hong Kong,HK,405869
+15,Santa Fe,-31.6333,-60.7,Argentina,AR,405683
+16,Delhi Cantonment,28.6,77.1333,India,IN,405633
+17,Cumana,10.4564,-64.1675,Venezuela,VE,405626
+18,Barura,23.375,91.0583,Bangladesh,BD,405118
+19,Yuregir,36.9981,35.3439,Turkey,TR,404726
+20,Nagasaki,32.7447,129.8736,Japan,JP,404656
+21,Mardan,34.2012,72.0258,Pakistan,PK,404436
+22,Hat Yai,7.0167,100.4667,Thailand,TH,404044
+23,Salt Lake City,22.61,88.4,India,IN,403316
+24,Qazvin,36.2894,50.0086,Iran,IR,402748
+25,Etawa,24.18,78.2,India,IN,402678
+26,Lancaster,40.042,-76.3012,United States,US,402476
+27,Sonipat,28.99,77.022,India,IN,402000
+28,Jundiai,-23.1858,-46.8839,Brazil,BR,401896
+29,Ivanovo,56.9967,40.9819,Russia,RU,401505
+30,Greenville,34.8354,-82.3646,United States,US,401443
+31,Toyonaka,34.7833,135.4667,Japan,JP,401233
+32,Bogra,24.85,89.3667,Bangladesh,BD,400983
+33,Oskemen,49.9833,82.6167,Kazakhstan,KZ,400142
+34,Gifu,35.4232,136.7608,Japan,JP,400118
+35,Maungdaw,20.8167,92.3667,Burma,MM,400000
+36,Jiangjiafan,31.0238,111.9709,China,CN,400000
+37,Durham,35.9792,-78.9022,United States,US,399616
+38,Bryansk,53.2333,34.3667,Russia,RU,399579
+39,Dera Ghazi Khan,30.0331,70.64,Pakistan,PK,399064
+40,Anapolis,-16.3339,-48.9519,Brazil,BR,398817
+41,Pensacola,30.4413,-87.1911,United States,US,398813
+42,Miyazaki,31.9078,131.4203,Japan,JP,397476
+43,Quilon,8.8932,76.6141,India,IN,397419
+44,Mulangodi,9,76.6167,India,IN,397419
+45,Munro Turuttu,9,76.6167,India,IN,397419
+46,Hirakata,34.8167,135.65,Japan,JP,396694
+47,Sandakan,5.8333,118.1167,Malaysia,MY,396290
+48,Szczecin,53.4325,14.5481,Poland,PL,396168
+49,Brno,49.1925,16.6083,Czechia,CZ,396101
+50,Surgut,61.25,73.4333,Russia,RU,395900
+51,Hejin,35.596,110.712,China,CN,395527
+52,Fayetteville,36.0714,-94.1661,United States,US,394650
+53,Betsiboka,-16.95,46.83,Madagascar,MG,394561
+54,Thies,14.7833,-16.9167,Senegal,SN,394544
+55,Arlington,32.6998,-97.125,United States,US,393469
+56,Al Jahra',29.35,47.6833,Kuwait,KW,393432
+57,Kaunas,54.8972,23.8861,Lithuania,LT,393397
+58,Thanh Hoa,19.8075,105.7764,Vietnam,VN,393294
+59,Diadema,-23.6861,-46.6106,Brazil,BR,393237
+60,Lobito,-12.3667,13.5333,Angola,AO,393079
+61,Saurimo,-9.65,20.4,Angola,AO,393000
+62,Yola,9.23,12.46,Nigeria,NG,392854
+63,Zhugang,28.1358,121.2264,China,CN,392800
+64,Tangail,24.2644,89.9181,Bangladesh,BD,392300
+65,Nha Trang,12.245,109.1917,Vietnam,VN,392279
+66,Khayelitsha,-34.0403,18.6778,South Africa,ZA,391749
+67,Ad Diwaniyah,31.9892,44.9247,Iraq,IQ,391600
+68,Nnewi,6.0167,6.9167,Nigeria,NG,391227
+69,Hancheng,35.4667,110.4333,China,CN,391164
+70,San-Pedro,4.75,-6.6333,Côte d’Ivoire,CI,390654
+71,Gujrat,32.5739,74.0789,Pakistan,PK,390533
+72,Yokosuka,35.2813,139.6721,Japan,JP,390275
+73,Tieli,46.95,128.05,China,CN,390000
+74,Asyut,27.1833,31.1667,Egypt,EG,389307
+75,Gwoza,11.0861,13.6914,Nigeria,NG,388600
+76,Sampaloc,14.6031,121.0022,Philippines,PH,388305
+77,Saki,8.6667,3.4,Nigeria,NG,388225
+78,Bologna,44.4939,11.3428,Italy,IT,387971
+79,Aqtobe,50.2836,57.2297,Kazakhstan,KZ,387807
+80,Cilegon,-6.0027,106.0112,Indonesia,ID,387543

@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Campo Largo,-25.4589,-49.5278,Brazil,BR,136327
+2,San Jose del Cabo,23.0614,-109.7081,Mexico,MX,136285
+3,Cachoeirinha,-29.9508,-51.0939,Brazil,BR,136258
+4,Termiz,37.2167,67.2833,Uzbekistan,UZ,136200
+5,Zinacantepec,19.2833,-99.7333,Mexico,MX,136167
+6,Batang,-6.9081,109.7304,Indonesia,ID,136145
+7,Bacau,46.5833,26.9167,Romania,RO,136087
+8,Norzagaray,14.92,121.05,Philippines,PH,136064
+9,Yaizu,34.8669,138.3247,Japan,JP,136028
+10,Talaivasal,11.5867,78.7583,India,IN,136026
+11,Kisarazu,35.376,139.9168,Japan,JP,136023
+12,Agcabadi,40.0528,47.4614,Azerbaijan,AZ,136000
+13,Birganj,27,84.8667,Nepal,NP,135904
+14,Disa,24.2501,72.1822,India,IN,135869
+15,Tobruk,32.0761,23.9614,Libya,LY,135832
+16,Elizabeth,40.6658,-74.1913,United States,US,135665
+17,Ebina,35.4464,139.3908,Japan,JP,135557
+18,Floridablanca,14.974,120.528,Philippines,PH,135542
+19,Gitega,-3.4283,29.925,Burundi,BI,135467
+20,Rionegro,6.1535,-75.3743,Colombia,CO,135465
+21,Stamford,41.1039,-73.5585,United States,US,135413
+22,Nkongsamba,4.95,9.9333,Cameroon,CM,135405
+23,Yuma,32.5995,-114.5491,United States,US,135389
+24,Raigarh,21.8974,83.395,India,IN,135363
+25,Yalova,40.6556,29.275,Turkey,TR,135355
+26,Maia,41.2333,-8.6167,Portugal,PT,135306
+27,Ituzaingo,-34.6667,-58.6667,Argentina,AR,135275
+28,Tay Ninh,11.3678,106.1189,Vietnam,VN,135254
+29,Kigoma,-4.8833,29.6333,Tanzania,TZ,135234
+30,Kent,47.3887,-122.2128,United States,US,135169
+31,Miramar,25.9773,-80.3351,United States,US,135158
+32,Andimeshk,32.4714,48.3489,Iran,IR,135116
+33,Tizi Ouzou,36.7167,4.05,Algeria,DZ,135088
+34,Agboville,5.9333,-4.2167,Côte d’Ivoire,CI,135082
+35,Siwan,26.22,84.36,India,IN,135066
+36,Maldonado,-34.9,-54.95,Uruguay,UY,135014
+37,Ipetumodu,7.507,4.4447,Nigeria,NG,135000
+38,Shahreza,32.0122,51.8594,Iran,IR,134952
+39,Zabol,31.0339,61.4878,Iran,IR,134950
+40,Inazawa,35.2647,136.7969,Japan,JP,134938
+41,Caraguatatuba,-23.62,-45.4128,Brazil,BR,134875
+42,Pyay,18.82,95.2156,Burma,MM,134861
+43,Silopi,37.2486,42.4703,Turkey,TR,134754
+44,Djakotome,6.9,1.7167,Benin,BJ,134704
+45,El Oued,33.3611,6.8606,Algeria,DZ,134699
+46,Moron,49.6356,100.1556,Mongolia,MN,134530
+47,Bern,46.9481,7.4475,Switzerland,CH,134506
+48,Coeur d'Alene,47.704,-116.7936,United States,US,134503
+49,Ashqelon,31.6667,34.5667,Israel,IL,134454
+50,Minoo,34.8333,135.4667,Japan,JP,134435
+51,Mabacun,24.6807,113.5936,China,CN,134396
+52,Laghouat,33.8028,2.875,Algeria,DZ,134372
+53,Salto,-23.2008,-47.2869,Brazil,BR,134319
+54,Sibiu,45.7928,24.1519,Romania,RO,134308
+55,Brighton,50.8208,-0.1375,United Kingdom,GB,134293
+56,Zafarwal,32.35,74.9,Pakistan,PK,134275
+57,Londuimbali,-12.2419,15.3133,Angola,AO,134254
+58,Cameta,-2.2439,-49.4958,Brazil,BR,134184
+59,Vitoria de Santo Antao,-8.1264,-35.3075,Brazil,BR,134110
+60,Dumaguete City,9.3103,123.3081,Philippines,PH,134103
+61,Navoiy,40.0844,65.3792,Uzbekistan,UZ,134100
+62,Marianao,23.0833,-82.4333,Cuba,CU,134057
+63,Sale,53.424,-2.322,United Kingdom,GB,134022
+64,Luuq,3.6981,42.5972,Somalia,SO,134000
+65,Ba Don,17.7547,106.4231,Vietnam,VN,134000
+66,Gubeng,-7.2729,112.7493,Indonesia,ID,133900
+67,Daraga,13.1619,123.6939,Philippines,PH,133893
+68,Veszprem,47.093,17.9138,Hungary,HU,133880
+69,Lakewood,40.0763,-74.2031,United States,US,133875
+70,Famalicao,41.4,-8.5167,Portugal,PT,133832
+71,Debre Mark'os,10.3333,37.7167,Ethiopia,ET,133810
+72,Tiraspol,46.8403,29.6433,Moldova,MD,133807
+73,Coral Springs,26.2702,-80.2591,United States,US,133801
+74,Ruda Slaska,50.2628,18.8536,Poland,PL,133793
+75,Rybnik,50.0833,18.55,Poland,PL,133772
+76,Idfu,24.9778,32.8733,Egypt,EG,133772
+77,Tokha,27.7592,85.3283,Nepal,NP,133755
+78,Sterling Heights,42.5809,-83.0305,United States,US,133744
+79,Kalol,23.246,72.496,India,IN,133737
+80,San Andres,14.5739,121.0039,Philippines,PH,133727

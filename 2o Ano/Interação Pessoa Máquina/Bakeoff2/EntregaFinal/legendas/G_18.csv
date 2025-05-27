@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Valledupar,10.4833,-73.25,Colombia,CO,544134
+2,Fengcheng,40.45,124.0667,China,CN,543933
+3,Muntinlupa City,14.38,121.05,Philippines,PH,543445
+4,Ghulja,43.9,81.35,China,CN,542507
+5,Ixtapaluca,19.3186,-98.8822,Mexico,MX,542211
+6,Fuding,27.2,120.2,China,CN,542000
+7,Heroica Matamoros,25.8797,-97.5042,Mexico,MX,541979
+8,Akron,41.0798,-81.5219,United States,US,541945
+9,Mbeya,-8.9,33.45,Tanzania,TZ,541603
+10,An Nasiriyah,31.0439,46.2575,Iraq,IQ,541600
+11,Xiangyang,34.2995,108.4905,China,CN,541554
+12,Ibague,4.4333,-75.2333,Colombia,CO,541101
+13,Al Hillah,32.4775,44.4314,Iraq,IQ,541034
+14,Juiz de Fora,-21.7619,-43.3494,Brazil,BR,540756
+15,City of Calamba,14.22,121.17,Philippines,PH,539671
+16,El Geneina,13.45,22.45,Sudan,SD,538390
+17,Santa Cruz,28.4667,-16.25,Spain,ES,538000
+18,Ryazan,54.63,39.7425,Russia,RU,537622
+19,Chang'an,29.4768,113.4504,China,CN,537500
+20,Florianopolis,-27.6122,-48.4853,Brazil,BR,537213
+21,Nilufer,40.2833,28.95,Turkey,TR,536365
+22,Antwerp,51.2178,4.4003,Belgium,BE,536079
+23,Kassala,15.45,36.4,Sudan,SD,536009
+24,Aksu,41.185,80.2904,China,CN,535657
+25,Salta,-24.7833,-65.4167,Argentina,AR,535303
+26,Dispur,26.1397,91.7925,India,IN,534872
+27,Palm Bay,27.9631,-80.6593,United States,US,534348
+28,Naberezhnyye Chelny,55.6833,52.3167,Russia,RU,533839
+29,Gulbarga,17.329,76.825,India,IN,533587
+30,Nansana,0.3639,32.5286,Uganda,UG,532800
+31,Mingguang,32.7833,117.9667,China,CN,532732
+32,Concord,37.9722,-122.0016,United States,US,531175
+33,Beira,-19.8333,34.85,Mozambique,MZ,530604
+34,Yazd,31.8822,54.3397,Iran,IR,529673
+35,Ardabil,38.2425,48.29,Iran,IR,529374
+36,Touba,14.8667,-15.8833,Senegal,SN,529176
+37,Bikaner,28.0181,73.3169,India,IN,529007
+38,Gaobeidian,39.327,115.874,China,CN,528903
+39,Ndola,-12.9689,28.6325,Zambia,ZM,528330
+40,Himeji,34.8167,134.6833,Japan,JP,527596
+41,Ailan Mubage,43.908,81.2777,China,CN,526745
+42,Bandar `Abbas,27.1961,56.2878,Iran,IR,526648
+43,Skopje,41.9961,21.4317,North Macedonia,MK,526502
+44,Santa Teresa del Tuy,10.2333,-66.6639,Venezuela,VE,525321
+45,Port Said,31.2625,32.3061,Egypt,EG,524433
+46,Astrakhan,46.35,48.035,Russia,RU,524371
+47,Koto-ku,35.6667,139.8167,Japan,JP,524310
+48,Ciudad Apodaca,25.7817,-100.1886,Mexico,MX,523370
+49,Monteria,8.75,-75.8833,Colombia,CO,523150
+50,Nuremberg,49.4539,11.0775,Germany,DE,523026
+51,Kitchener,43.4186,-80.4728,Canada,CA,522888
+52,Yucheng,36.934,116.638,China,CN,522878
+53,Nagercoil,8.175,77.4306,India,IN,522759
+54,Agartala,23.8314,91.2869,India,IN,522613
+55,Soacha,4.5872,-74.2214,Colombia,CO,522442
+56,Buca,38.35,27.1667,Turkey,TR,522404
+57,Lyon,45.76,4.84,France,FR,522250
+58,Maipu,-33.5167,-70.7667,Chile,CL,521627
+59,Arak,34.0914,49.6933,Iran,IR,520944
+60,Serra,-20.1289,-40.3078,Brazil,BR,520649
+61,Tultitlan de Mariano Escobedo,19.645,-99.1694,Mexico,MX,520557
+62,Meknes,33.895,-5.5547,Morocco,MA,520428
+63,Bac Ninh,21.1833,106.05,Vietnam,VN,520000
+64,Anda,46.424,125.352,China,CN,520000
+65,Longzhou,30.32,112.23,China,CN,520000
+66,Al Fayyum,29.3084,30.8441,Egypt,EG,519047
+67,Utsunomiya,36.5551,139.8826,Japan,JP,518197
+68,Sheffield,53.3808,-1.4703,United Kingdom,GB,518090
+69,Mixco,14.6331,-90.6064,Guatemala,GT,517505
+70,Suez,29.9667,32.55,Egypt,EG,516959
+71,Heshan,22.7667,112.95,China,CN,516500
+72,Penza,53.2,45,Russia,RU,516450
+73,Loni,28.75,77.28,India,IN,516082
+74,Jiaji,19.2431,110.4642,China,CN,515700
+75,Santa Marta,11.2419,-74.2053,Colombia,CO,515556
+76,Ujjain,23.17,75.79,India,IN,515215
+77,Beining,41.6,121.8,China,CN,514898
+78,Abu Tisht,26.1183,32.0953,Egypt,EG,514535
+79,Maturin,9.75,-63.183,Venezuela,VE,514046
+80,Liverpool,53.4094,-2.9785,United Kingdom,GB,513441

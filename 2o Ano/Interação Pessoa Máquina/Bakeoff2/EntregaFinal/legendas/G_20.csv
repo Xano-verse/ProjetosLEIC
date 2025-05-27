@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Worcester,42.2705,-71.8079,United States,US,486486
+2,Kawachicho,34.6794,135.6008,Japan,JP,486464
+3,Shahe,36.8549,114.5033,China,CN,486329
+4,Gdansk,54.3475,18.6453,Poland,PL,486022
+5,Sevastopol,44.605,33.5225,Ukraine,UA,485386
+6,Garoowe,8.4,48.4667,Somalia,SO,485000
+7,Gaoping,35.798,112.924,China,CN,484862
+8,Villa Nueva,14.5269,-90.5875,Guatemala,GT,483897
+9,Dunhua,43.3667,128.2333,China,CN,483811
+10,Lianran,24.919,102.478,China,CN,483753
+11,Akhmim,26.5667,31.75,Egypt,EG,482666
+12,Sanliurfa,37.1583,38.7917,Turkey,TR,482323
+13,Az Zarqa',32.0833,36.1,Jordan,JO,481300
+14,Malegaon,20.55,74.55,India,IN,481228
+15,Sao Jose do Rio Preto,-20.8081,-49.3811,Brazil,BR,480439
+16,Valletta,35.8983,14.5125,Malta,MT,480134
+17,Kolwezi,-10.7167,25.4667,Congo (Kinshasa),CD,480000
+18,Jamnagar,22.47,70.07,India,IN,479920
+19,Sylhet,24.9,91.8667,Bangladesh,BD,479837
+20,Ananindeua,-1.3658,-48.3719,Brazil,BR,478778
+21,East London,-33.0175,27.9047,South Africa,ZA,478676
+22,Berbera,10.4356,45.0164,Somalia,SO,478000
+23,Jiannan,31.3333,104.2,China,CN,477868
+24,Chiniot,31.7194,72.9842,Pakistan,PK,477781
+25,Asuncion,-25.3,-57.6333,Paraguay,PY,477346
+26,Oita,33.2333,131.6067,Japan,JP,477186
+27,Nangong,37.359,115.409,China,CN,476096
+28,Bardoli,21.12,73.12,India,IN,475963
+29,Eldoret,0.5167,35.2833,Kenya,KE,475716
+30,Bratislava,48.1439,17.1097,Slovakia,SK,475503
+31,Kurashiki,34.585,133.7722,Japan,JP,474862
+32,Al Jubayl,27,49.6544,Saudi Arabia,SA,474679
+33,Worthing,50.8147,-0.3714,United Kingdom,GB,474485
+34,Gaya,24.75,85.01,India,IN,474093
+35,Shekhupura,31.7111,73.9878,Pakistan,PK,473129
+36,Piura,-5.2,-80.6333,Peru,PE,473025
+37,Vila Velha,-20.3364,-40.2936,Brazil,BR,472762
+38,Ar Rusayfah,32.0178,36.0464,Jordan,JO,472604
+39,Jiaojiangcun,28.6804,121.45,China,CN,471500
+40,Laohekou,32.359,111.684,China,CN,471482
+41,San Juan,-31.5342,-68.5261,Argentina,AR,471389
+42,Mykolaiv,46.975,31.995,Ukraine,UA,470011
+43,Beian,48.25,126.5167,China,CN,470000
+44,Fujin,47.25,132.0333,China,CN,470000
+45,Kucukcekmece,41,28.8,Turkey,TR,469431
+46,Mazar-e Sharif,36.7,67.1167,Afghanistan,AF,469247
+47,Xiaoyi,36.0833,111.5167,China,CN,468770
+48,Balashikha,55.8167,37.9667,Russia,RU,468221
+49,Qingzhen,26.5704,106.4687,China,CN,467992
+50,Tula,54.2,37.6167,Russia,RU,467955
+51,Ba`qubah,33.75,44.6333,Iraq,IQ,467900
+52,Katlehong,-26.3333,28.15,South Africa,ZA,467890
+53,Jiangshan,28.7361,118.625,China,CN,467862
+54,Buraydah,26.3333,43.9667,Saudi Arabia,SA,467410
+55,Surab,28.4925,66.2597,Pakistan,PK,467000
+56,Kupang,-10.1702,123.6077,Indonesia,ID,466632
+57,Ambattur,13.1143,80.1548,India,IN,466205
+58,Nakhon Ratchasima,14.975,102.1,Thailand,TH,466098
+59,Tan Uyen,11.0508,106.7636,Vietnam,VN,466053
+60,Constantine,36.35,6.6,Algeria,DZ,465138
+61,Longjiang,27.5819,120.5489,China,CN,464695
+62,Caxias do Sul,-29.1667,-51.1833,Brazil,BR,463338
+63,Angeles City,15.1472,120.5847,Philippines,PH,462928
+64,Kuqa,41.7156,82.9322,China,CN,462588
+65,Kanazawa,36.5611,136.6564,Japan,JP,462479
+66,Long Beach,33.7977,-118.167,United States,US,462293
+67,Port St. Lucie,27.2796,-80.3884,United States,US,462047
+68,Manado Light,1.4931,124.8413,Indonesia,ID,461636
+69,Kartal,40.8872,29.19,Turkey,TR,461155
+70,Cranbourne,-38.0996,145.2834,Australia,AU,460491
+71,Jalgaon,21.004,75.568,India,IN,460468
+72,Porto Velho,-8.7619,-63.9039,Brazil,BR,460413
+73,Chhatarpur,24.55,79.3527,India,IN,459943
+74,Fukuyama,34.4858,133.3622,Japan,JP,459576
+75,Little Rock,34.7256,-92.3577,United States,US,459409
+76,Juba,4.85,31.6,South Sudan,SS,459342
+77,Lanus,-34.7,-58.4,Argentina,AR,459263
+78,Amagasaki,34.7333,135.4,Japan,JP,458835
+79,Kikwit,-5.0386,18.8181,Congo (Kinshasa),CD,458000
+80,Pyeongtaek,36.9922,127.1128,"Korea, South",KR,457873

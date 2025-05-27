@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Ouargla,31.95,5.3167,Algeria,DZ,191136
+2,Cedar Rapids,41.9662,-91.6783,United States,US,191104
+3,Manzanillo,19.0522,-104.3158,Mexico,MX,191031
+4,Malaybalay,8.1564,125.1333,Philippines,PH,190712
+5,Armavir,45,41.1167,Russia,RU,190709
+6,Vancouver,45.6366,-122.5967,United States,US,190700
+7,Isidro Casanova,-34.7,-58.5833,Argentina,AR,190696
+8,Chibia,-15.1833,13.7,Angola,AO,190670
+9,Leganes,40.3281,-3.7644,Spain,ES,190665
+10,Hino,35.6713,139.3951,Japan,JP,190598
+11,Orai,25.98,79.47,India,IN,190575
+12,Shahr-e Kord,32.3311,50.8594,Iran,IR,190441
+13,Rybinsk,58.05,38.8333,Russia,RU,190429
+14,Jhelum,32.9425,73.7256,Pakistan,PK,190425
+15,Mahbubnagar,16.7488,78.0035,India,IN,190400
+16,Prokopyevsk,53.8833,86.7167,Russia,RU,190334
+17,Pabna,24.0167,89.2167,Bangladesh,BD,190317
+18,Cap-Haitien,19.76,-72.2,Haiti,HT,190289
+19,Nova Friburgo,-22.2819,-42.5311,Brazil,BR,189937
+20,Saddiqabad,28.3006,70.1302,Pakistan,PK,189876
+21,Balakovo,52.0333,47.7833,Russia,RU,189829
+22,Ngaoundere,7.3167,13.5833,Cameroon,CM,189800
+23,Hagen,51.3667,7.4833,Germany,DE,189783
+24,Chongju,39.65,125.3333,"Korea, North",KP,189742
+25,Paradise,36.0872,-115.1355,United States,US,189733
+26,Poza Rica de Hidalgo,20.5333,-97.45,Mexico,MX,189457
+27,Murtazabad,28.7111,77.2688,India,IN,189117
+28,Rajendranagar,17.3198,78.4031,India,IN,189076
+29,Las Heras,-32.85,-68.8167,Argentina,AR,189067
+30,Odawara,35.25,139.15,Japan,JP,189038
+31,Abu Ghurayb,33.2919,44.0656,Iraq,IQ,189000
+32,Anjomachi,34.9587,137.0803,Japan,JP,188801
+33,Araure,9.5667,-69.2167,Venezuela,VE,188800
+34,Donostia,43.3214,-1.9856,Spain,ES,188743
+35,Fuenlabrada,40.2833,-3.8,Spain,ES,188736
+36,Pinar del Rio,22.4122,-83.6719,Cuba,CU,188614
+37,Kenema,7.8758,-11.1908,Sierra Leone,SL,188463
+38,Digos,6.75,125.35,Philippines,PH,188376
+39,El Progreso,15.4,-87.8,Honduras,HN,188366
+40,Al Hasakah,36.5117,40.7422,Syria,SY,188160
+41,San Francisco de Macoris,19.3,-70.25,Dominican Republic,DO,188118
+42,Taranto,40.4711,17.2431,Italy,IT,188098
+43,Prabumulih,-3.4328,104.2356,Indonesia,ID,188082
+44,Kishiwada,34.4667,135.3667,Japan,JP,188015
+45,Iquique,-20.2167,-70.15,Chile,CL,188003
+46,Dese,11.1333,39.6333,Ethiopia,ET,187900
+47,Gharyan,32.1697,13.0167,Libya,LY,187854
+48,Kecskemet,46.9061,19.6897,Hungary,HU,187835
+49,Numazu,35.0956,138.8634,Japan,JP,187653
+50,Ratanpur,23.0851,72.5716,India,IN,187573
+51,Bournemouth,50.72,-1.88,United Kingdom,GB,187503
+52,Bhusaval,21.05,75.77,India,IN,187421
+53,Tottori,35.5,134.2333,Japan,JP,187323
+54,Alvorada,-29.9897,-51.0833,Brazil,BR,187315
+55,Joetsu,37.1479,138.2361,Japan,JP,187291
+56,Chaedok,40.7988,129.3602,"Korea, North",KP,187270
+57,Guatire,10.4717,-66.5406,Venezuela,VE,187262
+58,Chilpancingo,17.55,-99.5,Mexico,MX,187251
+59,San Diego,10.254,-68.0109,Venezuela,VE,187215
+60,Kofu,35.6621,138.5682,Japan,JP,187144
+61,Ucu Seles,-11.4047,14.3006,Angola,AO,187127
+62,Calbayog City,12.07,124.6,Philippines,PH,186960
+63,Kirikkale,39.8417,33.5139,Turkey,TR,186960
+64,Burlington,43.3167,-79.8,Canada,CA,186948
+65,Kielce,50.8742,20.6333,Poland,PL,186894
+66,Ocala,29.178,-82.1511,United States,US,186840
+67,Itabuna,-14.7858,-39.28,Brazil,BR,186708
+68,Kairouan,35.6772,10.1008,Tunisia,TN,186653
+69,Klerksdorp,-26.8667,26.6667,South Africa,ZA,186515
+70,Pasuruan,-7.6406,112.9065,Indonesia,ID,186262
+71,Bahraigh,27.575,81.594,India,IN,186223
+72,Ed Damazin,11.7667,34.35,Sudan,SD,186051
+73,Suva,-18.1416,178.4419,Fiji,FJ,185913
+74,Basildon,51.58,0.49,United Kingdom,GB,185900
+75,Getafe,40.3047,-3.7311,Spain,ES,185899
+76,Cachoeiro de Itapemirim,-20.8489,-41.1128,Brazil,BR,185784
+77,Potsdam,52.4,13.0667,Germany,DE,185750
+78,St. John's,47.4817,-52.7971,Canada,CA,185565
+79,Erie,42.1167,-80.0733,United States,US,185556
+80,Umreth,22.6986,73.1156,India,IN,185320

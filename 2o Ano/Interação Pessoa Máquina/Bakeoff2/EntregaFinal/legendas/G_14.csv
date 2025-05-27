@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Lviv,49.8425,24.0322,Ukraine,UA,717273
+2,Shihezi,44.3054,86.0804,China,CN,717000
+3,Vilnius,54.6872,25.28,Lithuania,LT,716856
+4,Marka,1.7133,44.7656,Somalia,SO,716361
+5,Enugu,6.4528,7.5111,Nigeria,NG,715774
+6,Valenzuela,14.7,120.98,Philippines,PH,714978
+7,Yatou,37.1653,122.4867,China,CN,714211
+8,Uberlandia,-18.9231,-48.2886,Brazil,BR,713232
+9,Xichang,27.8944,102.2644,China,CN,712434
+10,Zaporizhzhia,47.85,35.1175,Ukraine,UA,710052
+11,Bhiwandi,19.2967,73.0631,India,IN,709665
+12,George Town,5.4144,100.3292,Malaysia,MY,708127
+13,Bristol,51.4536,-2.5975,United Kingdom,GB,707412
+14,Charleston,32.8168,-79.9687,United States,US,706884
+15,Saharanpur,29.964,77.546,India,IN,705478
+16,Dashiqiao,40.6167,122.5167,China,CN,704891
+17,Yenimahalle,39.9719,32.8119,Turkey,TR,704652
+18,Warangal,17.9689,79.5941,India,IN,704570
+19,Nampo,38.7333,125.4,"Korea, North",KP,703317
+20,Dasmarinas,14.33,120.94,Philippines,PH,703141
+21,Jaboatao,-8.1803,-35.0014,Brazil,BR,702621
+22,Chisinau,47.0228,28.8353,Moldova,MD,702300
+23,Shiliguri,26.71,88.43,India,IN,701489
+24,Boosaaso,11.2886,49.1819,Somalia,SO,700906
+25,Port Moresby,-9.4789,147.1494,Papua New Guinea,PG,700000
+26,Latakia,35.5167,35.7833,Syria,SY,700000
+27,Rochester,43.168,-77.6162,United States,US,699921
+28,Ribeirao Preto,-21.1783,-47.8067,Brazil,BR,698259
+29,Edogawa,35.7,139.8833,Japan,JP,697932
+30,Sao Jose dos Campos,-23.1789,-45.8869,Brazil,BR,697428
+31,General Santos,6.12,125.17,Philippines,PH,697315
+32,Hamah,35.1333,36.75,Syria,SY,696863
+33,Qianxi,27.0087,106.0323,China,CN,695947
+34,Bauchi,10.3158,9.8442,Nigeria,NG,693700
+35,Pendik,40.8747,29.235,Turkey,TR,693599
+36,Salem,11.65,78.15,India,IN,693236
+37,Shishi,24.7167,118.7,China,CN,693000
+38,Sinnuris,29.4072,30.8667,Egypt,EG,692701
+39,Cocody,5.35,-3.9667,Côte d’Ivoire,CI,692583
+40,Miluo Chengguanzhen,28.761,113.16,China,CN,692080
+41,Lokoja,7.8019,6.7442,Nigeria,NG,692050
+42,Guadalupe,25.6775,-100.2597,Mexico,MX,691931
+43,Gaizhou,40.4,122.35,China,CN,691595
+44,Karbala',32.6167,44.0333,Iraq,IQ,690100
+45,Borvayeh-ye Al Bu `Aziz,31.6283,48.6147,Iran,IR,690000
+46,City of Paranaque,14.5008,120.9915,Philippines,PH,689992
+47,Leling,37.73,117.232,China,CN,689867
+48,Mamak,39.9422,32.9231,Turkey,TR,687535
+49,Jianshe,34.2137,113.7629,China,CN,687130
+50,Tolyatti,53.5089,49.4222,Russia,RU,685619
+51,Shizuoka,34.9756,138.3828,Japan,JP,685589
+52,Jingcheng,32.009,120.263,China,CN,684360
+53,Agege,6.6219,3.3258,Nigeria,NG,683600
+54,Mar del Plata,-38,-57.55,Argentina,AR,682605
+55,Zaragoza,41.65,-0.8833,Spain,ES,682513
+56,Adachi,35.7833,139.8,Japan,JP,682326
+57,Xinmin,41.997,122.823,China,CN,680000
+58,Rasht,37.2744,49.5889,Iran,IR,679995
+59,Shanhu,29.6,120.8167,China,CN,679762
+60,Zhongshu,27.7919,106.4013,China,CN,679624
+61,Cotonou,6.3667,2.4333,Benin,BJ,679012
+62,Tasikmalaya,-7.3161,108.1975,Indonesia,ID,678027
+63,Kochi,9.9312,76.2673,India,IN,677381
+64,Soledad,10.9167,-74.75,Colombia,CO,676014
+65,Dhulia,20.8997,74.7697,India,IN,675000
+66,Acapulco de Juarez,16.8636,-99.8825,Mexico,MX,673478
+67,Gorakhpur,26.7637,83.4039,India,IN,673446
+68,Bahar,34.9028,48.4425,Iran,IR,673405
+69,Kumul,42.8193,93.5151,China,CN,673383
+70,Wroclaw,51.11,17.0325,Poland,PL,672929
+71,Murcia,37.9861,-1.1303,Spain,ES,672773
+72,Pinghu,30.7005,121.0104,China,CN,671834
+73,Guankou,30.988,103.647,China,CN,671200
+74,Lodz,51.7769,19.4547,Poland,PL,670642
+75,Guntur,16.3008,80.4428,India,IN,670073
+76,Bhangar,22.58,88.42,India,IN,670000
+77,Dayton,39.7805,-84.2003,United States,US,668825
+78,Ch'ongjin,41.7833,129.7667,"Korea, North",KP,667929
+79,Qionghu,28.945,112.598,China,CN,667104
+80,Zhaodong,46.051,125.962,China,CN,666532

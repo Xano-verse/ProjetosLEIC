@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Dos Hermanas,37.2836,-5.9222,Spain,ES,138981
+2,Apeldoorn,52.2167,5.9667,Netherlands,NL,138945
+3,Pantanal,18.5333,-68.3667,Dominican Republic,DO,138919
+4,West Valley City,40.6886,-112.0123,United States,US,138868
+5,Ishizaki,38.4176,141.3027,Japan,JP,138856
+6,Carsamba,41.1992,36.7275,Turkey,TR,138840
+7,Kuwana,35.0667,136.6833,Japan,JP,138798
+8,Orange,33.8038,-117.8218,United States,US,138728
+9,Warren,42.4934,-83.027,United States,US,138588
+10,Gemena,3.25,19.7667,Congo (Kinshasa),CD,138527
+11,Sancti Spiritus,21.9339,-79.4439,Cuba,CU,138504
+12,Whitby,43.8833,-78.9417,Canada,CA,138501
+13,Cambridge,43.3972,-80.3114,Canada,CA,138479
+14,Kolar,13.1333,78.1333,India,IN,138462
+15,Grand Junction,39.0877,-108.5673,United States,US,138416
+16,Medea,36.2675,2.75,Algeria,DZ,138355
+17,Teluknaga,-6.0989,106.6381,Indonesia,ID,138330
+18,Tarragona,41.1175,1.2528,Spain,ES,138262
+19,Koga,36.1782,139.7554,Japan,JP,138237
+20,Dipolog,8.5872,123.3408,Philippines,PH,138141
+21,Dabou,5.3167,-4.3833,Côte d’Ivoire,CI,138083
+22,Tsuchiura,36.0667,140.2,Japan,JP,138033
+23,Tyler,32.3184,-95.3062,United States,US,138024
+24,Jacmel,18.2353,-72.5367,Haiti,HT,137966
+25,Chicacole,18.3,83.9,India,IN,137944
+26,Montero,-17.3422,-63.2558,Bolivia,BO,137931
+27,Koutiala,12.3833,-5.4667,Mali,ML,137919
+28,Shunan,34.055,131.8061,Japan,JP,137899
+29,Candelaria,13.9311,121.4233,Philippines,PH,137881
+30,Silivri,41.0736,28.2478,Turkey,TR,137861
+31,Mthatha,-31.58,28.79,South Africa,ZA,137772
+32,Gaziemir,38.3214,27.1275,Turkey,TR,137754
+33,Brusque,-27.0949,-48.9148,Brazil,BR,137689
+34,Tours,47.3936,0.6892,France,FR,137658
+35,Igdir,39.9208,44.0444,Turkey,TR,137613
+36,Kovrov,56.3683,41.3108,Russia,RU,137594
+37,Gunungsitoli,1.2833,97.6167,Indonesia,ID,137583
+38,Negage,-7.7667,15.2667,Angola,AO,137559
+39,Pasadena,34.1597,-118.139,United States,US,137554
+40,Teofilo Otoni,-17.8578,-41.505,Brazil,BR,137418
+41,La Trinidad,16.46,120.59,Philippines,PH,137404
+42,Bankura,23.25,87.07,India,IN,137386
+43,Mandya,12.52,76.9,India,IN,137358
+44,Palhoca,-27.6444,-48.6678,Brazil,BR,137334
+45,Norrkoping,58.6,16.2,Sweden,SE,137326
+46,Jolo,6,121,Philippines,PH,137266
+47,Kusatsu,35.0167,135.9667,Japan,JP,137266
+48,Cunduacan,18.0667,-93.1667,Mexico,MX,137257
+49,Dehri,24.91,84.18,India,IN,137231
+50,Hampton,37.0551,-76.363,United States,US,137217
+51,Sinfra,6.85,-5.9167,Côte d’Ivoire,CI,137210
+52,Myebon,20.05,93.3667,Burma,MM,137193
+53,Atibaia,-23.1172,-46.5506,Brazil,BR,137187
+54,Quillacollo,-17.4,-66.2833,Bolivia,BO,137182
+55,Medina Estates,5.6833,-0.1667,Ghana,GH,137162
+56,Stockport,53.4083,-2.1494,United Kingdom,GB,137130
+57,Kanata,45.3333,-75.9,Canada,CA,137118
+58,Rangkasbitung,-6.3667,106.25,Indonesia,ID,137041
+59,Porto Amboim,-10.7183,13.75,Angola,AO,137000
+60,Mino,34.8269,135.4706,Japan,JP,136976
+61,Durgauti,25.2114,83.5308,India,IN,136962
+62,Curico,-34.9833,-71.2333,Chile,CL,136954
+63,Vila Franca de Xira,38.95,-8.9833,Portugal,PT,136886
+64,Igboho,8.8333,3.75,Nigeria,NG,136772
+65,Gingoog,8.82,125.1,Philippines,PH,136698
+66,Phu Ly,20.5411,105.9139,Vietnam,VN,136654
+67,Marivan,35.5217,46.1806,Iran,IR,136654
+68,Huehuetenango,15.3147,-91.4761,Guatemala,GT,136639
+69,Barrechid,33.2667,-7.5833,Morocco,MA,136634
+70,San Justo,-34.6833,-58.55,Argentina,AR,136604
+71,Shizuishan,39.2333,106.769,China,CN,136570
+72,Mainpuri,27.23,79.02,India,IN,136557
+73,Nasugbu,14.07,120.63,Philippines,PH,136524
+74,Bloomington,40.4757,-88.9703,United States,US,136524
+75,Quimbele,-6.5167,16.2167,Angola,AO,136496
+76,Varginha,-21.5517,-45.43,Brazil,BR,136467
+77,Port-Gentil,-0.7167,8.7833,Gabon,GA,136462
+78,Carcar,10.12,123.63,Philippines,PH,136453
+79,Qabr as Sitt,33.4472,36.3361,Syria,SY,136427
+80,Chech'on,37.1333,128.2167,"Korea, South",KR,136350

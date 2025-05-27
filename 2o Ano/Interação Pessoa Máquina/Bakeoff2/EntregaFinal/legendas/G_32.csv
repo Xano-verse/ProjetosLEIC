@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Crato,-7.4639,-63.04,Brazil,BR,273883
+2,Yeosu,34.7607,127.6622,"Korea, South",KR,273761
+3,Shaowu,27.3403,117.4925,China,CN,273721
+4,Pasarkemis,-6.1703,106.53,Indonesia,ID,273659
+5,Cotia,-23.6042,-46.9194,Brazil,BR,273640
+6,Taboao da Serra,-23.5328,-46.7994,Brazil,BR,273542
+7,San Mateo,14.6969,121.1219,Philippines,PH,273306
+8,Novorossiysk,44.7167,37.7833,Russia,RU,273278
+9,Tsu,34.7184,136.5057,Japan,JP,273267
+10,Rockford,42.2596,-89.064,United States,US,273237
+11,Imperatriz,-5.5333,-47.4833,Brazil,BR,273110
+12,Los Alcarrizos,18.5167,-70.0167,Dominican Republic,DO,272776
+13,Soubre,5.7833,-6.6,Côte d’Ivoire,CI,272773
+14,Reading,40.34,-75.9267,United States,US,272712
+15,Szekesfehervar,47.1956,18.4089,Hungary,HU,272474
+16,Majene,-3.5403,118.9707,Indonesia,ID,272377
+17,Sumida,35.7,139.8167,Japan,JP,272085
+18,Chopda,21.25,75.3,India,IN,271863
+19,Gabela,-10.85,14.3667,Angola,AO,271843
+20,Dayr az Zawr,35.3333,40.15,Syria,SY,271800
+21,Iasi,47.1622,27.5889,Romania,RO,271692
+22,Santa Maria,-29.6833,-53.8,Brazil,BR,271633
+23,Sarta,36.4491,53.3234,Iran,IR,271467
+24,Eugene,44.0564,-123.1174,United States,US,270990
+25,Iksan,35.9439,126.9544,"Korea, South",KR,270758
+26,My Tho,10.35,106.35,Vietnam,VN,270700
+27,Nguru,12.8792,10.4525,Nigeria,NG,270632
+28,Arnavutkoy,41.1856,28.7406,Turkey,TR,270549
+29,Derby,52.9247,-1.478,United Kingdom,GB,270468
+30,Mito,36.3658,140.4712,Japan,JP,270445
+31,Kunp'o,37.35,126.95,"Korea, South",KR,270443
+32,Gombe,10.2904,11.17,Nigeria,NG,270366
+33,Bijiao,22.9253,113.2067,China,CN,270310
+34,Cherkasy,49.4444,32.0597,Ukraine,UA,269836
+35,Bayat,40.5455,34.957,Turkey,TR,269595
+36,Handwara,34.3997,74.2817,India,IN,269311
+37,Kunduz,36.7286,68.8681,Afghanistan,AF,268893
+38,Drug,21.19,81.28,India,IN,268806
+39,Wilmington,34.2099,-77.8866,United States,US,268625
+40,Monchengladbach,51.2,6.4333,Germany,DE,268465
+41,Gijon,43.5333,-5.7,Spain,ES,268313
+42,Brahmanbaria,23.9656,91.108,Bangladesh,BD,268279
+43,Santa Clarita,34.4175,-118.4964,United States,US,268273
+44,Thai Binh,20.4461,106.3422,Vietnam,VN,268167
+45,Ichihara,35.4981,140.1154,Japan,JP,268038
+46,Tarija,-21.5333,-64.7333,Bolivia,BO,268000
+47,Shibin al Kawm,30.5586,31.01,Egypt,EG,267945
+48,Plymouth,50.3714,-4.1422,United Kingdom,GB,267918
+49,Aswan,24.0889,32.8997,Egypt,EG,267913
+50,Bimo,4.3137,18.3065,Central African Republic,CF,267859
+51,Murmansk,68.9706,33.075,Russia,RU,267422
+52,Gilbert,33.31,-111.7463,United States,US,267267
+53,Maradi,13.4833,7.1,Niger,NE,267249
+54,Xiangkhoang,19.4167,103.5,Laos,LA,267172
+55,Anantapur,14.68,77.599,India,IN,267161
+56,Adiyaman,37.7639,38.2778,Turkey,TR,267131
+57,Kutahya,39.4167,29.9833,Turkey,TR,266784
+58,Yoshkar-Ola,56.65,47.8833,Russia,RU,266675
+59,Maraba,-5.35,-49.1167,Brazil,BR,266536
+60,Salem,44.9233,-123.0244,United States,US,266420
+61,Saskatoon,52.1333,-106.6833,Canada,CA,266141
+62,Sumare,-22.8219,-47.2669,Brazil,BR,265955
+63,Killeen,31.0753,-97.7297,United States,US,265921
+64,Nagaoka,37.4462,138.8512,Japan,JP,265868
+65,Djelfa,34.6667,3.25,Algeria,DZ,265833
+66,Sumy,50.9119,34.8028,Ukraine,UA,265758
+67,Khwazakhela,34.9333,72.4667,Pakistan,PK,265571
+68,Chernivtsi,48.3,25.9333,Ukraine,UA,265471
+69,Suncheon,34.9506,127.4875,"Korea, South",KR,265390
+70,Kibaha,-6.7667,38.9167,Tanzania,TZ,265360
+71,Nalchik,43.4833,43.6167,Russia,RU,265162
+72,Sfax,34.74,10.76,Tunisia,TN,265131
+73,Gent,51.0536,3.7253,Belgium,BE,265086
+74,Gravatai,-29.9333,-50.9833,Brazil,BR,265070
+75,Antsirabe,-19.8667,47.0333,Madagascar,MG,265018
+76,Feni,23.0183,91.41,Bangladesh,BD,265000
+77,Engels,51.5017,46.1222,Russia,RU,264990
+78,Imphal,24.8074,93.9384,India,IN,264986
+79,Taunggyi,20.7836,97.0354,Burma,MM,264804
+80,Nogales,31.3,-110.9333,Mexico,MX,264782

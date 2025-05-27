@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Edirne,41.6769,26.5556,Turkey,TR,180327
+2,Longjing,42.7667,129.4333,China,CN,180307
+3,Geelong,-38.15,144.35,Australia,AU,180239
+4,Lhokseumawe,5.1881,97.1403,Indonesia,ID,180200
+5,Mahad,18.083,73.417,India,IN,180191
+6,Madanapalle,13.55,78.5,India,IN,180180
+7,Danbury,41.4015,-73.4709,United States,US,180143
+8,Palopo,-3,120.2,Indonesia,ID,180130
+9,Petarukan,-6.8961,109.4514,Indonesia,ID,180084
+10,Guri,37.6,127.15,"Korea, South",KR,180063
+11,Singosari,-7.8925,112.6658,Indonesia,ID,180050
+12,Quang Yen,20.917,106.833,Vietnam,VN,180028
+13,Tongjiang,47.65,132.5,China,CN,180000
+14,Longjin,22.8853,113.0758,China,CN,180000
+15,Santander de Quilichao,3.0167,-76.4833,Colombia,CO,180000
+16,Wadlakonda,17.7736,79.575,India,IN,180000
+17,Bhachau,23.296,70.343,India,IN,180000
+18,Shivpuri,25.43,77.65,India,IN,179977
+19,Caluquembe,-13.7833,14.6833,Angola,AO,179931
+20,Hosa'ina,7.55,37.85,Ethiopia,ET,179761
+21,Tanjungbalai,2.97,99.8,Indonesia,ID,179748
+22,Budhanilkantha,27.7667,85.3667,Nepal,NP,179688
+23,Uji,34.8844,135.7997,Japan,JP,179626
+24,Mongu,-15.2775,23.1319,Zambia,ZM,179585
+25,Norilsk,69.3333,88.2167,Russia,RU,179554
+26,Divo,5.8333,-5.3667,Côte d’Ivoire,CI,179455
+27,Calabar,4.9767,8.3383,Nigeria,NG,179392
+28,Reims,49.2628,4.0347,France,FR,179380
+29,Dosquebradas,4.8333,-75.6833,Colombia,CO,179301
+30,Roxas City,11.5894,122.7511,Philippines,PH,179292
+31,Masan,35.1833,128.55,"Korea, South",KR,179266
+32,Purwakarta,-6.5533,107.4472,Indonesia,ID,179233
+33,Satara,17.688,74.006,India,IN,179147
+34,El Khroub,36.2667,6.7,Algeria,DZ,179033
+35,Tiaret,35.3667,1.3167,Algeria,DZ,178915
+36,Cuautitlan,19.6833,-99.1833,Mexico,MX,178847
+37,Spring Hill,28.4798,-82.53,United States,US,178833
+38,Njeru,0.4311,33.1478,Uganda,UG,178800
+39,Torbali,38.1619,27.3583,Turkey,TR,178772
+40,Ilheus,-14.7889,-39.0489,Brazil,BR,178703
+41,Al `Arish,31.1249,33.8006,Egypt,EG,178651
+42,Langsa,4.48,97.9633,Indonesia,ID,178334
+43,Gastonia,35.2494,-81.1854,United States,US,178220
+44,Phillaur,31.03,75.78,India,IN,178198
+45,Quevedo,-1.0333,-79.45,Ecuador,EC,177792
+46,Tebingtinggi,3.3194,99.1522,Indonesia,ID,177785
+47,Kandi,11.1286,2.9369,Benin,BJ,177683
+48,Nijmegen,51.8475,5.8625,Netherlands,NL,177659
+49,Unnao,26.55,80.49,India,IN,177658
+50,Dundo,-7.3801,20.8351,Angola,AO,177604
+51,Meiktila,20.8833,95.8833,Burma,MM,177442
+52,Salinas,36.6883,-121.6317,United States,US,177410
+53,Sitapur,27.57,80.66,India,IN,177351
+54,La Pintana,-33.5833,-70.6333,Chile,CL,177335
+55,Ambato,-1.2417,-78.6197,Ecuador,EC,177316
+56,Almada,38.6803,-9.1583,Portugal,PT,177268
+57,Riobamba,-1.6731,-78.6483,Ecuador,EC,177213
+58,Kalamboli,19.2333,73.1333,India,IN,177154
+59,Ciudad Valles,21.9833,-99.0167,Mexico,MX,177022
+60,Fredericksburg,38.2992,-77.4872,United States,US,176791
+61,Maidstone,51.272,0.529,United Kingdom,GB,176700
+62,San Luis Rio Colorado,32.4767,-114.7625,Mexico,MX,176685
+63,Letpandan,17.7866,95.7507,Burma,MM,176571
+64,Hamilton,-37.7833,175.2833,New Zealand,NZ,176500
+65,Al Juwayyidah,31.9167,35.95,Jordan,JO,176400
+66,Cianjur,-6.82,107.1408,Indonesia,ID,176368
+67,Ontario,34.0393,-117.6064,United States,US,176326
+68,Ar Rahmaniyah,31.1062,30.6337,Egypt,EG,176315
+69,Waraseoni,21.7647,80.0494,India,IN,176291
+70,Castellon de la Plana,39.9831,-0.0331,Spain,ES,176238
+71,Leon,12.4333,-86.8867,Nicaragua,NI,176171
+72,Mauli,30.699,76.693,India,IN,176152
+73,Harnaut,25.3694,85.5319,India,IN,176140
+74,Bejaia,36.7511,5.0642,Algeria,DZ,176139
+75,Elk Grove,38.4161,-121.3842,United States,US,176105
+76,Biu,10.6111,12.195,Nigeria,NG,176072
+77,Arafat,18.0464,-15.9719,Mauritania,MR,175969
+78,Rantau Prapat,2.3333,100.05,Indonesia,ID,175960
+79,Krasnogorsk,55.8217,37.3386,Russia,RU,175812
+80,Catumbela,-12.4339,13.5433,Angola,AO,175805

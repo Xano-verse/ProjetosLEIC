@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Suginami-ku,35.6994,139.6364,Japan,JP,583609
+2,Tenkasi,8.9564,77.3152,India,IN,580000
+3,Kingston,17.9714,-76.7931,Jamaica,JM,580000
+4,Al Mafraq,32.3399,36.2052,Jordan,JO,580000
+5,At Ta'if,21.2751,40.4062,Saudi Arabia,SA,579970
+6,Port Sudan,19.6167,37.2167,Sudan,SD,579942
+7,Tuxtla,16.7528,-93.1167,Mexico,MX,578830
+8,Dehra Dun,30.345,78.029,India,IN,578420
+9,Xiulin,29.7209,112.4254,China,CN,577022
+10,Fu'an,27.1,119.6333,China,CN,577000
+11,Mymensingh,24.7539,90.4031,Bangladesh,BD,576927
+12,Hachioji,35.6664,139.316,Japan,JP,575721
+13,Iloilo,10.72,122.57,Philippines,PH,574000
+14,Puente Alto,-33.6167,-70.5667,Chile,CL,573935
+15,Tomsk,56.5,84.9667,Russia,RU,572740
+16,Rabat,34.0209,-6.8416,Morocco,MA,572717
+17,Sincan,39.9594,32.5767,Turkey,TR,572609
+18,Bakersfield,35.3529,-119.0359,United States,US,571992
+19,Kottayam,9.5916,76.5222,India,IN,571856
+20,Luofeng,37.359,120.396,China,CN,570898
+21,Shibin al Qanatir,30.3133,31.3214,Egypt,EG,570868
+22,Nakuru,-0.3,36.0667,Kenya,KE,570674
+23,Lingyuan,41.25,119.4,China,CN,570660
+24,Tonala,20.6167,-103.2333,Mexico,MX,569913
+25,Bremen,53.0758,8.8072,Germany,DE,569396
+26,Abu Hummus,31.1006,30.3128,Egypt,EG,569157
+27,Irbid,32.55,35.85,Jordan,JO,569068
+28,Macau,22.2006,113.5461,Macau,MO,568700
+29,Surrey,49.19,-122.8489,Canada,CA,568322
+30,Ciudad Bolivar,8.1219,-63.55,Venezuela,VE,567953
+31,Durgapur,23.55,87.32,India,IN,566937
+32,Shenzhou,38.002,115.56,China,CN,566087
+33,New Haven,41.3113,-72.9246,United States,US,565572
+34,Orenburg,51.7833,55.1,Russia,RU,564773
+35,Kuiju,36.8667,119.4,China,CN,564501
+36,Zhenzhou,32.2723,119.1848,China,CN,564021
+37,Asansol,23.68,86.99,India,IN,563917
+38,Bokaro Steel City,23.67,86.15,India,IN,563417
+39,Dresden,51.05,13.74,Germany,DE,563311
+40,Bello,6.3333,-75.5667,Colombia,CO,561955
+41,Kolhapur,16.6917,74.2333,India,IN,561489
+42,Wencheng,19.617,110.7551,China,CN,560894
+43,Lanxi,29.208,119.458,China,CN,560514
+44,Dangyang,30.821,111.789,China,CN,560000
+45,Nava Raipur,21.161,81.787,India,IN,560000
+46,Kemerovo,55.3667,86.0667,Russia,RU,558973
+47,Genoa,44.4111,8.9328,Italy,IT,558745
+48,Herat,34.3419,62.2031,Afghanistan,AF,556205
+49,Londrina,-23.31,-51.1628,Brazil,BR,555937
+50,Cuautitlan Izcalli,19.65,-99.25,Mexico,MX,555163
+51,Uyo,5.0333,7.9275,Nigeria,NG,554906
+52,Hamadan,34.8064,48.5161,Iran,IR,554406
+53,Luanzhou,39.741,118.704,China,CN,554315
+54,Chiclayo,-6.763,-79.8366,Peru,PE,552508
+55,Surakarta,-7.5667,110.8167,Indonesia,ID,552118
+56,Novokuznetsk,53.7667,87.1333,Russia,RU,552105
+57,Ajmer,26.4499,74.6399,India,IN,551101
+58,Kimhae,35.2342,128.8811,"Korea, South",KR,550758
+59,Nanded,19.15,77.3,India,IN,550439
+60,Wuhai,39.655,106.794,China,CN,550000
+61,Palma,39.5667,2.65,Spain,ES,550000
+62,Rustenburg,-25.6667,27.2428,South Africa,ZA,549575
+63,Amravati,20.9258,77.7647,India,IN,549370
+64,Des Moines,41.5725,-93.6105,United States,US,548926
+65,Lisbon,38.7253,-9.15,Portugal,PT,548703
+66,Yanji,42.9,129.5,China,CN,548700
+67,Huanghua,38.372,117.33,China,CN,548507
+68,Al Hudaydah,14.8022,42.9511,Yemen,YE,548433
+69,Anyang,37.3833,126.9333,"Korea, South",KR,548372
+70,The Hague,52.08,4.31,Netherlands,NL,548320
+71,Andijon,40.7833,72.3333,Uzbekistan,UZ,547800
+72,Manchester,53.479,-2.2452,United Kingdom,GB,547627
+73,Nellore,14.45,79.99,India,IN,547621
+74,Poznan,52.4083,16.9336,Poland,PL,546859
+75,Samarkand,39.6547,66.9758,Uzbekistan,UZ,546303
+76,Xingcheng,40.6167,120.7333,China,CN,546176
+77,Wancheng,18.8,110.4,China,CN,545992
+78,Kaiyuan,42.546,124.038,China,CN,545624
+79,Hannover,52.3667,9.7167,Germany,DE,545045
+80,Sungai Petani,5.65,100.5,Malaysia,MY,544851

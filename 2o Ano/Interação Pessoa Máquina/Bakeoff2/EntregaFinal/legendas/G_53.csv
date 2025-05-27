@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Palo Negro,10.16,-67.5582,Venezuela,VE,153706
+2,New Bedford,41.6697,-70.9428,United States,US,153701
+3,Veraval,20.9159,70.3629,India,IN,153696
+4,Mogi Guacu,-22.3719,-46.9419,Brazil,BR,153661
+5,Hoeryong,42.4333,129.75,"Korea, North",KP,153532
+6,Abbotsford,49.05,-122.3167,Canada,CA,153524
+7,Kirsehir,39.1456,34.1608,Turkey,TR,153511
+8,Tochigi,36.3813,139.7303,Japan,JP,153508
+9,Betul Bazar,21.905,77.902,India,IN,153330
+10,Andong,36.5592,128.7289,"Korea, South",KR,153306
+11,Balurghat,25.22,88.76,India,IN,153279
+12,Bytom,50.3483,18.9156,Poland,PL,153274
+13,San Jose,12.3528,121.0676,Philippines,PH,153267
+14,Jorhat,26.75,94.22,India,IN,153249
+15,Poblacion,10.42,123.97,Philippines,PH,153197
+16,Ixtlahuaca,19.5689,-99.7669,Mexico,MX,153184
+17,Salavat,53.3667,55.9333,Russia,RU,153181
+18,Kariya,34.9893,137.0021,Japan,JP,153178
+19,Nevsehir,38.6264,34.7139,Turkey,TR,153117
+20,Krishnanagar,23.4,88.5,India,IN,153062
+21,Dutse,11.7011,9.3419,Nigeria,NG,153000
+22,Newcastle,-32.9167,151.75,Australia,AU,152984
+23,Ueda,36.4019,138.2491,Japan,JP,152948
+24,Livorno,43.5519,10.3083,Italy,IT,152914
+25,Tete,-16.1667,33.6,Mozambique,MZ,152909
+26,Vinh Yen,21.31,105.5967,Vietnam,VN,152801
+27,Barakpur,22.76,88.37,India,IN,152783
+28,Hollywood,26.0293,-80.1679,United States,US,152764
+29,Sinpo,40.0347,128.1856,"Korea, North",KP,152759
+30,Pouso Alegre,-22.2281,-45.9336,Brazil,BR,152549
+31,Ciudad Choluteca,13.3028,-87.1833,Honduras,HN,152519
+32,Hoa Thanh,11.2831,106.1297,Vietnam,VN,152339
+33,Alagoinhas,-12.1358,-38.4189,Brazil,BR,152327
+34,Mudon,16.2578,97.7164,Burma,MM,152300
+35,Amatitlan,14.4833,-90.6167,Guatemala,GT,152296
+36,Gulu,2.7817,32.2992,Uganda,UG,152276
+37,Gwangyang,34.9333,127.6833,"Korea, South",KR,152160
+38,South Lyon,42.4614,-83.6526,United States,US,152132
+39,Imabari,34.0667,133,Japan,JP,152111
+40,Kawashiri,34.8333,135.4167,Japan,JP,152076
+41,Oxford,51.75,-1.25,United Kingdom,GB,152000
+42,Bordj el Kiffan,36.7375,3.1931,Algeria,DZ,151950
+43,Go Cong,10.3667,106.6667,Vietnam,VN,151937
+44,Erdemli,36.6056,34.3111,Turkey,TR,151928
+45,Gonbad-e Kavus,37.2433,55.1692,Iran,IR,151910
+46,Al Manaqil,14.2467,32.9861,Sudan,SD,151827
+47,Shantipur,23.25,88.43,India,IN,151777
+48,Dila,6.4083,38.3083,Ethiopia,ET,151682
+49,Hindupur,13.83,77.49,India,IN,151677
+50,Araucaria,-25.4167,-49.25,Brazil,BR,151666
+51,Ipswich,52.0594,1.1556,United Kingdom,GB,151562
+52,Matanzas,23.0511,-81.5753,Cuba,CU,151555
+53,Beawar,26.1,74.32,India,IN,151472
+54,Long Khanh,10.917,107.167,Vietnam,VN,151467
+55,Bhalswa Jahangirpur,28.7354,77.1638,India,IN,151427
+56,As Suwayhirah as Sahil,24.362,56.7344,Oman,OM,151349
+57,Tauranga,-37.6833,176.1667,New Zealand,NZ,151300
+58,Miass,55,60.1,Russia,RU,151275
+59,Erode,11.3409,77.7171,India,IN,151184
+60,Escondido,33.1348,-117.0723,United States,US,151114
+61,Lake Charles,30.201,-93.2111,United States,US,151109
+62,Dahuaishu,36.2601,111.6743,China,CN,151037
+63,Minglanilla,10.245,123.7964,Philippines,PH,151002
+64,Manzanillo,20.3397,-77.1086,Cuba,CU,150999
+65,Chichicastenango,14.9333,-91.1167,Guatemala,GT,150932
+66,Duc Pho,14.81,108.96,Vietnam,VN,150927
+67,San Jose,15.8037,120.9991,Philippines,PH,150917
+68,Copiapo,-27.3664,-70.3331,Chile,CL,150804
+69,Tafeng,25.3775,112.2034,China,CN,150800
+70,Mahmutlu,39.7464,39.4914,Turkey,TR,150714
+71,Buyuk Cakirman,39.7464,39.4914,Turkey,TR,150714
+72,Bugdayli,39.7464,39.4914,Turkey,TR,150714
+73,Eminabad,32.0414,74.26,Pakistan,PK,150646
+74,Kragujevac,44.0101,20.9172,Serbia,RS,150623
+75,Pasadena,29.6575,-95.1498,United States,US,150620
+76,Bellevue,47.5951,-122.1535,United States,US,150606
+77,Logrono,42.465,-2.4456,Spain,ES,150583
+78,Delicias,28.1931,-105.4717,Mexico,MX,150506
+79,Talcahuano,-36.7167,-73.1219,Chile,CL,150499
+80,Piedecuesta,7.0833,-73,Colombia,CO,150483

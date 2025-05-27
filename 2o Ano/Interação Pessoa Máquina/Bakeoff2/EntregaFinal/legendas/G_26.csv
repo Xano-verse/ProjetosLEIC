@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Batangas,13.83,121,Philippines,PH,351437
+2,Ibb,13.9667,44.1667,Yemen,YE,350864
+3,Ahmadnagar,19.08,74.73,India,IN,350859
+4,Sarai Alamgir,32.9,73.75,Pakistan,PK,350288
+5,Semey,50.4333,80.2667,Kazakhstan,KZ,350201
+6,Holguin,20.8869,-76.2592,Cuba,CU,350191
+7,Tungi,23.9,90.41,Bangladesh,BD,350000
+8,Yingmen,39.9487,97.4395,China,CN,350000
+9,Sawran,36.6606,44.5508,Iraq,IQ,350000
+10,Chita,52.05,113.4667,Russia,RU,349983
+11,Olinda,-8,-34.8833,Brazil,BR,349976
+12,Praia Grande,-24.0061,-46.4028,Brazil,BR,349935
+13,Dasarhalli,13.0465,77.513,India,IN,349720
+14,Huntsville,34.6981,-86.6412,United States,US,349482
+15,Shinjuku,35.7014,139.7097,Japan,JP,349385
+16,Alicante,38.3453,-0.4831,Spain,ES,349282
+17,Cariacica,-20.2639,-40.42,Brazil,BR,348738
+18,Varna,43.2167,27.9167,Bulgaria,BG,348594
+19,Honolulu,21.3294,-157.846,United States,US,348547
+20,Antofagasta,-23.65,-70.4,Chile,CL,348517
+21,Ambon,-3.7,128.1667,Indonesia,ID,348225
+22,Nice,43.7034,7.2663,France,FR,348085
+23,Cascavel,-24.9556,-53.4553,Brazil,BR,348051
+24,Pamukkale,37.9167,29.1167,Turkey,TR,347926
+25,Canoas,-29.92,-51.18,Brazil,BR,347657
+26,Takatsuki,34.8461,135.6175,Japan,JP,347496
+27,Antonio Enes,-16.2333,39.9167,Mozambique,MZ,347175
+28,Greensboro,36.0956,-79.8271,United States,US,347130
+29,Anaheim,33.839,-117.8574,United States,US,347111
+30,Plovdiv,42.15,24.75,Bulgaria,BG,346893
+31,Central Coast,-33.3,151.2,Australia,AU,346596
+32,Karsiyaka,38.4594,27.1153,Turkey,TR,346264
+33,Shahjanpur,27.88,79.91,India,IN,346103
+34,Gwagwalada,8.9392,7.0758,Nigeria,NG,346000
+35,Alamadi,13.1097,80.0972,India,IN,345996
+36,Avadi,13.1147,80.1098,India,IN,345996
+37,Tanch'on,40.458,128.911,"Korea, North",KP,345876
+38,Khanapur,15.6394,74.5083,India,IN,345839
+39,Wad Medani,14.4,33.5167,Sudan,SD,345290
+40,Kusti,13.1667,32.6667,Sudan,SD,345068
+41,Belfast,54.5964,-5.93,United Kingdom,GB,345006
+42,Hosur,12.7409,77.8253,India,IN,345000
+43,Cuddapah,14.47,78.82,India,IN,344893
+44,Nakano,35.7074,139.6638,Japan,JP,344880
+45,Otsu,35.0167,135.85,Japan,JP,343991
+46,Maseru,-29.31,27.48,Lesotho,LS,343541
+47,Makiivka,48.0556,37.9611,Ukraine,UA,343158
+48,Pavlodar,52.3,76.95,Kazakhstan,KZ,343091
+49,Chon Buri,13.3611,100.985,Thailand,TH,342959
+50,Naga City,13.6244,123.1864,Philippines,PH,342769
+51,Sariyer,41.1669,29.0572,Turkey,TR,342503
+52,Brest,52.1347,23.6569,Belarus,BY,342461
+53,Meram,37.8364,32.4383,Turkey,TR,342315
+54,Gomez Palacio,25.5611,-103.4983,Mexico,MX,342286
+55,Paulista,-7.9408,-34.8728,Brazil,BR,342167
+56,Rajahmundry,16.98,81.78,India,IN,341831
+57,Koshigaya,35.8911,139.7909,Japan,JP,341784
+58,Vung Tau,10.3833,107.1167,Vietnam,VN,341552
+59,Jeonju,35.8167,127.15,"Korea, South",KR,341545
+60,Alwar,27.5498,76.6355,India,IN,341422
+61,Tokorozawa,35.7996,139.4686,Japan,JP,341289
+62,Sumqayit,40.5897,49.6686,Azerbaijan,AZ,341200
+63,Vitoria da Conquista,-14.8658,-40.8389,Brazil,BR,341128
+64,Simferopol,44.9519,34.1022,Ukraine,UA,340540
+65,Buon Ma Thuot,12.6667,108.05,Vietnam,VN,340000
+66,Serekunda,13.4333,-16.6667,"Gambia, The",GM,340000
+67,Islip,40.7385,-73.1888,United States,US,339123
+68,Cuernavaca,18.9186,-99.2342,Mexico,MX,338650
+69,Markham,43.8767,-79.2633,Canada,CA,338503
+70,Bielefeld,52.0211,8.5347,Germany,DE,338332
+71,Uberaba,-19.7478,-47.9319,Brazil,BR,337846
+72,Jitpur,27.6666,85.3333,Nepal,NP,337785
+73,Bydgoszcz,53.1219,18.0003,Poland,PL,337666
+74,Tangdong,25.973,113.231,China,CN,337495
+75,Chinju,35.2,128.0833,"Korea, South",KR,337230
+76,Corpus Christi,27.7254,-97.3767,United States,US,337230
+77,Fort Wayne,41.0888,-85.1436,United States,US,337163
+78,Reading,51.4542,-0.9731,United Kingdom,GB,337108
+79,Randburg,-26.0936,28.0064,South Africa,ZA,337053
+80,Matadi,-5.8167,13.4833,Congo (Kinshasa),CD,337000

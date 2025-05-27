@@ -1,0 +1,81 @@
+ID,city name,lat,lng,country,iso2,population
+1,Hadano,35.3667,139.2167,Japan,JP,164292
+2,Chillan,-36.6,-72.1167,Chile,CL,164270
+3,Abu Hulayfah,29.1322,48.1261,Kuwait,KW,164212
+4,Madhubani,26.3519,86.0719,India,IN,164156
+5,Arnhem,51.9833,5.9167,Netherlands,NL,164096
+6,Quibala,-10.7333,14.9833,Angola,AO,163991
+7,Proddatur,14.75,78.55,India,IN,163970
+8,Baubau,-5.4667,122.633,Indonesia,ID,163963
+9,San Martin Texmelucan de Labastida,19.2833,-98.4333,Mexico,MX,163922
+10,Tunja,5.5333,-73.3667,Colombia,CO,163894
+11,Teresopolis,-22.4119,-42.9658,Brazil,BR,163746
+12,San Marcos,10.6204,-84.512,Costa Rica,CR,163745
+13,Pocos de Caldas,-21.7878,-46.5608,Brazil,BR,163742
+14,Sultanpur Mazra,28.6981,77.0689,India,IN,163716
+15,Visalia,36.3276,-119.3269,United States,US,163681
+16,Wapi,20.372,72.917,India,IN,163630
+17,Blida,36.4686,2.8319,Algeria,DZ,163586
+18,Sidon,33.5606,35.3758,Lebanon,LB,163554
+19,Wau,7.7,28,South Sudan,SS,163442
+20,Tokat,40.3139,36.5542,Turkey,TR,163405
+21,Garissa,-0.4569,39.6583,Kenya,KE,163399
+22,Pocheon,37.8947,127.2002,"Korea, South",KR,163388
+23,Skikda,36.8667,6.9,Algeria,DZ,163318
+24,Muridke,31.802,74.255,Pakistan,PK,163268
+25,Muzaffargarh,30.0694,71.1942,Pakistan,PK,163268
+26,Kebili,33.705,8.965,Tunisia,TN,163257
+27,San Fernando,-34.45,-58.5667,Argentina,AR,163240
+28,Turgutlu,38.5,27.7,Turkey,TR,163223
+29,Jizzax,40.1158,67.8422,Uzbekistan,UZ,163200
+30,Ungaran,-7.1381,110.405,Indonesia,ID,163182
+31,Kyaunggon,17.1,95.1833,Burma,MM,163035
+32,Huddersfield,53.645,-1.7798,United Kingdom,GB,162949
+33,Ube,33.9517,131.2467,Japan,JP,162873
+34,Bandar-e Mahshahr,30.5567,49.1897,Iran,IR,162797
+35,Nazilli,37.9125,28.3206,Turkey,TR,162737
+36,Simao,22.7807,100.9782,China,CN,162725
+37,Anaco,9.4819,-64.4917,Venezuela,VE,162704
+38,Marysville,48.0809,-122.1561,United States,US,162664
+39,Golcuk,40.7172,29.8228,Turkey,TR,162584
+40,Haarlem,52.3833,4.6333,Netherlands,NL,162543
+41,Boma,-5.85,13.05,Congo (Kinshasa),CD,162521
+42,Tuxtepec,18.1,-96.1167,Mexico,MX,162511
+43,Sullana,-4.9,-80.6833,Peru,PE,162434
+44,San Andres Tuxtla,18.4483,-95.2122,Mexico,MX,162428
+45,Heidelberg,49.4167,8.7167,Germany,DE,162273
+46,Darmstadt,49.8722,8.6528,Germany,DE,162243
+47,Parnaiba,-2.905,-41.7769,Brazil,BR,162159
+48,Mukono,0.3533,32.7553,Uganda,UG,161996
+49,Hala,25.81,68.43,Pakistan,PK,161980
+50,Godhra,22.7772,73.6203,India,IN,161925
+51,Rafsanjan,30.4111,55.9911,Iran,IR,161909
+52,Sariaya,13.97,121.53,Philippines,PH,161868
+53,Multai,21.77,78.25,India,IN,161819
+54,Perugia,43.1122,12.3889,Italy,IT,161748
+55,Nador,35.1667,-2.9333,Morocco,MA,161726
+56,Guadalajara,40.6337,-3.1674,Spain,ES,161683
+57,Tema,5.6667,-0.0167,Ghana,GH,161612
+58,Zemun,44.85,20.4,Serbia,RS,161596
+59,Ndalatando,-9.3,14.9167,Angola,AO,161584
+60,Salihli,38.4811,28.1392,Turkey,TR,161562
+61,Daule,-1.8667,-79.9833,Ecuador,EC,161498
+62,Rajapalaiyam,9.4204,77.58,India,IN,161445
+63,Zhanlicun,23.2881,116.2594,China,CN,161439
+64,Pangzawl,22.91,92.76,India,IN,161428
+65,Bontang,0.1333,117.5,Indonesia,ID,161413
+66,Jinggang,23.2722,113.2183,China,CN,161343
+67,Ash Shihaniyah,25.3722,51.2047,Qatar,QA,161240
+68,Papantla de Olarte,20.4478,-97.32,Mexico,MX,161097
+69,San Miguel del Padron,23.0964,-82.3267,Cuba,CU,161072
+70,Tulancingo,20.0833,-98.3667,Mexico,MX,161069
+71,Tacheng,46.7517,82.9869,China,CN,161037
+72,Tan Phu,11.272,107.4367,Vietnam,VN,161000
+73,Naic,14.32,120.77,Philippines,PH,160987
+74,Liancheng,24.0515,105.0573,China,CN,160961
+75,General Roca,-39.0333,-67.5833,Argentina,AR,160954
+76,Zaranj,30.96,61.86,Afghanistan,AF,160902
+77,Al Ghardaqah,27.2578,33.8117,Egypt,EG,160901
+78,Kidapawan,7.0083,125.0894,Philippines,PH,160791
+79,Chittoor,13.216,79.098,India,IN,160722
+80,Braganca Paulista,-22.9531,-46.5422,Brazil,BR,160665
