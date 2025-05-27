@@ -8,6 +8,8 @@
 - Introdução à Arquitetura de Computadores - Assembly RISC-V 32-bits
 
 ## 2º ano
+- Probabilidade e Estatística - R
+
 - Programação com Objectos - Java
 - Análise e Síntese de Algoritmos - C++
 - Sistemas Operativos - C
