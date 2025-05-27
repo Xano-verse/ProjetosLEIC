@@ -12,8 +12,8 @@
 - Análise e Síntese de Algoritmos - C++
 - Sistemas Operativos - C
 
-- Interação Pessoa-Máquina - Javascript p5.js library
-- Base de Dados - SQL
+- Interação Pessoa Máquina - Javascript p5.js library
+- Bases de Dados - SQL
 - Inteligência Artificial - Python
 
 ## 3º ano
