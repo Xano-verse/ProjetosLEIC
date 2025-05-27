@@ -9,8 +9,11 @@
 
 ## 2º ano
 - Programação com Objectos - Java
-
 - Análise e Síntese de Algoritmos - C++
-
 - Sistemas Operativos - C
 
+- Interação Pessoa-Máquina - Javascript p5.js library
+- Base de Dados - SQL
+- Inteligência Artificial - Python
+
+## 3º ano
