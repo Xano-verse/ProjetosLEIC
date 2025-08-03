@@ -15,7 +15,7 @@
 - Sistemas Operativos - C
 
 - Interação Pessoa Máquina - Figma e Javascript p5.js library
-- Bases de Dados - SQL
+- Bases de Dados - Postgres SQL
 - Inteligência Artificial - Python
 
 ## 3º ano
