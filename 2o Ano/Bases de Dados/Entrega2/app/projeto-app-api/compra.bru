@@ -1,0 +1,19 @@
+meta {
+  name: compra
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://127.0.0.1:8080/compra/7801?NIF=1234&nome=Nuno Mendes&classe=2c&nome=Roberto Campos&classe=2c
+  body: json
+  auth: inherit
+}
+
+params:query {
+  NIF: 1234
+  nome: Nuno Mendes
+  classe: 2c
+  nome: Roberto Campos
+  classe: 2c
+}

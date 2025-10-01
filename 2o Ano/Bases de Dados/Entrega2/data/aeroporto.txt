@@ -1,0 +1,12 @@
+LHR	Heathrow	London	UK
+LGW	Gatwick	London	UK
+CDG	Charles de Gaulle	Paris	France
+ORY	Orly	Paris	France
+AMS	Schiphol	Amsterdam	Netherlands
+FRA	Frankfurt	Frankfurt	Germany
+MAD	Barajas	Madrid	Spain
+BCN	El Prat	Barcelona	Spain
+VIE	Vienna Intl	Vienna	Austria
+DUB	Dublin	Dublin	Ireland
+BRU	Zaventem	Brussels	Belgium
+MXP	Malpensa	Milan	Italy
