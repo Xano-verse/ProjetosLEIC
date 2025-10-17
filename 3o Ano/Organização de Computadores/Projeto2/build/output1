@@ -1,0 +1,223 @@
+=========== System Properties ===========
+Virtual address:       32 bits
+Page index:            12 bits
+DRAM address:          28 bits
+Disk address:          48 bits
+Virtual address space: 4294967296 B
+DRAM address space:    268435456 B
+Disk address space:    281474976710656 B
+Page size:             4096 B
+Total pages:           1048576
+=========================================
+* R 6ac840b2
+***** Page fault! *****
+PTE found (VA=6ac840b2 VPN=6ac84 PA=10b2)
+* W 6ac84c96
+PTE found (VA=6ac84c96 VPN=6ac84 PA=1c96)
+* R 6ac844df
+PTE found (VA=6ac844df VPN=6ac84 PA=14df)
+* W 6ac84024
+PTE found (VA=6ac84024 VPN=6ac84 PA=1024)
+* W 6ac846fb
+PTE found (VA=6ac846fb VPN=6ac84 PA=16fb)
+* W 3fcae8a
+***** Page fault! *****
+PTE found (VA=3fcae8a VPN=3fca PA=2e8a)
+* R 262b21e6
+***** Page fault! *****
+PTE found (VA=262b21e6 VPN=262b2 PA=31e6)
+* R 262b254d
+PTE found (VA=262b254d VPN=262b2 PA=354d)
+* R 262b22e5
+PTE found (VA=262b22e5 VPN=262b2 PA=32e5)
+* R 262b262f
+PTE found (VA=262b262f VPN=262b2 PA=362f)
+* W 262b2613
+PTE found (VA=262b2613 VPN=262b2 PA=3613)
+* W 262b277e
+PTE found (VA=262b277e VPN=262b2 PA=377e)
+* R 918df2a6
+***** Page fault! *****
+PTE found (VA=918df2a6 VPN=918df PA=42a6)
+* W 918df680
+PTE found (VA=918df680 VPN=918df PA=4680)
+* W 918df92c
+PTE found (VA=918df92c VPN=918df PA=492c)
+* R 918df453
+PTE found (VA=918df453 VPN=918df PA=4453)
+* R 918df1ca
+PTE found (VA=918df1ca VPN=918df PA=41ca)
+* R 918dfec9
+PTE found (VA=918dfec9 VPN=918df PA=4ec9)
+* R d54c1da3
+***** Page fault! *****
+PTE found (VA=d54c1da3 VPN=d54c1 PA=5da3)
+* W d54c13dc
+PTE found (VA=d54c13dc VPN=d54c1 PA=53dc)
+* R da72b170
+***** Page fault! *****
+PTE found (VA=da72b170 VPN=da72b PA=6170)
+* W da72b147
+PTE found (VA=da72b147 VPN=da72b PA=6147)
+* W da72b649
+PTE found (VA=da72b649 VPN=da72b PA=6649)
+* R da72bbaa
+PTE found (VA=da72bbaa VPN=da72b PA=6baa)
+* W da72be80
+PTE found (VA=da72be80 VPN=da72b PA=6e80)
+* R da72b844
+PTE found (VA=da72b844 VPN=da72b PA=6844)
+* R da72b0db
+PTE found (VA=da72b0db VPN=da72b PA=60db)
+* R da72bc33
+PTE found (VA=da72bc33 VPN=da72b PA=6c33)
+* R da72be68
+PTE found (VA=da72be68 VPN=da72b PA=6e68)
+* W da72b4b8
+PTE found (VA=da72b4b8 VPN=da72b PA=64b8)
+* W da72bc18
+PTE found (VA=da72bc18 VPN=da72b PA=6c18)
+* R da72b957
+PTE found (VA=da72b957 VPN=da72b PA=6957)
+* W b76c8b79
+***** Page fault! *****
+PTE found (VA=b76c8b79 VPN=b76c8 PA=7b79)
+* R b76c8e87
+PTE found (VA=b76c8e87 VPN=b76c8 PA=7e87)
+* R b76c88ba
+PTE found (VA=b76c88ba VPN=b76c8 PA=78ba)
+* W b76c8258
+PTE found (VA=b76c8258 VPN=b76c8 PA=7258)
+* W b76c82bb
+PTE found (VA=b76c82bb VPN=b76c8 PA=72bb)
+* W b76c8bd9
+PTE found (VA=b76c8bd9 VPN=b76c8 PA=7bd9)
+* W b76c8516
+PTE found (VA=b76c8516 VPN=b76c8 PA=7516)
+* W b76c8668
+PTE found (VA=b76c8668 VPN=b76c8 PA=7668)
+* R b76c8cc2
+PTE found (VA=b76c8cc2 VPN=b76c8 PA=7cc2)
+* R b76c81da
+PTE found (VA=b76c81da VPN=b76c8 PA=71da)
+* W b76c89e9
+PTE found (VA=b76c89e9 VPN=b76c8 PA=79e9)
+* W b76c8a01
+PTE found (VA=b76c8a01 VPN=b76c8 PA=7a01)
+* R b76c8d0f
+PTE found (VA=b76c8d0f VPN=b76c8 PA=7d0f)
+* W b76c8c7a
+PTE found (VA=b76c8c7a VPN=b76c8 PA=7c7a)
+* R b76c849a
+PTE found (VA=b76c849a VPN=b76c8 PA=749a)
+* W b76c8b96
+PTE found (VA=b76c8b96 VPN=b76c8 PA=7b96)
+* R b76c8bb2
+PTE found (VA=b76c8bb2 VPN=b76c8 PA=7bb2)
+* W b76c8d86
+PTE found (VA=b76c8d86 VPN=b76c8 PA=7d86)
+* R 5872202a
+***** Page fault! *****
+PTE found (VA=5872202a VPN=58722 PA=802a)
+* W 58722893
+PTE found (VA=58722893 VPN=58722 PA=8893)
+* W 58722265
+PTE found (VA=58722265 VPN=58722 PA=8265)
+* R 587223b8
+PTE found (VA=587223b8 VPN=58722 PA=83b8)
+* R 587222ac
+PTE found (VA=587222ac VPN=58722 PA=82ac)
+* W f4bfa163
+***** Page fault! *****
+PTE found (VA=f4bfa163 VPN=f4bfa PA=9163)
+* W f4bfa4f2
+PTE found (VA=f4bfa4f2 VPN=f4bfa PA=94f2)
+* R f4bfa734
+PTE found (VA=f4bfa734 VPN=f4bfa PA=9734)
+* W f4bfaca3
+PTE found (VA=f4bfaca3 VPN=f4bfa PA=9ca3)
+* W f4bfa709
+PTE found (VA=f4bfa709 VPN=f4bfa PA=9709)
+* W f4bfa709
+* R f4bfae6b
+PTE found (VA=f4bfae6b VPN=f4bfa PA=9e6b)
+* R f4bfadd9
+PTE found (VA=f4bfadd9 VPN=f4bfa PA=9dd9)
+* R f4bfa574
+PTE found (VA=f4bfa574 VPN=f4bfa PA=9574)
+* R f4bfab05
+PTE found (VA=f4bfab05 VPN=f4bfa PA=9b05)
+* W f4bfa2da
+PTE found (VA=f4bfa2da VPN=f4bfa PA=92da)
+* W f4bfaff7
+PTE found (VA=f4bfaff7 VPN=f4bfa PA=9ff7)
+* W f4bfad43
+PTE found (VA=f4bfad43 VPN=f4bfa PA=9d43)
+* R f4bfa494
+PTE found (VA=f4bfa494 VPN=f4bfa PA=9494)
+* W f4bfad51
+PTE found (VA=f4bfad51 VPN=f4bfa PA=9d51)
+* R f4bfacf3
+PTE found (VA=f4bfacf3 VPN=f4bfa PA=9cf3)
+* W f4bfa356
+PTE found (VA=f4bfa356 VPN=f4bfa PA=9356)
+* W 9abcb9e5
+***** Page fault! *****
+PTE found (VA=9abcb9e5 VPN=9abcb PA=a9e5)
+* W 9abcb35f
+PTE found (VA=9abcb35f VPN=9abcb PA=a35f)
+* R 9abcbc13
+PTE found (VA=9abcbc13 VPN=9abcb PA=ac13)
+* R 9abcb43c
+PTE found (VA=9abcb43c VPN=9abcb PA=a43c)
+* W 9abcbbd4
+PTE found (VA=9abcbbd4 VPN=9abcb PA=abd4)
+* R 9abcb0b1
+PTE found (VA=9abcb0b1 VPN=9abcb PA=a0b1)
+* W 9abcba81
+PTE found (VA=9abcba81 VPN=9abcb PA=aa81)
+* W 939cffd1
+***** Page fault! *****
+PTE found (VA=939cffd1 VPN=939cf PA=bfd1)
+* R 8443bb25
+***** Page fault! *****
+PTE found (VA=8443bb25 VPN=8443b PA=cb25)
+* R 8443b89b
+PTE found (VA=8443b89b VPN=8443b PA=c89b)
+* W 8443bb75
+PTE found (VA=8443bb75 VPN=8443b PA=cb75)
+* W 8443b9dc
+PTE found (VA=8443b9dc VPN=8443b PA=c9dc)
+* W 8443bb10
+PTE found (VA=8443bb10 VPN=8443b PA=cb10)
+* R 8443b7cc
+PTE found (VA=8443b7cc VPN=8443b PA=c7cc)
+* R 8443b771
+PTE found (VA=8443b771 VPN=8443b PA=c771)
+* W 8443b457
+PTE found (VA=8443b457 VPN=8443b PA=c457)
+* W 8443b9d5
+PTE found (VA=8443b9d5 VPN=8443b PA=c9d5)
+* W 8443b700
+PTE found (VA=8443b700 VPN=8443b PA=c700)
+* R 8443b0cf
+PTE found (VA=8443b0cf VPN=8443b PA=c0cf)
+* R 8443b2d3
+PTE found (VA=8443b2d3 VPN=8443b PA=c2d3)
+* R 8443b105
+PTE found (VA=8443b105 VPN=8443b PA=c105)
+* W 8443ba0c
+PTE found (VA=8443ba0c VPN=8443b PA=ca0c)
+* W 8443b053
+PTE found (VA=8443b053 VPN=8443b PA=c053)
+* W 30ab9119
+***** Page fault! *****
+PTE found (VA=30ab9119 VPN=30ab9 PA=d119)
+* R 30ab92d3
+PTE found (VA=30ab92d3 VPN=30ab9 PA=d2d3)
+* W 30ab93d5
+PTE found (VA=30ab93d5 VPN=30ab9 PA=d3d5)
+* W 30ab989b
+PTE found (VA=30ab989b VPN=30ab9 PA=d89b)
+* R 30ab9ab2
+PTE found (VA=30ab9ab2 VPN=30ab9 PA=dab2)
