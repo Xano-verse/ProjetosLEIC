@@ -1,0 +1,7 @@
+Teste Prático MAP15
+
+[Lab 2] Em write backs de L1 para L2 atualizar o access time da entrada
+
+[Lab 3] Na 2.4. a) fazer loop unrolling para fator de 2 em vez de fator de 4
+
+
