@@ -21,4 +21,11 @@
 ## 3º ano
 - Aprendizagem - Python
 - Organização de Computadores - C e Assembly RISC-V 32-bits
+- Análise e Modelação de Sistemas
+- Redes de Computadores
+
+- Engenharia de Software
+- Sistemas Distribuídos
+- Compiladores
+- Computação Gráfica
 
