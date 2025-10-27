@@ -19,3 +19,6 @@
 - Inteligência Artificial - Python
 
 ## 3º ano
+- Aprendizagem - Python
+- Organização de Computadores - C e Assembly RISC-V 32-bits
+
