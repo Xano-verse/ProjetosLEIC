@@ -19,10 +19,10 @@
 - Inteligência Artificial - Python
 
 ## 3º ano
-- Aprendizagem - Python
+- Aprendizagem - Python (scikit-learn) 
 - Organização de Computadores - C e Assembly RISC-V 32-bits
-- Análise e Modelação de Sistemas
-- Redes de Computadores
+- Análise e Modelação de Sistemas - ArchiMate, BPMN, 
+- Redes de Computadores - C++
 
 - Engenharia de Software
 - Sistemas Distribuídos
