@@ -11,7 +11,7 @@
 - Probabilidade e Estatística - R
 
 - Programação com Objectos - Java
-- Análise e Síntese de Algoritmos - C++
+- Análise e Síntese de Algoritmos - C++ e Python
 - Sistemas Operativos - C
 
 - Interação Pessoa Máquina - Figma e Javascript p5.js library
