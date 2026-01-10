@@ -21,7 +21,7 @@
 ## 3º ano
 - Aprendizagem - Python (scikit-learn) 
 - Organização de Computadores - C e Assembly RISC-V 32-bits
-- Análise e Modelação de Sistemas - ArchiMate, BPMN, 
+- Análise e Modelação de Sistemas - ArchiMate, BPMN, UML, SysML, etc
 - Redes de Computadores - C++
 
 - Engenharia de Software
