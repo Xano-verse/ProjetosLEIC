@@ -27,5 +27,5 @@
 - Engenharia de Software - Java SpringBoot + Vue.js
 - Sistemas Distribuídos - Java
 - Compiladores - C++, Flex, Bison
-- Computação Gráfica - Javscript three.js
+- Computação Gráfica - Javscript three.js library
 
