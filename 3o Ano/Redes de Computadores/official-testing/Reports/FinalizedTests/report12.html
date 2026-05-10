@@ -1,0 +1,288 @@
+<pre><center><font size="10" color="blue"> --------- TEST RESULTS --------- </font></center><br><br><center><font size="5" color="blue"> SCRIPT: 12 (request from 109.49.156.74) </font></center><br><br>Report finalization date: Fri, 19 Dec 2025 19:43:13 GMT<br><br><br><br><center><font size="5" color="blue"> ============= USER REPORT ============ </font></center><br><br><br>------------------------------------------------------------
+Target server addr: 193.136.128.104 and port: 58059
+------------------------------------------------------------
+Working dir 1633349/ created
+
+Command file: script_12.txt
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > login 111111 abcdefgh
+
+Login successful (RLI OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [111111]> myreservations
+
+List of reservations by user 111111 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    001       25           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [111111]> reserve 001 25
+
+Successful reservation. (RRI ACC)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [111111]> myreservations
+
+List of reservations by user 111111 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    001       25           19-12-2025 19:43:13
+ 2:    001       25           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [111111]> logout
+
+Logout user 111111 successful (RLO OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > list
+
+
+      Event list follows: (RLS OK)
+
+   EID      name         event date        state
+
+   005   GRC2026      17-08-2026 10:00    1: Accepting reservations
+   004   IENE2026     21-09-2026 10:30    2: To happen - sold out
+   003   EmergMedic   27-04-2026 09:30    2: To happen - sold out
+   002   BlackSeaGr   22-04-2026 09:00    1: Accepting reservations
+   001   RClesson     01-12-2026 12:00    2: To happen - sold out
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > login 222222 hgfedcba
+
+Login successful (RLI OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [222222]> myreservations
+
+List of reservations by user 222222 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    002       50           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [222222]> reserve 002 25
+
+Successful reservation. (RRI ACC)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [222222]> myreservations
+
+List of reservations by user 222222 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    002       25           19-12-2025 19:43:13
+ 2:    002       50           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [222222]> logout
+
+Logout user 222222 successful (RLO OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > list
+
+
+      Event list follows: (RLS OK)
+
+   EID      name         event date        state
+
+   005   GRC2026      17-08-2026 10:00    1: Accepting reservations
+   004   IENE2026     21-09-2026 10:30    2: To happen - sold out
+   003   EmergMedic   27-04-2026 09:30    2: To happen - sold out
+   002   BlackSeaGr   22-04-2026 09:00    2: To happen - sold out
+   001   RClesson     01-12-2026 12:00    2: To happen - sold out
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > login 333333 abcdabcd
+
+Login successful (RLI OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [333333]> myreservations
+
+List of reservations by user 333333 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    003      100           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [333333]> reserve 003 100
+
+Event sold out (RRI SLD)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [333333]> myreservations
+
+List of reservations by user 333333 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    003      100           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [333333]> logout
+
+Logout user 333333 successful (RLO OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > list
+
+
+      Event list follows: (RLS OK)
+
+   EID      name         event date        state
+
+   005   GRC2026      17-08-2026 10:00    1: Accepting reservations
+   004   IENE2026     21-09-2026 10:30    2: To happen - sold out
+   003   EmergMedic   27-04-2026 09:30    2: To happen - sold out
+   002   BlackSeaGr   22-04-2026 09:00    2: To happen - sold out
+   001   RClesson     01-12-2026 12:00    2: To happen - sold out
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > login 444444 dcbaabcd
+
+Login successful (RLI OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [444444]> myreservations
+
+List of reservations by user 444444 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    004       50           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [444444]> reserve 004 50
+
+Event sold out (RRI SLD)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [444444]> myreservations
+
+List of reservations by user 444444 (RMR OK):
+
+      Event   My seats         Reservation date
+
+ 1:    004       50           19-12-2025 19:43:12
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User [444444]> logout
+
+Logout user 444444 successful (RLO OK)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > list
+
+
+      Event list follows: (RLS OK)
+
+   EID      name         event date        state
+
+   005   GRC2026      17-08-2026 10:00    1: Accepting reservations
+   004   IENE2026     21-09-2026 10:30    2: To happen - sold out
+   003   EmergMedic   27-04-2026 09:30    2: To happen - sold out
+   002   BlackSeaGr   22-04-2026 09:00    2: To happen - sold out
+   001   RClesson     01-12-2026 12:00    2: To happen - sold out
+
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > show 001
+
+
+   Event data: 
+
+   Created by user 123456
+   Name: RClesson  
+   To be held on: 01-12-2026 12:00
+   Max seats: 200
+   Reserved seats: 200
+   Description file: SMTP_commands.txt
+
+
+Description file: SMTP_commands.txt follows (RSE OK), announced size: 43
+Saved to: 1633349/SMTP_commands.txt
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > show 002
+
+
+   Event data: 
+
+   Created by user 123456
+   Name: BlackSeaGr
+   To be held on: 22-04-2026 09:00
+   Max seats: 200
+   Reserved seats: 200
+   Description file: blackseagrain.png
+
+
+Description file: blackseagrain.png follows (RSE OK), announced size: 192833
+Saved to: 1633349/blackseagrain.png
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > show 003
+
+
+   Event data: 
+
+   Created by user 123456
+   Name: EmergMedic
+   To be held on: 27-04-2026 09:30
+   Max seats: 200
+   Reserved seats: 200
+   Description file: Emergency_Medicine.png
+
+
+Description file: Emergency_Medicine.png follows (RSE OK), announced size: 208676
+Saved to: 1633349/Emergency_Medicine.png
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > show 004
+
+
+   Event data: 
+
+   Created by user 123456
+   Name: IENE2026  
+   To be held on: 21-09-2026 10:30
+   Max seats: 200
+   Reserved seats: 200
+   Description file: IENE_2026.png
+
+
+Description file: IENE_2026.png follows (RSE OK), announced size: 96847
+Saved to: 1633349/IENE_2026.png
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > show 007
+
+Format error reported by server (RSE ERR)
+========== ========== ========== ========== ========== ========== ==========
+at Fri, 19 Dec 2025 19:43:13 GMT
+User > exit
+
+===== ========== ========== ==========END========== ========== ========== =====
+</pre><br><br>

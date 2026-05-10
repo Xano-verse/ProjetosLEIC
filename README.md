@@ -24,8 +24,8 @@
 - Análise e Modelação de Sistemas - ArchiMate, BPMN, UML, SysML, etc
 - Redes de Computadores - C++
 
-- Engenharia de Software
-- Sistemas Distribuídos
-- Compiladores
-- Computação Gráfica
+- Engenharia de Software - Java SpringBoot + Vue.js
+- Sistemas Distribuídos - Java
+- Compiladores - C++, Flex, Bison
+- Computação Gráfica - Javscript three.js
 
