@@ -28,4 +28,4 @@
 - Sistemas Distribuídos - Java
 - Compiladores - C++, Flex, Bison
 - Computação Gráfica - Javscript three.js library
-
+- Projeto Integrador de Curso - Contributed to mpv video player (C, Lua)
