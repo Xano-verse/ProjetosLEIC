@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+:root {
+    --stats-scale: 1;
+}
+
+/* Escala o painel de FPS (Stats) */
+#stats {
+    transform: scale(var(--stats-scale));
+    transform-origin: top left;
+}
+
+/* Escala o painel de controlo (lil-gui) */
+.lil-gui {
+    --width: clamp(240px, 20vmin, 380px) !important;
+    font-size: clamp(12px, 1.1vmin, 18px) !important;
+}
+
+.lil-gui.root {
+    right: 2vw !important;
+    top: 2vh !important;
+}
+
+
+
